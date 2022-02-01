@@ -6,10 +6,10 @@
 
 
 
-Membro | Github
----------------
-Ana Carolina | AnaCarolinaRodriguesLeite
-Daniel Vinicius Ribeiro Alves | DanielViniciusAlves
-Erick Melo Vidal de Oliveira | ErickMVdO
-Gustave Augusto Persijn | gpersijn
-Ricardo de Castro Loureiro | castroricardo1
+|  Membro | Github  |
+| ------- |-------- |
+| Ana Carolina  | AnaCarolinaRodriguesLeite |
+| Daniel Vinicius Ribeiro Alves | DanielViniciusAlves |
+| Erick Melo Vidal de Oliveira  |  ErickMVdO  |
+| Gustave Augusto Persijn | gpersijn  |
+| Ricardo de Castro Loureiro  | castroricardo1  |
