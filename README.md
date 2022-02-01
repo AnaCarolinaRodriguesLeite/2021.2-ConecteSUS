@@ -8,7 +8,7 @@
 
 |  Membro | Github  |
 | ------- |-------- |
-| Ana Carolina  | AnaCarolinaRodriguesLeite |
+| Ana Carolina  | [!AnaCarolinaRodriguesLeite] |
 | Daniel Vinicius Ribeiro Alves | DanielViniciusAlves |
 | Erick Melo Vidal de Oliveira  |  ErickMVdO  |
 | Gustave Augusto Persijn | gpersijn  |
