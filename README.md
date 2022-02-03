@@ -18,4 +18,5 @@ Daniel Vinicius Ribeiro Alves | DanielViniciusAlves |
 | Ricardo de Castro Loureiro  | castroricardo1  |
 [@durvalcarvalho](https://github.com/durvalcarvalho nome com link
 
-![Design sem nome](https://user-images.githubusercontent.com/49570180/152338124-3ba574ff-507c-4ce9-9f44-f79b624d81d5.png)
+
+![Design sem nome (1)](https://user-images.githubusercontent.com/49570180/152338431-e9e869ea-f016-4f4d-af8e-bb7641d87578.png)
