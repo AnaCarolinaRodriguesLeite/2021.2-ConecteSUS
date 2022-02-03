@@ -9,9 +9,10 @@ Repositório reservado à disciplina de Requisitos de Software da Universidade d
 
 |  Membro | Github  |
 | ------- |-------- |
-| [fotoefeitos.com__final_1633506032347189120_.pdf](https://github.com/Requisitos-de-Software/2021.2-Grupo01/files/7994141/fotoefeitos.com__final_1633506032347189120_.pdf)
+| 
 Ana Carolina  | @AnaCarolinaRodriguesLeite |
-| Daniel Vinicius Ribeiro Alves | DanielViniciusAlves |
+| ![image](https://user-images.githubusercontent.com/49570180/152336409-01dd572d-b70c-4bd1-a46c-5f1bf205bb50.png)
+Daniel Vinicius Ribeiro Alves | DanielViniciusAlves |
 | Erick Melo Vidal de Oliveira  |  ErickMVdO  |
 | ![cortado-gustave](https://user-images.githubusercontent.com/49570180/152335728-ab39daa8-3c29-4f50-9e0d-4fdf184977be.jpg) | Gustave Augusto Persijn[gpersijn]  |
 | Ricardo de Castro Loureiro  | castroricardo1  |
