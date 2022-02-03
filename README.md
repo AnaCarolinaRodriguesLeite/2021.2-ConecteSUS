@@ -13,7 +13,7 @@ Repositório reservado à disciplina de Requisitos de Software da Universidade d
 O Conecte SUS Cidadão é o aplicativo oficial do Ministério da Saúde, o acesso aos serviços do Sistema Único de Saúde (SUS) de forma digital, permitindo ao cidadão acompanhar na palma de sua mão o seu histórico clínico, mostrando as informações gerais do cidadão, como: a carteira de vacinação digital, o certificado nacional de vacinação COVID-19, os resultados de exames laboratoriais de COVID-19, os medicamentos dispensados pelo programa "Farmácia Popular", além dos registros de doações de sangue e acompanhamento da posição na fila de transplantes.
 
 
-## 3.Equipe
+## 3. Equipe
 
 |  Membro | Github  |
 | ------- |-------- |
