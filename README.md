@@ -9,8 +9,9 @@ Repositório reservado à disciplina de Requisitos de Software da Universidade d
 
 |  Membro | Github  |
 | ------- |-------- |
-| Ana Carolina  | AnaCarolinaRodriguesLeite |
+| Ana Carolina  | @AnaCarolinaRodriguesLeite |
 | Daniel Vinicius Ribeiro Alves | DanielViniciusAlves |
 | Erick Melo Vidal de Oliveira  |  ErickMVdO  |
-| Gustave Augusto Persijn | gpersijn  |
+| ![gustave](https://user-images.githubusercontent.com/49570180/152335322-1e8a1c8a-c046-4126-bce3-24efcb3470ea.jpg) | Gustave Augusto Persijn[gpersijn]  |
 | Ricardo de Castro Loureiro  | castroricardo1  |
+
