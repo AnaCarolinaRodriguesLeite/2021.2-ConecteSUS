@@ -6,12 +6,12 @@ Repositório reservado à disciplina de Requisitos de Software da Universidade d
 ## 2. Sobre o app
 
 
+## 3. Equipe
 
-|  Membro | Github  |
+| Membro | Nome |
 | ------- |-------- |
-| Ana Carolina  | @AnaCarolinaRodriguesLeite |
-| ![image](https://user-images.githubusercontent.com/49570180/152339574-4089822b-a785-44d1-9169-5820cfad3ba7.png)
- |[Daniel Vinicius](https://github.com/DanielViniciusAlves) |
-| Erick Melo Vidal de Oliveira  |  ErickMVdO  |
-|  | Gustave Augusto Persijn[gpersijn]  |
-|  | Ricardo de Castro Loureiro  | [Ricardo Loureiro](https://github.com/castroricardo1) |
+| <img src="https://avatars.githubusercontent.com/u/49570180?v=4" width="80" title="Ana Carolina"> | [Ana Carolina Rodrigues Leite](https://github.com/AnaCarolinaRodriguesLeite) |
+| <img src="https://avatars.githubusercontent.com/u/52768341?v=4" width="80" title="Daniel Vinicius"> | [Daniel Vinicius Ribeiro Alves](https://github.com/DanielViniciusAlves) |
+| <img src="https://avatars.githubusercontent.com/u/48844857?v=4" width="80" title="Erick Melo"> | [Erick Melo Vidal de Oliveira](https://github.com/ErickMVdO)  |
+| <img src="https://avatars.githubusercontent.com/u/56366957?v=4" width="80" title="Gustave Augusto"> | [Gustave Augusto Persijn](https://github.com/gpersijn)  |
+| <img src="https://avatars.githubusercontent.com/u/83254747?v=4" width="80" title="Ricardo Loureiro"> | [Ricardo de Castro Loureiro](https://github.com/castroricardo1) |
