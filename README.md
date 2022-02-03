@@ -1,16 +1,16 @@
-# 2021.2-Grupo01
+# 2021.2 - ConectaSUS
 
 ## 1. Sobre o projeto
-Repositório reservado à disciplina de Requisitos de Software da Universidade de Brasília sobre a requisitos do aplicativo (escolher). Ele retém o armazenamento e a apresentação de artefatos e processos desenvolvidos na disciplina.
+Repositório reservado à disciplina de Requisitos de Software da Universidade de Brasília sobre os requisitos do aplicativo ConectaSUS. Ele retém o armazenamento e a apresentação de artefatos e processos desenvolvidos na disciplina.
 
 ## 2. Sobre o app
-
+O Conecte SUS Cidadão é o aplicativo oficial do Ministério da Saúde, o acesso aos serviços do Sistema Único de Saúde (SUS) de forma digital, permitindo ao cidadão acompanhar na palma de sua mão o seu histórico clínico, mostrando as informações gerais do cidadão, como: a carteira de vacinação digital, o certificado nacional de vacinação COVID-19, os resultados de exames laboratoriais de COVID-19, os medicamentos dispensados pelo programa "Farmácia Popular", além dos registros de doações de sangue e acompanhamento da posição na fila de transplantes.
 
 
 |  Membro | Github  |
 | ------- |-------- |
-| ![image](https://user-images.githubusercontent.com/49570180/152339710-a2b47bf0-c5e6-4008-ab11-274d2d859492.png)  | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
-| ![image](https://user-images.githubusercontent.com/49570180/152339574-4089822b-a785-44d1-9169-5820cfad3ba7.png)  |  [Daniel Vinicius](https://github.com/DanielViniciusAlves) |
-| Erick Melo Vidal de Oliveira  |  [Erick Melo](https://github.com/ErickMVdO) |
-|  Gustave Augusto Persijn  | [Gustave Augusto](https://github.com/gpersijn)  |
-| Ricardo de Castro Loureiro  | [Ricardo Loureiro](https://github.com/castroricardo1) |
+| <img src="https://avatars.githubusercontent.com/u/49570180?v=4" width="80" title="Ana Carolina"> | [Ana Carolina Rodrigues Leite](https://github.com/AnaCarolinaRodriguesLeite) |
+| <img src="https://avatars.githubusercontent.com/u/52768341?v=4" width="80" title="Daniel Vinicius"> | [Daniel Vinicius Ribeiro Alves](https://github.com/DanielViniciusAlves) |
+| <img src="https://avatars.githubusercontent.com/u/48844857?v=4" width="80" title="Erick Melo"> | [Erick Melo Vidal de Oliveira](https://github.com/ErickMVdO)  |
+| <img src="https://avatars.githubusercontent.com/u/56366957?v=4" width="80" title="Gustave Augusto"> | [Gustave Augusto Persijn](https://github.com/gpersijn)  |
+| <img src="https://avatars.githubusercontent.com/u/83254747?v=4" width="80" title="Ricardo Loureiro"> | [Ricardo de Castro Loureiro](https://github.com/castroricardo1) |
