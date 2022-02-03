@@ -16,3 +16,6 @@ Daniel Vinicius Ribeiro Alves | DanielViniciusAlves |
 | Erick Melo Vidal de Oliveira  |  ErickMVdO  |
 | ![cortado-gustave](https://user-images.githubusercontent.com/49570180/152335728-ab39daa8-3c29-4f50-9e0d-4fdf184977be.jpg) | Gustave Augusto Persijn[gpersijn]  |
 | Ricardo de Castro Loureiro  | castroricardo1  |
+[@durvalcarvalho](https://github.com/durvalcarvalho nome com link
+
+![Design sem nome](https://user-images.githubusercontent.com/49570180/152338124-3ba574ff-507c-4ce9-9f44-f79b624d81d5.png)
