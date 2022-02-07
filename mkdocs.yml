@@ -1,0 +1,30 @@
+site_name: ConectaSUS
+
+repo_name: '2021.2-ConectaSUS'
+repo_url: 'https://github.com/Requisitos-de-Software/2021.2-ConectaSUS'
+
+theme:
+  name: material
+  language: 'pt'
+  logo: 'assets/favicon.ico'
+  favicon: 'assets/favicon.ico'
+  palette:
+    primary: '#fff'
+    accent: 'light blue'
+  font:
+    text: 'Montserrat'
+    code: 'sans-serif'
+
+extra_css:
+  - stylesheets/styles.css
+
+nav:
+  - Início: index.md
+  - Planejamento:
+      - Cronograma: planejamento/cronograma.md
+      - Ferramentas: planejamento/ferramentas.md
+ 
+  - Apresentações:
+      - Apresentação 1: apresentacoes/apresentacao1.md
+
+dev_addr: '0.0.0.0:8000'
