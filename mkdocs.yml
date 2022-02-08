@@ -20,7 +20,9 @@ nav:
   - Planejamento:
       - Cronograma: Planejamento/Cronograma.md
       - Ferramentas: Planejamento/Ferramentas.md
- 
+      - Metodologia: Planejamento/Metodologia.md
+  - Pré-Rastreabilidade:
+      - Rich Picture: Pre_rastreabilidade\RichPicture.md
   - Apresentações:
       - Apresentação 1: Apresentacao/Apresentacao 1.md
 
