@@ -12,5 +12,16 @@ theme:
   font:
     text: 'Montserrat'
     code: 'sans-serif'
+  logo: 'assets/sus.png'
+  favicon: 'assets/favicon.ico'
+
+nav:
+  - Início: index.md
+  - Planejamento:
+      - Cronograma: Planejamento/Cronograma.md
+      - Ferramentas: Planejamento/Ferramentas.md
+ 
+  - Apresentações:
+      - Apresentação 1: Apresentacao/Apresentacao 1.md
 
 
