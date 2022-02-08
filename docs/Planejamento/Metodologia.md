@@ -28,7 +28,7 @@
 
 <center>
 
-![Ciclo de release da XP](../assets/release-xp.png)
+![ciclo_de_vida_XP](https://user-images.githubusercontent.com/49570180/152994415-c9265c11-c7d7-49ca-9bc5-62422dd20ddc.png)
 
 <figcaption>Imagem 1: Ciclo de release da XP.</figcaption>
 
@@ -43,7 +43,7 @@
 
 <center>
 
-![Ciclo de sprint do Scrum](../assets/sprint-scrum.png)
+![scrum](https://user-images.githubusercontent.com/49570180/152995506-4d54c8a7-bf17-4d7b-84da-f388dd922200.png)
 
 <figcaption>Imagem 2: Ciclo de sprint do Scrum.</figcaption>
 
@@ -59,8 +59,8 @@
 
 
 <center>
-
-![Exemplo de quadro Kanban](../assets/kanban-example.png)
+ 
+![kanbam](https://user-images.githubusercontent.com/49570180/152995674-42fbcb34-85f2-408a-a62d-125d0e086531.jpg)
 
 <figcaption>Imagem 3: Exemplo de quadro Kanban.</figcaption>
 
@@ -70,4 +70,5 @@
 
 | Versão | Data       | Descrição                                 | Autor        |
 | ------ | ---------- | ----------------------------------------- | ------------ |
-| 0.1    | 08/02/2022 | Criação da primeira versão metodologia                   | Ana Carolina      |
+| 0.1    | 08/02/2022 | Criação da primeira versão metodologia    | Ana Carolina |
+| 0.2    | 08/02/2022 | Correção das imagens                      | Ana Carolina |
