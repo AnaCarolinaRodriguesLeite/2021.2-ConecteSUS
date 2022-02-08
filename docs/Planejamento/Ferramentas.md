@@ -6,7 +6,7 @@
 
 | | Ferramenta | Finalidade |
 | :------: | :----------: | :---------------------------------------------------: |
-| ![office](docs/ferramentas/office.png) | Office | Criação de documentos e planilhas |
+| (![office](https://user-images.githubusercontent.com/49570180/152992112-8682cb66-889d-4308-8aa2-0a2bd4916dc4.png) | Office | Criação de documentos e planilhas |
 | ![drawing](../docs/ferramentas/discord.png) | Discord | Reunião da equipe para elaboração das atividades |
 | ![drawing](../docs/ferramentas/git.png) | Github | Hospedagem do repositório para o projeto |
 | ![drawing](../docs/ferramentas/teams.png) | Microsoft Teams | Reunião da equipe para gravar as apresentações |
@@ -21,3 +21,4 @@
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 07/02/2022 | Criação da página de ferramentas | Ana Carolina |
+| 0.2    | 08/02/2022 | Correção das figuras | Ana Carolina |
