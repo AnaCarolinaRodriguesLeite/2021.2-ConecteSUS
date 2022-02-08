@@ -6,7 +6,7 @@
 
 | | Ferramenta | Finalidade |
 | :------: | :----------: | :---------------------------------------------------: |
-| ![drawing](../docs/ferramentas/office.png) | Office | Criação de documentos e planilhas |
+| ![office](docs/ferramentas/office.png) | Office | Criação de documentos e planilhas |
 | ![drawing](../docs/ferramentas/discord.png) | Discord | Reunião da equipe para elaboração das atividades |
 | ![drawing](../docs/ferramentas/git.png) | Github | Hospedagem do repositório para o projeto |
 | ![drawing](../docs/ferramentas/teams.png) | Microsoft Teams | Reunião da equipe para gravar as apresentações |
