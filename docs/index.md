@@ -1,8 +1,9 @@
 # Início
 
-<center>
-![](/assets/sus.png)
-</center>
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/49570180/152342175-84f56765-ec70-47c2-a16a-437b8a9f3ae8.png">
+</p>
+
 
 ## 1.Sobre o projeto
 <p align="justify">
