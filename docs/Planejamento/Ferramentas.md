@@ -7,7 +7,7 @@
 | | Ferramenta | Finalidade |
 | :------: | :----------: | :---------------------------------------------------: |
 | (![office](https://user-images.githubusercontent.com/49570180/152992112-8682cb66-889d-4308-8aa2-0a2bd4916dc4.png) | Office | Criação de documentos e planilhas |
-| ![drawing](../docs/ferramentas/discord.png) | Discord | Reunião da equipe para elaboração das atividades |
+| ![drawing](../docs/discord.png) | Discord | Reunião da equipe para elaboração das atividades |
 | ![drawing](../docs/ferramentas/git.png) | Github | Hospedagem do repositório para o projeto |
 | ![drawing](../docs/ferramentas/teams.png) | Microsoft Teams | Reunião da equipe para gravar as apresentações |
 | ![drawing](../docs/ferramentas/whatsapp.png) | WhatsApp | Utilização de grupo para conumicação entre os integrantes da equipe |
