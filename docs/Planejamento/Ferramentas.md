@@ -6,14 +6,14 @@
 
 | | Ferramenta | Finalidade |
 | :------: | :----------: | :---------------------------------------------------: |
-| ![drawing](../assets/ferramentas/google_workspaces.png) | Google Workspace | Criação do questionário e planilhas |
-| ![drawing](../assets/ferramentas/discord.png) | Discord | Reunião da equipe para elaboração das atividades |
-| ![drawing](../assets/ferramentas/github.png) | Github | Hospedagem do repositório para o projeto |
-| ![drawing](../assets/ferramentas/teams.png) | Microsoft Teams | Reunião da equipe para gravar as apresentações |
-| ![drawing](../assets/ferramentas/whatsapp.png) | WhatsApp | Utilização de grupo para conumicação entre os integrantes da equipe |
-| ![drawing](../assets/ferramentas/figma.svg) | Figma | Utilizado para elaboração dos Rich Pictures |
-| ![drawing](../assets/ferramentas/canva.png) | Canva | Elaboração das apresentações |
-| ![drawing](../assets/ferramentas/miro.svg) | Miro | Elaboração das atividades em equipe |
+| ![drawing](../docs/ferramentas/office.png) | Office | Criação de documentos e planilhas |
+| ![drawing](../docs/ferramentas/discord.png) | Discord | Reunião da equipe para elaboração das atividades |
+| ![drawing](../docs/ferramentas/git.png) | Github | Hospedagem do repositório para o projeto |
+| ![drawing](../docs/ferramentas/teams.png) | Microsoft Teams | Reunião da equipe para gravar as apresentações |
+| ![drawing](../docs/ferramentas/whatsapp.png) | WhatsApp | Utilização de grupo para conumicação entre os integrantes da equipe |
+| ![drawing](../docs/ferramentas/Flaction.svg) | Flaction | Imagens do richpicture |
+| ![drawing](../docs/ferramentas/canva.png) | Canva | Elaboração das apresentações |
+| ![drawing](../docs/ferramentas/miro.png) | Miro | Utilizado para elaboração dos Rich Pictures |
 
 
 ## 2. Histórico de versão
