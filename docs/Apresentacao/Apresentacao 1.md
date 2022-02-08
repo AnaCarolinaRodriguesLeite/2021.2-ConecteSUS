@@ -11,7 +11,14 @@
 
 ## 2. Slides
 
-<iframe loading="lazy" style="width: 100%; height: 25.8rem; border: 1px solid #4051B5; padding: 0; margin: 0;" src="https://www.canva.com/design/DAE3KFJUn4w/BN8DZTiU3Pzsj3Tnrqo2nQ/view?utm_content=DAE3KFJUn4w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> </iframe>
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE3KFJUn4w&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE3KFJUn4w&#x2F;view?utm_content=DAE3KFJUn4w&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">ConectaSUS</a> de Erick Melo
 
 ## 3. Histórico de versão
 
@@ -19,4 +26,4 @@
 | ------ | ---------- | ------------------------------- | -------------------- |
 | 0.1    | 07/02/2022 | Gravação da apresentação        | Todos os integrantes |
 | 0.2    | 08/02/2022 | Adição do vídeo no documento    | Ana Carolina e Ricardo Loureiro         |
-| 0.3    | 08/02/2022 | Adição dos Slides               | Ana Carolina         |
+| 0.3    | 08/02/2022 | Adição dos Slides               | Ana Carolina e Ricardo Loureiro        |
