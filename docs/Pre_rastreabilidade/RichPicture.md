@@ -10,7 +10,7 @@
 
 <center>
 
-![RichPicture](../docs/Planejamento/RichPicture01.jpg)
+![RichPicture01](https://user-images.githubusercontent.com/49570180/152996404-e6cc262b-1394-4022-8e2f-5dd5f45c558a.jpg)
 
 <figcaption>Imagem 1: Rich Picture versão 0.1.</figcaption>
 
@@ -20,7 +20,7 @@
 
 <center>
 
-![RichPicture](../docs/Planejamento/RichPicture.jpg)
+![RichPicture](https://user-images.githubusercontent.com/49570180/152996442-27924190-47ff-44bf-83af-3243f01ab24a.jpg)
 
 <figcaption>Imagem 1: Rich Picture versão 1.</figcaption>
 
@@ -32,7 +32,7 @@
 
 <center>
 
-![caption](../docs/Planejamento/Legenda.jpg)
+![Legenda](https://user-images.githubusercontent.com/49570180/152996472-e7bf8c13-5a4b-4f5f-9730-27aef65e61cc.jpg)
 
 <figcaption>Imagem 2: Legenda do Rich Picture versão 1.</figcaption>
 
@@ -53,3 +53,4 @@
 | 0.1    | 08/02/2022 | Criação do Rich Picture Versão 0.1   | Ana Carolina |
 | 0.2    | 08/02/2022 | Criação do Rich Picture Versão 1   | Gustave, Erick |
 | 0.3    | 08/02/2022 | Introdução e Referências,legenda  | Ana Carolina |
+| 0.4    | 08/02/2022 | Correção das imagens  | Ana Carolina |
