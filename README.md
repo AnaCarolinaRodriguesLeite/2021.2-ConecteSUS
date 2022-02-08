@@ -31,9 +31,9 @@
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/49570180?v=4" width="100px;" alt="Ana Carolina"/><br>
+        <img src="https://avatars.githubusercontent.com/u/49570180?v=4" width="100px;" alt="[Ana Carolina Rodrigues Leite](https://github.com/AnaCarolinaRodriguesLeite)"/><br>
         <sub>
-          <b> [Ana Carolina Rodrigues Leite](https://github.com/AnaCarolinaRodriguesLeite) </b>
+          <b> Ana Carolina Rodrigues </b>
         </sub>
       </a>
     </td> 
