@@ -42,6 +42,6 @@
 
 ## 3. Histórico de versão
 
-| Versão | Data       | Descrição                                           | Autor        |
-| ------ | ---------- | --------------------------------------------------- | ------------ |
-| 0.1    | 07/02/2022 | Criação do documento | Ana Carolina e Ricardo Loureiro |
+| Versão | Data       | Descrição                                           | Autor        | Revisor        |
+| ------ | ---------- | --------------------------------------------------- | ------------ | ------------ |
+| 0.1    | 07/02/2022 | Criação do documento | Ana Carolina e Ricardo Loureiro | Daniel Vinicius | 
