@@ -50,7 +50,7 @@
 
 | Versão | Data       | Descrição                          | Autor                | Revisor                |
 | ------ | ---------- | ---------------------------------- | -------------------- | -------------------- |
-| 0.1    | 08/02/2022 | Criação do Rich Picture Versão 0.1   | Ana Carolina | Gustave |
+| 0.1    | 08/02/2022 | Criação do Rich Picture Versão 0.1   | Ana Carolina | Gustave Augusto|
 | 0.2    | 08/02/2022 | Criação do Rich Picture Versão 1   | Gustave, Erick | Ricardo Loureiro |
-| 0.3    | 08/02/2022 | Introdução e Referências,legenda  | Ana Carolina e Ricardo Loureiro | Gustave |
-| 0.4    | 08/02/2022 | Correção das imagens  | Ana Carolina e Ricardo Loureiro| Gustave |
+| 0.3    | 08/02/2022 | Introdução e Referências,legenda  | Ana Carolina e Ricardo Loureiro | Gustave Augusto|
+| 0.4    | 08/02/2022 | Correção das imagens  | Ana Carolina e Ricardo Loureiro| Gustave Augusto|
