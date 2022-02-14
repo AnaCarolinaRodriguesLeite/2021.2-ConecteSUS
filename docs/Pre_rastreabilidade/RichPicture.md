@@ -48,9 +48,9 @@
 
 ## 4. Histórico de versão
 
-| Versão | Data       | Descrição                          | Autor                |
-| ------ | ---------- | ---------------------------------- | -------------------- |
-| 0.1    | 08/02/2022 | Criação do Rich Picture Versão 0.1   | Ana Carolina |
-| 0.2    | 08/02/2022 | Criação do Rich Picture Versão 1   | Gustave, Erick |
-| 0.3    | 08/02/2022 | Introdução e Referências,legenda  | Ana Carolina |
-| 0.4    | 08/02/2022 | Correção das imagens  | Ana Carolina |
+| Versão | Data       | Descrição                          | Autor                | Revisor                |
+| ------ | ---------- | ---------------------------------- | -------------------- | -------------------- |
+| 0.1    | 08/02/2022 | Criação do Rich Picture Versão 0.1   | Ana Carolina |  Erick Melo |
+| 0.2    | 08/02/2022 | Criação do Rich Picture Versão 1   | Gustave, Erick | Ana Carolina |
+| 0.3    | 08/02/2022 | Introdução e Referências,legenda  | Ana Carolina | Erick Melo|
+| 0.4    | 08/02/2022 | Correção das imagens  | Ana Carolina | Erick Melo |
