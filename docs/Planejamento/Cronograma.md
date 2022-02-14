@@ -22,8 +22,26 @@
 
 </center>
 
-## 4. Histórico de versão
+### 2.1 Cronograma especifíco 
+
+<center>
+
+| Tema                               | Data de entrega | Responsáveis  | Revisores               |
+|------------------------------------|-----------------|---------------|-------------------------|
+| I. Pré-Rastreabilidade             | 06/02           | Ricardo e Ana | Daniel, Gustave e Erick |
+| II. Elicitação de Requisitos       | 20/02           | -             | -                       |
+| III. Modelagem de Requisitos       | 06/03           | -             | -                       |
+| IV. Modelagem de Requisitos - Ágil | 09/03           | -             | -                       |
+| V. Análise de Requisitos           | 22/03           | -             | -                       |
+| VI. Pós-Rastreabilidade            | 04/04           | -             | -                       |
+| VII. Apresentação Final            | 24/04           | -             | -                       |
+
+<figcaption>Tabela 2: Tabela específica contendo data de entrega, responsáveis e revisores.</figcaption>
+
+</center>
+
+## 3. Histórico de versão
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
-| 0.1    | 07/02/2022 | Criação do documento | Ana Carolina |
+| 0.1    | 07/02/2022 | Criação do documento | Ana Carolina e Ricardo Loureiro |
