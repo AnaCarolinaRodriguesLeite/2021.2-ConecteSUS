@@ -70,5 +70,5 @@
 
 | Versão | Data       | Descrição                                 | Autor        | Revisor        |
 | ------ | ---------- | ----------------------------------------- | ------------ | ------------ |
-| 0.1    | 08/02/2022 | Criação da primeira versão metodologia    | Ana Carolina | Ricardo |
-| 0.2    | 08/02/2022 | Correção das imagens                      | Ana Carolina | Ricardo |
+| 0.1    | 08/02/2022 | Criação da primeira versão metodologia    | Ana Carolina | Ricardo Loureiro |
+| 0.2    | 08/02/2022 | Correção das imagens                      | Ana Carolina | Ricardo Loureiro |
