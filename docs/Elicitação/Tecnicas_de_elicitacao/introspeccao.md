@@ -61,7 +61,7 @@
 ## Bibliografia
 
 - SOMMERVILLE. Ian. 2011. Engenharia de Software.
-- Software Requeriments Engineering. Disponível em: https://web.uettaxila.edu.pk/CMS/SP2013/seSREbs/notes%5CSRE%20Lec_%204.pdf Acesso em: 26 fev. 2021.
+- Software Requeriments Engineering. Disponível em: https://web.uettaxila.edu.pk/CMS/SP2013/seSREbs/notes%5CSRE%20Lec_%204.pdf Acesso em: 16 fev. 2021.
 - https://github.com/Requisitos-de-Software/2020.2-CarteiraDigitalTransito/blob/- main/docs/elicitacao/introspeccao.md
 - https://requisitos-de-software.github.io/2021.1-Hemovida/#/./elicitacao/introspeccao
 - https://requisitos-de-software.github.io/2021.1-Ingresso.com/elicitacao/introspeccao/
