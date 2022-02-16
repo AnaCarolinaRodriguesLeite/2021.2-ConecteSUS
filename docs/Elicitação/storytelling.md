@@ -193,7 +193,7 @@
 | SNF 05 | Os dados do usuário devem ser protegidos. |
 
 
-## Versionamento
+## Histórico de Versão
 
 | Versão | Data | Modificação | Autor | Revisores |
 |:--:|:--:|:--:|:--:|:--:|
