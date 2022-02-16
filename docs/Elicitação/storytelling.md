@@ -164,13 +164,13 @@
 <p style="text-indent: 40px; align = "justify"><a href="#ZenitsuAgatsuma">Zenitsu</a> desde muito cedo tem problema de saúde, tem quadros  de eplepsia que apesar de ser muito raro de acontecer, são muito graves e necessita de ajuda. Quando ficou sabendo que o aplicativo fornece a opção de registrar contatos de emergência baixou o aplicativo para se sentir mais seguro no trabalho.</p>
 
 ###  Apresentar cartão de Vacina 
-<p style="text-indent: 40px; align = "justify"><a href="#NezukoKamado">Nezuko</a> está muito focada nos estudos se preparando para o curso de medicina na UnB, além disso ela trabalha como atendende de supermercado, já que mora sozinha não tem tempo para realizar tarefas muito complicadas, pois alem de trabalhar e cuidar da cas tem que estudar. Com a vacinação já realizada em boa parte da população <a href="#NezukoKamado">Nezuko</a> tem medo de ser necessário apresentar o cartão de vacina, porém ela perdeu o físico. Porem, ela ficou sabendo no trabalho que existe o aplicativo ConecteSUS que permite emirtir um cartão de vacina nacional, ela já fez o registro e está tentando emitir o cartão agora.
+<p style="text-indent: 40px; align = "justify"><a href="#NezukoKamado">Nezuko</a> está muito focada nos estudos se preparando para o curso de medicina na UnB, além disso ela trabalha como atendende de supermercado, já que mora sozinha não tem tempo para realizar tarefas muito complicadas, pois alem de trabalhar e cuidar da cas tem que estudar. Com a vacinação já realizada em boa parte da população <a href="#NezukoKamado">Nezuko</a> tem medo de ser necessário apresentar o cartão de vacina, porém ela perdeu o físico. Porem, ela ficou sabendo no trabalho que existe o aplicativo ConecteSUS que permite emirtir um cartão de vacina nacional, ela já fez o registro e está tentando emitir o cartão agora.</p>
 
 
-## 4. Requisitos Funcionais <a id="StorytellingFuncional"></a>
+## 4. Requisitos Funcionais
 
 | ID | Requisito | 
-|--|--|
+|:--:|:--:|
 | SF 01 | O usuário deve ser capaz de se cadastrar. | 
 | SF 02 | O usuário deve ter acesso usando uma conta do Gov.br. |
 | SF 03 | O usuário pode ver as vacinas que tomou. | 
@@ -195,6 +195,6 @@
 
 ## Versionamento
 
-| Versão | Data | Modificação | Autor |
-|--|--|--|--|
-| 1.0 | 15/02/2022 | Criação do documento | Daniel Vinicius Ricardo Loureiro |
+| Versão | Data | Modificação | Autor | Revisores |
+|:--:|:--:|:--:|:--:|:--:|
+| 1.0 | 15/02/2022 | Criação do documento | Daniel Vinicius e Ricardo Loureiro | Ana Carolina e Erick |
