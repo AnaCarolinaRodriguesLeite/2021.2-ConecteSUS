@@ -23,7 +23,5 @@ Won't: Significa que o requisito indicado não precisa ser implementado naquele 
 ### Bibliografia
 
 
-## Histórico de Versão
-
 | Versão | Data | Modificação | Autor | Revisores |
 |:--:|:--:|:--:|:--:|:--:|
