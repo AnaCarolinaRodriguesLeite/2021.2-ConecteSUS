@@ -53,7 +53,7 @@
         </tr>
         <tr>
             <td><strong>Expectativas:</strong></td>
-            <td colspan=8 class="persona">Nezuko nessecita do cartão nacional de vacina, para caso seja exigido no vestibular ela conseguir realizar a prova.</td>
+            <td colspan=8 class="persona">Nezuko necessita do cartão nacional de vacina, para caso seja exigido no vestibular ela conseguir realizar a prova.</td>
         </tr>
     </tbody>
 </table>
@@ -80,7 +80,7 @@
         </tr>
         <tr>
             <td class="titulo"><strong>Objetivos:</strong></td>
-            <td colspan="1" class="persona">Poupar dinheiro para comprar a casa prórpia.<br>Dar boa vida para o filho.</td>
+            <td colspan="1" class="persona">Poupar dinheiro para comprar a casa própria.<br>Dar boa vida para o filho.</td>
         </tr>
         <tr>
             <td class="titulo"><strong>Relacionamentos:</strong></td>
@@ -96,15 +96,15 @@
         </tr>
         <tr>
             <td><strong>Tarefas:</strong></td>
-            <td colspan=8 class="persona">Acorda cedo para ir para o trabalho. Trabalha cerca de 6 horas por dia e geralmente tem tempo para mecher no celular durante o trabalho.</td>
+            <td colspan=8 class="persona">Acorda cedo para ir para o trabalho. Trabalha cerca de 6 horas por dia e geralmente tem tempo para mexer no celular durante o trabalho.</td>
         </tr>
         <tr>
             <td><strong>Requisitos:</strong></td>
-            <td colspan=8 class="persona">Zenitsu precisa que o aplicativo seja fácil de utilizar, já que tera que fazer o cadastro e o registro de contatos sozinho, e apesar de saber usar o celular não tem experiêcia para fazer algo complexo.</td>
+            <td colspan=8 class="persona">Zenitsu precisa que o aplicativo seja fácil de utilizar, já que terá que fazer o cadastro e o registro de contatos sozinho, e apesar de saber usar o celular não tem experiência para fazer algo complexo.</td>
         </tr>
         <tr>
             <td><strong>Expectativas:</strong></td>
-            <td colspan=8 class="persona">Zenitsu quer registrar os contatos de emergência, pois tem crises de eplepsia e precisa que pessoas ao redor liguem para seu irmão ou amigos irem ajuda-lo.</td>
+            <td colspan=8 class="persona">Zenitsu quer registrar os contatos de emergência, pois tem crises de epilepsia e precisa que pessoas ao redor liguem para seu irmão ou amigos irem ajuda-lo.</td>
         </tr>
     </tbody>
 </table>
@@ -148,7 +148,7 @@
         </tr>
         <tr>
             <td><strong>Tarefas:</strong></td>
-            <td colspan=8 class="persona">Kanae tem bastante tempo livre, apesar da fculdade cobrar muito ela consegue lidar bem com os compromissos.</td>
+            <td colspan=8 class="persona">Kanae tem bastante tempo livre, apesar da faculdade cobrar muito ela consegue lidar bem com os compromissos.</td>
         </tr>
         <tr>
             <td><strong>Requisitos:</strong></td>
@@ -161,10 +161,10 @@
 ## 3. Situações
 
 ###  Urgência
-<p style="text-indent: 40px; align = "justify"><a href="#ZenitsuAgatsuma">Zenitsu</a> desde muito cedo tem problema de saúde, tem quadros  de eplepsia que apesar de ser muito raro de acontecer, são muito graves e necessita de ajuda. Quando ficou sabendo que o aplicativo fornece a opção de registrar contatos de emergência baixou o aplicativo para se sentir mais seguro no trabalho.</p>
+<p style="text-indent: 40px; align = "justify"><a href="#ZenitsuAgatsuma">Zenitsu</a> desde muito cedo tem problema de saúde, tem quadros  de epilepsia que apesar de ser muito raro de acontecer, são muito graves e necessita de ajuda. Quando ficou sabendo que o aplicativo fornece a opção de registrar contatos de emergência baixou o aplicativo para se sentir mais seguro no trabalho.</p>
 
 ###  Apresentar cartão de Vacina 
-<p style="text-indent: 40px; align = "justify"><a href="#NezukoKamado">Nezuko</a> está muito focada nos estudos se preparando para o curso de medicina na UnB, além disso ela trabalha como atendende de supermercado, já que mora sozinha não tem tempo para realizar tarefas muito complicadas, pois alem de trabalhar e cuidar da cas tem que estudar. Com a vacinação já realizada em boa parte da população <a href="#NezukoKamado">Nezuko</a> tem medo de ser necessário apresentar o cartão de vacina, porém ela perdeu o físico. Porem, ela ficou sabendo no trabalho que existe o aplicativo ConecteSUS que permite emirtir um cartão de vacina nacional, ela já fez o registro e está tentando emitir o cartão agora.</p>
+<p style="text-indent: 40px; align = "justify"><a href="#NezukoKamado">Nezuko</a> está muito focada nos estudos se preparando para o curso de medicina na UnB, além disso ela trabalha como atendente de supermercado, já que mora sozinha não tem tempo para realizar tarefas muito complicadas, pois alem de trabalhar e cuidar da cas tem que estudar. Com a vacinação já realizada em boa parte da população <a href="#NezukoKamado">Nezuko</a> tem medo de ser necessário apresentar o cartão de vacina, porém ela perdeu o físico. Porem, ela ficou sabendo no trabalho que existe o aplicativo ConecteSUS que permite emitir um cartão de vacina nacional, ela já fez o registro e está tentando emitir o cartão agora.</p>
 
 
 ## 4. Requisitos Funcionais

@@ -24,8 +24,16 @@ nav:
   - Pré-Rastreabilidade:
       - Rich Picture: Pre_rastreabilidade/RichPicture.md
   - Elicitações: 
-      - Storytelling : Elicitação/storytelling.md
+      - Técnicas de elicitação: 
+        - Storytelling : Elicitação/Técnicas/storytelling.md
+        - Introspecção:
+        - Observação Participativa:
+        - Brainstorming:
+      - Técnica de priorização:
+        - Moscow:
+      - Personas: 
   - Apresentações:
       - Apresentação 1: Apresentacao/Apresentacao 1.md
+      - Apresentação 2:
 
 
