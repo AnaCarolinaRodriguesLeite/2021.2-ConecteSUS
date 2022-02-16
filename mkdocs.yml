@@ -25,15 +25,15 @@ nav:
       - Rich Picture: Pre_rastreabilidade/RichPicture.md
   - Elicitações: 
       - Técnicas de elicitação: 
-        - Storytelling : Elicitação/Técnicas/storytelling.md
-        - Introspecção:
-        - Observação Participativa:
-        - Brainstorming:
+        - Storytelling : Elicitação/Tecnicas_de_elicitacao/storytelling.md
+        - Introspecção: Elicitação/Tecnicas_de_elicitacao/introspeccao.md
+        - Observação Participativa: Elicitação/Tecnicas_de_elicitacao/Observacao_participativa.md
+        - Brainstorming: Elicitação/Tecnicas_de_elicitacao/brainstorming.md
       - Técnica de priorização:
-        - Moscow:
-      - Personas: 
+        - Moscow: Elicitação/Personas/Moscow.md
+        - Personas: Elicitação/Personas/personas.md
   - Apresentações:
       - Apresentação 1: Apresentacao/Apresentacao 1.md
-      - Apresentação 2:
+      - Apresentação 2: Apresentacao/Apresentacao 2.md
 
 
