@@ -16,6 +16,17 @@
     </thead>
     <tbody>
         <tr>
+            <td rowspan="7" colspan="5" style="width: 350px">
+                <figure>
+                    <center>
+                    <img src="../../assets/nezuko.png" height="175" width="175" alt="Foto de Nezuko"></img>
+                    </center>
+                    <figcaption>Figura 1: Foto da Nezuko
+                    </figcaption>
+                </figure>
+            </td>
+        </tr>
+        <tr>
             <td class="titulo"><strong>Idade:</strong></td>
             <td class="persona" colspan="1">18 anos.</td>
         </tr>
@@ -66,6 +77,17 @@
         <th colspan="10" style="text-align: center">Zenitsu Agatsuma</th>
     </thead>
     <tbody>
+        <tr>
+            <td rowspan="7" colspan="5" style="width: 350px">
+                <figure>
+                    <center>
+                    <img src="../../assets/zenitsu.png" height="175" width="175" alt="Foto de Zenitsu"></img>
+                    </center>
+                    <figcaption>Figura 1: Foto do Zenitsu
+                    </figcaption>
+                </figure>
+            </td>
+        </tr>  
         <tr>
             <td class="titulo"><strong>Idade:</strong></td>
             <td class="persona" colspan="1">30 anos.</td>
@@ -119,6 +141,17 @@
     </thead>
     <tbody>
         <tr>
+            <td rowspan="7" colspan="5" style="width: 350px">
+                <figure>
+                    <center>
+                    <img src="../../assets/kanae.png" height="175" width="175" alt="Foto de Kanae"></img>
+                    </center>
+                    <figcaption>Figura 1: Foto da Kanae
+                    </figcaption>
+                </figure>
+            </td>
+        </tr>
+        <tr>
             <td class="titulo"><strong>Idade:</strong></td>
             <td class="persona" colspan="1">22 anos.</td>
         </tr>
@@ -171,27 +204,30 @@
 
 | ID | Requisito | 
 |:--:|:--:|
-| SF 01 | O usuário deve ser capaz de se cadastrar. | 
-| SF 02 | O usuário deve ter acesso usando uma conta do Gov.br. |
-| SF 03 | O usuário pode ver as vacinas que tomou. | 
-| SF 04 | O usuário pode ver exames realizados. | 
-| SF 05 | O usuário pode ter acesso aos medicamentos recebidos e autodeclarados. |
-| SF 06 | O usuário pode checar atendimentos e internações realizadas. | 
-| SF 07 | O usuário pode registrar contatos de emergência. | 
-| SF 08 | O usuário poderá ver doações de sangue realizadas e regras para doação. | 
-| SF 09 | O usuário poderá registrar alergias.| 
-| SF 10 | O usuário pode emitir certificado de vacina COVID-19. | 
-| SF 11 | O usuário pode emitir Carteira Nacional de Vacinação. | 
+| RF 01 | O usuário deve ser capaz de se cadastrar. | 
+| RF 02 | O usuário deve ter acesso usando uma conta do Gov.br. |
+| RF 03 | O usuário pode ver as vacinas que tomou. | 
+| RF 04 | O usuário pode ver exames realizados. | 
+| RF 05 | O usuário pode ter acesso aos medicamentos recebidos e autodeclarados. |
+| RF 06 | O usuário pode checar atendimentos e internações realizadas. | 
+| RF 07 | O usuário pode registrar contatos de emergência. | 
+| RF 08 | O usuário poderá ver doações de sangue realizadas e regras para doação. | 
+| RF 09 | O usuário poderá registrar alergias.| 
+| RF 10 | O usuário pode emitir certificado de vacina COVID-19. | 
+| RF 11 | O usuário pode emitir Carteira Nacional de Vacinação. | 
 
 ## 5. Requisitos Não - Funcionais <a id="StorytellingNFuncional"></a>
 
 | ID | Requisito | 
 |--|--|
-| SNF 01 | O usuário não pode ficar muito tempo esperando para entrar no aplicativo. |
-| SNF 02 | Deve ficar claro para o usuário onde cada funcionalidade está. |
-| SNF 03 | O sistema não pode ficar fora do ar muito tempo. |
-| SNF 05 | Os dados do usuário devem ser protegidos. |
+| RNF 01 | O usuário não pode ficar muito tempo esperando para entrar no aplicativo. |
+| RNF 02 | Deve ficar claro para o usuário onde cada funcionalidade está. |
+| RNF 03 | O sistema não pode ficar fora do ar muito tempo. |
+| RNF 05 | Os dados do usuário devem ser protegidos. |
 
+## 6. Bibliografia  <a id="Bibliografia"></a>
+
+[1] - VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; **Engenharia de Requisitos**: Software orientado ao negócio. 1. ed. Brasil: Brasport, 2016.
 
 ## Histórico de Versão
 
