@@ -18,9 +18,7 @@
         <tr>
             <td rowspan="7" colspan="5" style="width: 350px">
                 <figure>
-                    <center>
                     <img src="../../assets/nezuko.png" height="175" width="175" alt="Foto de Nezuko"></img>
-                    </center>
                     <figcaption>Figura 1: Foto da Nezuko
                     </figcaption>
                 </figure>
