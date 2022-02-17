@@ -1,4 +1,3 @@
-## Brainstorming
 
 ## 1. Introdução
 <p style="text-indent: 40px; align = "justify"> A técnica de elicitação através do brainstorming é baseada em uma reunião, com um espaço de tempo pré-definido, entre os engenheiros de requisitos, com o objetivo de explorar ideias, interagir com os outros participantes e compartilhar suas opiniões. Assim, listando a maior quantidade de requisitos possível, visando entender o que os usuários querem e precisam. Normalmente esta técnica é utilizada no inicío do processo de elicitação, quando pouco do produto, do processo e do projeto é conhecido.</p>
@@ -41,13 +40,11 @@ Devido a pandemia não foi possível que os integrantes se reunissem pessoalment
 **Ricardo**: Poderia haver persistência de login ou outras formas de login como digital ou reconhecimento facial<br>
 **Gustave**: O aplicativo poderia gerar um alerta para o prazo da segunda dose e dose reforço da vacina<br>
 
-### Bibliografia
-
 ## 5. Levantamento de Requisitos
-## Histórico de Versão
+
 
 | ID   | Requisitos                                                                         | Tipo de Requisitos |
-|------|------------------------------------------------------------------------------------|--------------------|
+|:----:|------------------------------------------------------------------------------------|:------------------:|
 | BS1  | O usuário pode consultar o histórico de vacinas contra a COVID-19                  | RF                 |
 | BS2  | O usuário pode emitir o certificado de vacinação da COVID-19                       | RF                 |
 | BS3  | O usuário pode consultar o histórico de exames                                     | RF                 |
@@ -71,6 +68,8 @@ Devido a pandemia não foi possível que os integrantes se reunissem pessoalment
 | BS20 | O aplicativo deve apresentar persistência de login                                 | RNF                |
 | BS21 | O aplicativo poderia ter outras formas de login                                    | RNF                |
 
+
+## Histórico de Versionamento
 | Versão | Data | Modificação | Autor | Revisor |
 |:--:|:--:|:--:|:--:|:--:|
 |1.0|16/02|Criação dos requistos através da técnica|Todos|Todos|
