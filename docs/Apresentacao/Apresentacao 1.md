@@ -1,6 +1,6 @@
 # Apresentação 1
 
-## 1. Planejamento
+## 1. Vídeo
 
 <center>
 
@@ -20,7 +20,7 @@
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE3KFJUn4w&#x2F;view?utm_content=DAE3KFJUn4w&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">ConectaSUS</a> de Erick Melo
 
-## 3. Histórico de versão
+## Histórico de versão
 
 | Versão | Data       | Descrição                       | Autor                | Revisor                |
 | ------ | ---------- | ------------------------------- | -------------------- | -------------------- |

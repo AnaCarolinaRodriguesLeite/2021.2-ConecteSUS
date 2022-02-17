@@ -1,8 +1,3 @@
-## Personas
-
-## Metodologia
-
-
 ### 1.Introdução
 
 <p style="text-align: justify;"> Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário.</p>

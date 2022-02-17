@@ -1,6 +1,6 @@
 # Observação Participativa
 
-## 1. Metodologia
+## 1. Introdução
 <p style="text-align: justify;"> A observação participativa é uma técnica de elicitação de requisitos em que o engenheiro de requisitos irá agir como um usuário do sistema para observar e entender as funcionalidades e necessidades e documentá-las.
 </p>
 

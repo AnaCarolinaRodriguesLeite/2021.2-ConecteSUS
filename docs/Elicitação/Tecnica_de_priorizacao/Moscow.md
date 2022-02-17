@@ -19,7 +19,7 @@
 
 ### Bibliografia
 
-> PIRES, Raphael. 2019. Aprenda a usar a técnica MoSCoW nos projetos da sua agência!. Disponível em: https://rockcontent.com/br/blog/metodo-moscow/#:~:text=O%20que%20%C3%A9%20a%20t%C3%A9cnica%20MoSCoW%3F,elas%20atribuem%20a%20cada%20requisito. Acesso: 17/02/2022.
+> LEONHARDT, Rodrigo. 2019. Priorização #02 — MoSCoW. Disponível em: https://medium.com/gerindo-produtos-digitais/prioriza%C3%A7%C3%A3o-02-moscow-84362fbc9350. Acesso: 17/02/2022.
 
 
 ## Histórico de versão 

@@ -13,7 +13,10 @@
 
 ![RichPicture01](https://user-images.githubusercontent.com/49570180/152996404-e6cc262b-1394-4022-8e2f-5dd5f45c558a.jpg)
 
-<figcaption>Imagem 1: Rich Picture versão 0.1.</figcaption>
+ <figcaption>
+      <b>Imagem 1: Rich Picture versão 0.1.</b>
+    <br><small>Fonte: própria</small>
+  </figcaption>
 
 </center>
 
@@ -23,26 +26,35 @@
 
 ![RichPicture](https://user-images.githubusercontent.com/49570180/152996442-27924190-47ff-44bf-83af-3243f01ab24a.jpg)
 
-<figcaption>Imagem 1: Rich Picture versão 1.</figcaption>
+ <figcaption>
+      <b>Imagem 2: Rich Picture versão 1.</b>
+    <br><small>Fonte: própria</small>
+  </figcaption>
 
 </center>
 
 #### 2.1.1 Legenda
 
-&emsp;&emsp;Para a confecção deste Rich Picture, foi utilizada uma notação própria para o projeto, que é explicada na legenda a seguir.
+<p style="text-align: justify;">Para a confecção deste Rich Picture, foi utilizada uma notação própria para o projeto, que é explicada na legenda a seguir.
+</p>
 
 <center>
 
 ![Legenda](https://user-images.githubusercontent.com/49570180/152996472-e7bf8c13-5a4b-4f5f-9730-27aef65e61cc.jpg)
 
-<figcaption>Imagem 2: Legenda do Rich Picture versão 1.</figcaption>
+ <figcaption>
+      <b>Imagem 3: Legenda do Rich Picture versão 1</b>
+    <br><small>Fonte: própria</small>
+  </figcaption>
 
 </center>
 
 ## Bibliografia
 
 >Young, Ralph. **Requirements Engineering Handbook**. Norwood, US: Artech House Books, 2003.
+
 >Leite, Julio Cesar Sampaio do Prado. **Livro Vivo - Engenharia de Requisitos**. Disponível em: http://livrodeengenhariaderequisitos.blogspot.com.br/
+
 >Chemuturi, Murali. **Mastering Software Quality Assurance : Best Practices, Tools and Technique for Software Developers**. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010.
 
 ## Histórico de versão

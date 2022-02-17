@@ -34,7 +34,10 @@
 
 ![ciclo_de_vida_XP](https://user-images.githubusercontent.com/49570180/152994415-c9265c11-c7d7-49ca-9bc5-62422dd20ddc.png)
 
-<figcaption>Imagem 1: Ciclo de release da XP.</figcaption>
+ <figcaption>
+      <b>Imagem 1: Ciclo de release da XP.</b>
+    <br><small>Fonte: forbes</small>
+  </figcaption>
 
 </center>
 
@@ -50,7 +53,10 @@
 
 ![scrum](https://user-images.githubusercontent.com/49570180/152995506-4d54c8a7-bf17-4d7b-84da-f388dd922200.png)
 
-<figcaption>Imagem 2: Ciclo de sprint do Scrum.</figcaption>
+  <figcaption>
+      <b>Imagem 2: Ciclo de sprint do Scrum.</b>
+    <br><small>Fonte: caetreinamentos</small>
+  </figcaption>
 
 </center>
 
@@ -67,15 +73,21 @@
  
 ![kanbam](https://user-images.githubusercontent.com/49570180/152995674-42fbcb34-85f2-408a-a62d-125d0e086531.jpg)
 
-<figcaption>Imagem 3: Exemplo de quadro Kanban.</figcaption>
+  <figcaption>
+      <b>Imagem 3: Exemplo de quadro Kanban.</b>
+    <br><small>Fonte: UFMG</small>
+  </figcaption>
 
 </center>
 
 ## Bibliografia
 
 >SOMMERVILLE, Ian. 2011. Engenharia de software. 10. ed. São Paulo: Pearson Addison Wesley, 2019.
+
 >Metodologia Ágil: O que é Kanban. Programadores Brasil, 2020. Disponível em: https://programadoresbrasil.com.br/2020/02/metodologia-agil-o-que-e-kanban/. Acesso: 08/02/2022.
+
 >Extreme Programming. Agile Alliance. Disponível em: https://www.agilealliance.org/glossary/xp/#.YRnn2znQQyc. Acesso: 08/02/2022.
+
 >Metodologia Ágil: O que é Scrum. Programadores Brasil, 2020. Disponível em: https://programadoresbrasil.com.br/2020/02/o-que-e-scrum-metodologia-agil/. Acesso: 08/02/2022.
 
 

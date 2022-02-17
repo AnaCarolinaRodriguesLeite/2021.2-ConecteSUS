@@ -2,9 +2,10 @@
 
 ## 1. Introdução
 
-&emsp;&emsp;Analisando o cronograma do semestre letivo, os prazos da disciplina e a disponibilidade dos integrantes, foi criado um cronograma dividido em etapas para a realização das atividades e criação dos artefatos.
+<p style="text-align: justify;"> Analisando o cronograma do semestre letivo, os prazos da disciplina e a disponibilidade dos integrantes, foi criado um cronograma dividido em etapas para a realização das atividades e criação dos artefatos.
+</p>
 
-## 2. Cronograma de atividade
+## 2. Cronograma geral
 
 <center>
 
@@ -22,19 +23,19 @@
 
 </center>
 
-### 2.1 Cronograma especifíco 
+### 2.1 Cronograma da primeira entrega
 
 <center>
 
-| Tema                               | Data de entrega | Responsáveis  | Revisores               |
-|------------------------------------|-----------------|---------------|-------------------------|
-| I. Pré-Rastreabilidade             | 06/02           | Ricardo e Ana | Daniel, Gustave e Erick |
-| II. Elicitação de Requisitos       | 20/02           | -             | -                       |
-| III. Modelagem de Requisitos       | 06/03           | -             | -                       |
-| IV. Modelagem de Requisitos - Ágil | 09/03           | -             | -                       |
-| V. Análise de Requisitos           | 22/03           | -             | -                       |
-| VI. Pós-Rastreabilidade            | 04/04           | -             | -                       |
-| VII. Apresentação Final            | 24/04           | -             | -                       |
+| Data da realização da tarefa | Planejamento do projeto              | Responsáveis        | Revisores      |
+| :----: | :--------------------------------------------: | :--------------: | :------------: |
+| 14/02 | Planejamento do projeto | Ricardo, Ana Carolina | Erick, Gustave |
+| 03/02 | Equipe | Gustave, Ana Carolina | Ricardo, Erick |
+| 11/02 | App selecionado | Todos integrantes | Todos |
+| 13/02 | Ferramentas | Daniel, Erick | Ana Carolina, Gustave |
+| 13/02 | Cronograma | Daniel, Ricardo | Erick, Gustave |
+| 13/02 | Rich picture | Gustave, Erick | Daniel, Ricardo |
+
 
 <figcaption>Tabela 2: Tabela específica contendo data de entrega, responsáveis e revisores.</figcaption>
 
@@ -44,4 +45,5 @@
 
 | Versão | Data       | Descrição                                           | Autor        | Revisor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ | ------------ |
-| 0.1    | 07/02/2022 | Criação do documento | Ana Carolina e Ricardo Loureiro | Daniel Vinicius | 
+| 0.1    | 07/02/2022 | Criação do documento | Daniel e Ricardo Loureiro | Erick e Gustave |
+| 0.2    | 17/02/2022 | Correção do documento | Ana Carolina | Gustave | 
