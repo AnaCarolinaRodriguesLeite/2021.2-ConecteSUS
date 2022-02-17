@@ -16,7 +16,7 @@
 | <img src="https://user-images.githubusercontent.com/49570180/152993064-9278b5f4-ee8c-4823-837e-541529ac3bc5.png" width="150" title="Miro"> | Miro | Utilizado para elaboração dos Rich Pictures |
 
 
-## 2. Histórico de versão
+## Histórico de versão
 
 | Versão | Data       | Descrição                                           | Autor        | Revisor |
 | ------ | ---------- | --------------------------------------------------- | ------------ | --------|

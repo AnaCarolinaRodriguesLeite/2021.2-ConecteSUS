@@ -66,8 +66,12 @@
 | BS21 | O aplicativo poderia ter outras formas de login                                    | RNF                |
 
 
-## Histórico de Versionamento
-| Versão | Data | Modificação | Autor | Revisor |
+## Bibliografia
+
+>WOEBCKEN, Cayo. 2019. O que é brainstorming e as 7 melhores técnicas para a tomada de decisões inteligentes. Disponível em: https://rockcontent.com/br/blog/brainstorming/. Acesso em: 17/02/2022.
+
+## Histórico de versão
+| Versão | Data | Descrição | Autor | Revisor |
 |:--:|:--:|:--:|:--:|:--:|
-|1.0|16/02|Criação dos requistos através da técnica|Todos|Todos|
+|0.1|16/02|Criação dos requistos através da técnica|Todos|Todos|
 

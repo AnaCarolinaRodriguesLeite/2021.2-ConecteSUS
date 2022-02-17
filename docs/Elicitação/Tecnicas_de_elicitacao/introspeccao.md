@@ -60,16 +60,16 @@
 
 ## Bibliografia
 
-> SOMMERVILLE. Ian. 2011. Engenharia de Software.
-> Software Requeriments Engineering. Disponível em: https://web.uettaxila.edu.pk/CMS/SP2013/seSREbs/notes%5CSRE%20Lec_%204.pdf Acesso em: 16 fev. 2021.
-> https://github.com/Requisitos-de-Software/2020.2-CarteiraDigitalTransito/blob/- main/docs/elicitacao/introspeccao.md
-> https://requisitos-de-software.github.io/2021.1-Hemovida/#/./elicitacao/introspeccao
-> https://requisitos-de-software.github.io/2021.1-Ingresso.com/elicitacao/introspeccao/
-> https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Elicitacao/Tecnicas/inpeccao/
+> SOMMERVILLE, Ian. 2011. Engenharia de Software.
+> JAVED, Ali. 2013. Software Requeriments Engineering. Disponível em: https://web.uettaxila.edu.pk/CMS/SP2013/seSREbs/notes%5CSRE%20Lec_%204.pdf. Acesso em: 16/02/2022.
+> Carteira Digital de Transito. Disponível em : https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/elicitacao/introspeccao/ . Acesso em: 16/02/2022.
+> Hemovida. Disponível em: https://requisitos-de-software.github.io/2021.1-Hemovida/#/./elicitacao/introspeccao .Acesso em: 16/02/2022.
+> Ingresso.com. Disponível em: https://requisitos-de-software.github.io/2021.1-Ingresso.com/elicitacao/introspeccao/ .Acesso em: 16/02/2022.
+> Caixa tem. Disponível em: https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Elicitacao/Tecnicas/inpeccao/ .Acesso em: 16/02/2022.
 
 ## Histórico de Versão
 
-| Versão |    Data    |                               Modificação                                |             Autor             | Revisores |
+| Versão |    Data    |                               Descrição                                |             Autor             | Revisor |
 | :----: | :--------: | :----------------------------------------------------------------------: | :---------------------------: | :-------: |
-|  1.0   | 15/02/2022 |                           Criação do documento                           | Gustave Persijn, Ana Carolina |  Daniel   |
-|  2.0   | 16/02/2022 | Correção de algumas informações na tabela, adição de legenda das tabelas | Gustave Persijn, Ana Carolina |  Daniel   |
+|  0.1   | 15/02/2022 |                           Criação do documento                           | Gustave Persijn, Ana Carolina |  Daniel   |
+|  0.2   | 16/02/2022 | Correção de algumas informações na tabela, adição de legenda das tabelas | Gustave Persijn, Ana Carolina |  Daniel   |

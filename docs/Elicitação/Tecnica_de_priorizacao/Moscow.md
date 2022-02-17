@@ -1,5 +1,3 @@
-## MoSCoW
-
 
 ### 1. Introdução
 
@@ -8,12 +6,10 @@
 
 ### 2. Metodologia
 
-<p style="text-align: justify;">
 - Must: Significa que o requisito deve ser importante para a solução ser considerada um sucesso.
 - Should: Significa que o requisito é importante e deve ser implementado, mas sua implementação ou não, não irá interferir diretamente no sucesso da solução.
 - Could: Significa que o requisito indicado não precisa ser necessariamente implementado, apenas se tiver tem e recursos.
-Won't: Significa que o requisito indicado não precisa ser implementado naquele momento, podendo ser implementado nos futuros lançamentos.
-</p>
+- Won't: Significa que o requisito indicado não precisa ser implementado naquele momento, podendo ser implementado nos futuros lançamentos.
 
 ### 3. Participantes
 
@@ -23,6 +19,10 @@ Won't: Significa que o requisito indicado não precisa ser implementado naquele 
 
 ### Bibliografia
 
+> PIRES, Raphael. 2019. Aprenda a usar a técnica MoSCoW nos projetos da sua agência!. Disponível em: https://rockcontent.com/br/blog/metodo-moscow/#:~:text=O%20que%20%C3%A9%20a%20t%C3%A9cnica%20MoSCoW%3F,elas%20atribuem%20a%20cada%20requisito. Acesso: 17/02/2022.
 
-| Versão | Data | Modificação | Autor | Revisores |
+
+## Histórico de versão 
+
+| Versão | Data | Descrição | Autor | Revisor |
 |:--:|:--:|:--:|:--:|:--:|

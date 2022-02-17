@@ -1,8 +1,7 @@
 # Observação Participativa
 
 ## 1. Metodologia
-<p align="justify">
-  &emsp;&emsp; A observação participativa é uma técnica de elicitação de requisitos em que o engenheiro de requisitos irá agir como um usuário do sistema para observar e entender as funcionalidades e necessidades e documentá-las.
+<p style="text-align: justify;"> A observação participativa é uma técnica de elicitação de requisitos em que o engenheiro de requisitos irá agir como um usuário do sistema para observar e entender as funcionalidades e necessidades e documentá-las.
 </p>
 
 ## 2. Participantes
@@ -13,14 +12,13 @@
   </ul>
 
 ## 3. Resultados
-<p align="justify">
-  &emsp;&emsp; O participante Erick Melo fez o cadastro no aplicativo ConecteSUS e após 2 dias de análise elicitou as seguintes funcionalidades:
+<p style="text-align: justify;"> O participante Erick Melo fez o cadastro no aplicativo ConecteSUS e após 2 dias de análise elicitou as seguintes funcionalidades:
 </p>
 
 | ID | Requisitos | 
 |--|--|
 | RF 01 |	 O usuário deve poder visualizar informações gerais sem efetuar o login. |
-| RF 02 |	Ousuário deve poder efetuar o login no gov.br com o cpf. |
+| RF 02 |	O usuário deve poder efetuar o login no gov.br com o cpf. |
 | RF 03 |	O usuário deve poder escolher outras opções de identificação para login. |
 | RF 04 |	O usuário deve poder ver a senha inserida. |
 | RF 05 |	O usuário deve ter uma alternativa caso tenha esquecido a senha. |
@@ -65,9 +63,12 @@
 | RF 44 |	O usuário deve poder avaliar o aplicativo. |
 | RF 45 |	O usuário deve poder fazer logout. |
 
+## Bibliografia
 
-## 4. Histórico de versão
-| Versão | Data | Modificação | Autores | Revisores |
+>VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; Engenharia de Requisitos: Software orientado ao negócio. 1. ed. Brasil: Brasport, 2016.
+
+## Histórico de versão
+| Versão | Data | Descrição | Autores | Revisor |
 |--------|------|-------------|---------|-----------|
-| 1.0 | 15/02/2022 | Adicionando introdução | Erick Melo | Gustave Augusto, Ricardo Loureiro |
-| 1.1 | 16/02/2022 | Adicionando tabela de requisitos | Erick Melo | Gustave Augusto, Ricardo Loureiro |
+| 0.1 | 15/02/2022 | Adicionando introdução | Erick Melo | Gustave Augusto, Ricardo Loureiro |
+| 0.2 | 16/02/2022 | Adicionando tabela de requisitos | Erick Melo | Gustave Augusto, Ricardo Loureiro |

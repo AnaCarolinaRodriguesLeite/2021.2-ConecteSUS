@@ -40,7 +40,7 @@
 
 </center>
 
-## 3. Histórico de versão
+## Histórico de versão
 
 | Versão | Data       | Descrição                                           | Autor        | Revisor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ | ------------ |

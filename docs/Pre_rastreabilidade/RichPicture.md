@@ -2,7 +2,8 @@
 
 ## 1. Introdução
 
-&emsp;&emsp;O Rich Picture é uma modelagem informal e com uma linguagem acessível, cuja notação permite analisar problemas e expressar ideias. Este modelo auxilia na identificação de processos de negócio e seus requisitos, os atores envolvidos no produto e suas responsabilidades e os relacionamentos entre os processos e os atores.
+<p style="text-align: justify;"> O Rich Picture é uma modelagem informal e com uma linguagem acessível, cuja notação permite analisar problemas e expressar ideias. Este modelo auxilia na identificação de processos de negócio e seus requisitos, os atores envolvidos no produto e suas responsabilidades e os relacionamentos entre os processos e os atores.
+</p>
 
 ## 2. Versões do Rich Picture
 
@@ -38,15 +39,13 @@
 
 </center>
 
-## 3. Referência bibliográfica
+## Bibliografia
 
-> - Young, Ralph. **Requirements Engineering Handbook**. Norwood, US: Artech House Books, 2003.
+>Young, Ralph. **Requirements Engineering Handbook**. Norwood, US: Artech House Books, 2003.
+>Leite, Julio Cesar Sampaio do Prado. **Livro Vivo - Engenharia de Requisitos**. Disponível em: http://livrodeengenhariaderequisitos.blogspot.com.br/
+>Chemuturi, Murali. **Mastering Software Quality Assurance : Best Practices, Tools and Technique for Software Developers**. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010.
 
-> - Leite, Julio Cesar Sampaio do Prado. **Livro Vivo - Engenharia de Requisitos**. Disponível em: http://livrodeengenhariaderequisitos.blogspot.com.br/
-
-> - Chemuturi, Murali. **Mastering Software Quality Assurance : Best Practices, Tools and Technique for Software Developers**. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010.
-
-## 4. Histórico de versão
+## Histórico de versão
 
 | Versão | Data       | Descrição                          | Autor                | Revisor                |
 | ------ | ---------- | ---------------------------------- | -------------------- | -------------------- |

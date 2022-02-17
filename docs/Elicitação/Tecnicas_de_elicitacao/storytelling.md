@@ -2,14 +2,15 @@
 
 ## 1. Introdução
 
-<p style="text-indent: 40px; align = "justify"> Essa técnica utiliza de personas, que são usuários fictícios, para contar uma história. São criadas histórias sobre objetivos e gostos do usuário para entender melhor o que o aplicativo deveria fornecer nas suas funcionalidades buscando atender as personas propostas.<a href="#bibliografia">[1]</a></p>
+<p style="text-align: justify;"> Essa técnica utiliza de personas, que são usuários fictícios, para contar uma história. São criadas histórias sobre objetivos e gostos do usuário para entender melhor o que o aplicativo deveria fornecer nas suas funcionalidades buscando atender as personas propostas.
+</p>
 
 ## 2. Personas
 
 
 ### Persona Primária: Nezuko Kamado <a id="NezukoKamado"></a>
 <figure markdown>
-                    !(https://user-images.githubusercontent.com/83254747/154366488-9dbdf68a-f651-43d0-a874-05897bf248d6.png)
+                    ![NezukoKamado](https://user-images.githubusercontent.com/83254747/154366488-9dbdf68a-f651-43d0-a874-05897bf248d6.png)
                     <figcaption>Figura 1: Foto da Nezuko
                     </figcaption>
                 </figure>
@@ -22,7 +23,7 @@
         <tr>
             <td rowspan="7" colspan="5" style="width: 350px">
                 <figure markdown>
-                    !(https://user-images.githubusercontent.com/83254747/154366488-9dbdf68a-f651-43d0-a874-05897bf248d6.png)
+                    ![NezukoKamado](https://user-images.githubusercontent.com/83254747/154366488-9dbdf68a-f651-43d0-a874-05897bf248d6.png)
                     <figcaption>Figura 1: Foto da Nezuko
                     </figcaption>
                 </figure>
@@ -196,10 +197,10 @@
 ## 3. Situações
 
 ###  Urgência
-<p style="text-indent: 40px; align = "justify"><a href="#ZenitsuAgatsuma">Zenitsu</a> desde muito cedo tem problema de saúde, tem quadros  de epilepsia que apesar de ser muito raro de acontecer, são muito graves e necessita de ajuda. Quando ficou sabendo que o aplicativo fornece a opção de registrar contatos de emergência baixou o aplicativo para se sentir mais seguro no trabalho.</p>
+<p style="text-align: justify;"><a href="#ZenitsuAgatsuma">Zenitsu</a> desde muito cedo tem problema de saúde, tem quadros  de epilepsia que apesar de ser muito raro de acontecer, são muito graves e necessita de ajuda. Quando ficou sabendo que o aplicativo fornece a opção de registrar contatos de emergência baixou o aplicativo para se sentir mais seguro no trabalho.</p>
 
 ###  Apresentar cartão de Vacina 
-<p style="text-indent: 40px; align = "justify"><a href="#NezukoKamado">Nezuko</a> está muito focada nos estudos se preparando para o curso de medicina na UnB, além disso ela trabalha como atendente de supermercado, já que mora sozinha não tem tempo para realizar tarefas muito complicadas, pois alem de trabalhar e cuidar da cas tem que estudar. Com a vacinação já realizada em boa parte da população <a href="#NezukoKamado">Nezuko</a> tem medo de ser necessário apresentar o cartão de vacina, porém ela perdeu o físico. Porem, ela ficou sabendo no trabalho que existe o aplicativo ConecteSUS que permite emitir um cartão de vacina nacional, ela já fez o registro e está tentando emitir o cartão agora.</p>
+<p style="text-align: justify;"><a href="#NezukoKamado">Nezuko</a> está muito focada nos estudos se preparando para o curso de medicina na UnB, além disso ela trabalha como atendente de supermercado, já que mora sozinha não tem tempo para realizar tarefas muito complicadas, pois alem de trabalhar e cuidar da cas tem que estudar. Com a vacinação já realizada em boa parte da população <a href="#NezukoKamado">Nezuko</a> tem medo de ser necessário apresentar o cartão de vacina, porém ela perdeu o físico. Porem, ela ficou sabendo no trabalho que existe o aplicativo ConecteSUS que permite emitir um cartão de vacina nacional, ela já fez o registro e está tentando emitir o cartão agora.</p>
 
 
 ## 4. Requisitos Funcionais
@@ -227,12 +228,12 @@
 | RNF 03 | O sistema não pode ficar fora do ar muito tempo. |
 | RNF 05 | Os dados do usuário devem ser protegidos. |
 
-## 6. Bibliografia  <a id="Bibliografia"></a>
+## Bibliografia
 
-[1] - VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; **Engenharia de Requisitos**: Software orientado ao negócio. 1. ed. Brasil: Brasport, 2016.
+> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; **Engenharia de Requisitos**: Software orientado ao negócio. 1. ed. Brasil: Brasport, 2016.
 
 ## Histórico de Versão
 
-| Versão | Data | Modificação | Autor | Revisores |
+| Versão | Data | Descrição | Autor | Revisor |
 |:--:|:--:|:--:|:--:|:--:|
-| 1.0 | 15/02/2022 | Criação do documento | Daniel Vinicius e Ricardo Loureiro | Ana Carolina e Erick |
+| 0.1 | 15/02/2022 | Criação do documento | Daniel Vinicius e Ricardo Loureiro | Ana Carolina e Erick |
