@@ -1,16 +1,16 @@
 ## 1. Introdução
 
-&emsp;&emsp;A Introspecção é uma das mais habituais técnicas de elicitação de requisitos. Através dessa metodologia, o investigador busca levantar os requisitos através de suas próprias observações e deduções do conteúdo. Sob a perspectiva de sua própria reflexão, o programador se coloca no lugar do usuário e pensar em todas as possibilidades de fluxo e erro.
+<p style="text-align: justify;">A Introspecção é uma das mais habituais técnicas de elicitação de requisitos. Através dessa metodologia, o investigador busca levantar os requisitos através de suas próprias observações e deduções do conteúdo. Sob a perspectiva de sua própria reflexão, o programador se coloca no lugar do usuário e pensar em todas as possibilidades de fluxo e erro. </p>
 
-&emsp;&emsp;Apesar de ser prática e comumente usada, essa técnica não traz certo grau de exatidão no levantamento. A introspecção agrega na descoberta de requisitos mais superficiais e abrangentes, sendo um bom ponto de partida para começar o processo de elecitação de requisitos. Sendo assim, a equipe fez o processo de indagação conjunta do passo-a-passo do aplicativo, limitado sob escopo estabelecido no documento de Rich Picture.
+<p style="text-align: justify;">Apesar de ser prática e comumente usada, essa técnica não traz certo grau de exatidão no levantamento. A introspecção agrega na descoberta de requisitos mais superficiais e abrangentes, sendo um bom ponto de partida para começar o processo de elecitação de requisitos. Sendo assim, a equipe fez o processo de indagação conjunta do passo-a-passo do aplicativo, limitado sob escopo estabelecido no documento de Rich Picture.</p>
 
 ## 2. Metodologia
 
-&emsp;&emsp;Para poder realizar essa técnica, três integrantes do grupo se reuniram e debateram sobre os possíveis percursos do usuário em uma dinâmica alternativa, em que enquanto uma pessoa apresentava um possível requisito, outro integrante analisava concordando ou discordando do requisito apresentado, enquanto que a terceira pessoa era responsável para escrever o que foi decidido no documento.
+<p style="text-align: justify;">Para poder realizar essa técnica, três integrantes do grupo se reuniram e debateram sobre os possíveis percursos do usuário em uma dinâmica alternativa, em que enquanto uma pessoa apresentava um possível requisito, outro integrante analisava concordando ou discordando do requisito apresentado, enquanto que a terceira pessoa era responsável para escrever o que foi decidido no documento.</p>
 
 ## 3. Resultados
 
-&emsp;&emsp;Como resultado dessa técnica, foram levantados 24 requisitos que ainda não haviam sido filtrados ou comparados com as outras técnicas. Estes estão listados a seguir:
+<p style="text-align: justify;">Como resultado dessa técnica, foram levantados 24 requisitos que ainda não haviam sido filtrados ou comparados com as outras técnicas. Estes estão listados a seguir:</p>
 
 <!-- <center>
 
@@ -45,7 +45,7 @@
 | 19  | Nezuko Kamado |            Deve acessar o cartão de vacinação            |
 | 20  | Nezuko Kamado |               Deve acessar o cartão do SUS               |
 
-<figcaption>Tabela 1: Requisitos funcionais.</figcaption>
+<center> <figcaption>Tabela 1: Requisitos funcionais.</figcaption> </center>
 
 ### 3.2 Requisitos Não funcionais
 
@@ -56,16 +56,16 @@
 | 23  | Nezuko Kamado | Os usuários devem conseguir encontrar a funcionalidade desejada rapidamente |
 | 24  | Nezuko Kamado |              O aplicativo deve proteger os dados dos usuários.              |
 
-<figcaption>Tabela 1: Requisitos Não funcionais.</figcaption>
+<center> <figcaption>Tabela 1: Requisitos Não funcionais.</figcaption> </center>
 
 ## Bibliografia
 
-- SOMMERVILLE. Ian. 2011. Engenharia de Software.
-- Software Requeriments Engineering. Disponível em: https://web.uettaxila.edu.pk/CMS/SP2013/seSREbs/notes%5CSRE%20Lec_%204.pdf Acesso em: 16 fev. 2021.
-- https://github.com/Requisitos-de-Software/2020.2-CarteiraDigitalTransito/blob/- main/docs/elicitacao/introspeccao.md
-- https://requisitos-de-software.github.io/2021.1-Hemovida/#/./elicitacao/introspeccao
-- https://requisitos-de-software.github.io/2021.1-Ingresso.com/elicitacao/introspeccao/
-- https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Elicitacao/Tecnicas/inpeccao/
+> SOMMERVILLE. Ian. 2011. Engenharia de Software.
+> Software Requeriments Engineering. Disponível em: https://web.uettaxila.edu.pk/CMS/SP2013/seSREbs/notes%5CSRE%20Lec_%204.pdf Acesso em: 16 fev. 2021.
+> https://github.com/Requisitos-de-Software/2020.2-CarteiraDigitalTransito/blob/- main/docs/elicitacao/introspeccao.md
+> https://requisitos-de-software.github.io/2021.1-Hemovida/#/./elicitacao/introspeccao
+> https://requisitos-de-software.github.io/2021.1-Ingresso.com/elicitacao/introspeccao/
+> https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Elicitacao/Tecnicas/inpeccao/
 
 ## Histórico de Versão
 

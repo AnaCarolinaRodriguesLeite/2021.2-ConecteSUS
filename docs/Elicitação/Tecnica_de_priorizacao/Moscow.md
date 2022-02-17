@@ -8,11 +8,12 @@
 
 ### 2. Metodologia
 
+<p style="text-align: justify;">
 - Must: Significa que o requisito deve ser importante para a solução ser considerada um sucesso.
 - Should: Significa que o requisito é importante e deve ser implementado, mas sua implementação ou não, não irá interferir diretamente no sucesso da solução.
 - Could: Significa que o requisito indicado não precisa ser necessariamente implementado, apenas se tiver tem e recursos.
 Won't: Significa que o requisito indicado não precisa ser implementado naquele momento, podendo ser implementado nos futuros lançamentos.
-
+</p>
 
 ### 3. Participantes
 
