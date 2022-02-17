@@ -156,3 +156,14 @@
         </tr>
     </tbody>
 </table>
+
+## Bibliografia
+
+> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; **Engenharia de Requisitos**: Software orientado ao negócio. 1. ed. Brasil: Brasport, 2016.
+
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor | Revisor |
+|:--:|:--:|:--:|:--:|:--:|
+| 0.1 | 15/02/2022 | Criação do documento | Daniel Vinicius e Ricardo Loureiro | Ana Carolina e Erick |
