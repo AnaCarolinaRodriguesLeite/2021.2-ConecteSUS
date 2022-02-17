@@ -4,7 +4,7 @@
 ### 1. Introdução
 
 
-<p style="text-indent: 40px; align = "justify"> Existe um processo chamado priorização de requisitos, o qual ajuda a manter uma entrega rápida do máximo de funcionalidades possíveis dentro das restrições do projeto. Para realizar esse processo foi escolhido a técnica MoSCoW. Suas letras maiúsculas indicam o esquema de priorização que deve ser seguido: </p>
+<p style="text-align: justify;"> Existe um processo chamado priorização de requisitos, o qual ajuda a manter uma entrega rápida do máximo de funcionalidades possíveis dentro das restrições do projeto. Para realizar esse processo foi escolhido a técnica MoSCoW. Suas letras maiúsculas indicam o esquema de priorização que deve ser seguido: </p>
 
 ### 2. Metodologia
 
