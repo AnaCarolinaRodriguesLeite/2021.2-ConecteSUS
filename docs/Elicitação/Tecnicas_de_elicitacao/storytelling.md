@@ -8,7 +8,11 @@
 
 
 ### Persona Primária: Nezuko Kamado <a id="NezukoKamado"></a>
-
+<figure markdown>
+                    !(https://user-images.githubusercontent.com/83254747/154366488-9dbdf68a-f651-43d0-a874-05897bf248d6.png)
+                    <figcaption>Figura 1: Foto da Nezuko
+                    </figcaption>
+                </figure>
 
 <table>
     <thead>
@@ -17,8 +21,8 @@
     <tbody>
         <tr>
             <td rowspan="7" colspan="5" style="width: 350px">
-                <figure>
-                    <img src="../../assets/nezuko.png" height="175" width="175" alt="Foto de Nezuko"></img>
+                <figure markdown>
+                    !(https://user-images.githubusercontent.com/83254747/154366488-9dbdf68a-f651-43d0-a874-05897bf248d6.png)
                     <figcaption>Figura 1: Foto da Nezuko
                     </figcaption>
                 </figure>
