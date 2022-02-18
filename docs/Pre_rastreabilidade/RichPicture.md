@@ -20,7 +20,7 @@
 
 </center>
 
-### 2.1 Versão 1.0
+### 2.2 Versão 1.0
 
 <center>
 
@@ -33,7 +33,7 @@
 
 </center>
 
-#### 2.1.1 Legenda
+#### 2.2.1 Legenda
 
 <p style="text-align: justify;">Para a confecção deste Rich Picture, foi utilizada uma notação própria para o projeto, que é explicada na legenda a seguir.
 </p>
@@ -53,7 +53,7 @@
 
 >Young, Ralph. **Requirements Engineering Handbook**. Norwood, US: Artech House Books, 2003.
 
->Leite, Julio Cesar Sampaio do Prado. **Livro Vivo - Engenharia de Requisitos**. Disponível em: http://livrodeengenhariaderequisitos.blogspot.com.br/
+>Leite, Julio Cesar Sampaio do Prado. **Livro Vivo - Engenharia de Requisitos**. Disponível em: http://livrodeengenhariaderequisitos.blogspot.com.br/ 
 
 >Chemuturi, Murali. **Mastering Software Quality Assurance : Best Practices, Tools and Technique for Software Developers**. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010.
 

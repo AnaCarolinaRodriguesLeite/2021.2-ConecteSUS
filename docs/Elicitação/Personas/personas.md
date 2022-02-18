@@ -2,8 +2,8 @@
 
 <p style="text-align: justify;"> Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário.</p>
 
-
-### Persona Primária: Nezuko Kamado <a id="NezukoKamado"></a>
+### 2.Personas
+#### Persona Primária: Nezuko Kamado <a id="NezukoKamado"></a>
 
 ![persona](../assets/claudia.png)
 
@@ -55,6 +55,7 @@
     </tbody>
 </table>
 
+<figcaption>Tabela 1: Persona primária.</figcaption>
 
 ### Persona Secundária: Zenitsu Agatsuma <a id="ZenitsuAgatsuma"></a>
 
@@ -108,6 +109,7 @@
     </tbody>
 </table>
 
+<figcaption>Tabela 2: Persona secundária.</figcaption>
 
 ### Antipersona: Kanae Kocho <a id="KanaeKocho"></a>
 
@@ -156,6 +158,8 @@
         </tr>
     </tbody>
 </table>
+
+<figcaption>Tabela 3: Antipersona.</figcaption>
 
 ## Bibliografia
 

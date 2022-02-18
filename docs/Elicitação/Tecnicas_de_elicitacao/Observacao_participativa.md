@@ -63,6 +63,8 @@
 | RF 44 |	O usuário deve poder avaliar o aplicativo. |
 | RF 45 |	O usuário deve poder fazer logout. |
 
+<figcaption>Tabela 1: Requisitos funcionais.</figcaption>
+
 ## Bibliografia
 
 >VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; Engenharia de Requisitos: Software orientado ao negócio. 1. ed. Brasil: Brasport, 2016.

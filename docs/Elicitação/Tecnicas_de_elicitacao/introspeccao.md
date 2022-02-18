@@ -56,21 +56,21 @@
 | 23  | Nezuko Kamado | Os usuários devem conseguir encontrar a funcionalidade desejada rapidamente |
 | 24  | Nezuko Kamado |              O aplicativo deve proteger os dados dos usuários.              |
 
-<center> <figcaption>Tabela 1: Requisitos Não funcionais.</figcaption> </center>
+<center> <figcaption>Tabela 2: Requisitos Não funcionais.</figcaption> </center>
 
 ## Bibliografia
 
 > SOMMERVILLE, Ian. 2011. Engenharia de Software.
 
-> JAVED, Ali. 2013. Software Requeriments Engineering. Disponível em: https://web.uettaxila.edu.pk/CMS/SP2013/seSREbs/notes%5CSRE%20Lec_%204.pdf. Acesso em: 16/02/2022.
+> JAVED, Ali. 2013. Software Requeriments Engineering. Disponível em: https://web.uettaxila.edu.pk/CMS/SP2013/seSREbs/notes%5CSRE%20Lec_%204.pdf . Acesso em: 16/02/2022.
 
-> Carteira Digital de Transito. Disponível em : https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/elicitacao/introspeccao/ . Acesso em: 16/02/2022.
+> Carteira Digital de Transito. Disponível em : https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/elicitacao/introspeccao/  . Acesso em: 16/02/2022.
 
-> Hemovida. Disponível em: https://requisitos-de-software.github.io/2021.1-Hemovida/#/./elicitacao/introspeccao .Acesso em: 16/02/2022.
+> Hemovida. Disponível em: https://requisitos-de-software.github.io/2021.1-Hemovida/#/./elicitacao/introspeccao  .Acesso em: 16/02/2022.
 
-> Ingresso.com. Disponível em: https://requisitos-de-software.github.io/2021.1-Ingresso.com/elicitacao/introspeccao/ .Acesso em: 16/02/2022.
+> Ingresso.com. Disponível em: https://requisitos-de-software.github.io/2021.1-Ingresso.com/elicitacao/introspeccao/  .Acesso em: 16/02/2022.
 
-> Caixa tem. Disponível em: https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Elicitacao/Tecnicas/inpeccao/ .Acesso em: 16/02/2022.
+> Caixa tem. Disponível em: https://requisitos-de-software.github.io/2021.1-Caixa_Tem/Elicitacao/Tecnicas/inpeccao/  .Acesso em: 16/02/2022.
 
 ## Histórico de Versão
 

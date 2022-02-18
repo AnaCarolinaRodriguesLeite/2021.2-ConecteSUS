@@ -84,11 +84,11 @@
 
 >SOMMERVILLE, Ian. 2011. Engenharia de software. 10. ed. São Paulo: Pearson Addison Wesley, 2019.
 
->Metodologia Ágil: O que é Kanban. Programadores Brasil, 2020. Disponível em: https://programadoresbrasil.com.br/2020/02/metodologia-agil-o-que-e-kanban/. Acesso: 08/02/2022.
+>Metodologia Ágil: O que é Kanban. Programadores Brasil, 2020. Disponível em: https://programadoresbrasil.com.br/2020/02/metodologia-agil-o-que-e-kanban/ . Acesso: 08/02/2022.
 
->Extreme Programming. Agile Alliance. Disponível em: https://www.agilealliance.org/glossary/xp/#.YRnn2znQQyc. Acesso: 08/02/2022.
+>Extreme Programming. Agile Alliance. Disponível em: https://www.agilealliance.org/glossary/xp/#.YRnn2znQQyc . Acesso: 08/02/2022.
 
->Metodologia Ágil: O que é Scrum. Programadores Brasil, 2020. Disponível em: https://programadoresbrasil.com.br/2020/02/o-que-e-scrum-metodologia-agil/. Acesso: 08/02/2022.
+>Metodologia Ágil: O que é Scrum. Programadores Brasil, 2020. Disponível em: https://programadoresbrasil.com.br/2020/02/o-que-e-scrum-metodologia-agil/ . Acesso: 08/02/2022.
 
 
 ## Histórico de versão

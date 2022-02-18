@@ -19,7 +19,7 @@
 
 ### Bibliografia
 
-> LEONHARDT, Rodrigo. 2019. Priorização #02 — MoSCoW. Disponível em: https://medium.com/gerindo-produtos-digitais/prioriza%C3%A7%C3%A3o-02-moscow-84362fbc9350. Acesso: 17/02/2022.
+> LEONHARDT, Rodrigo. 2019. Priorização #02 — MoSCoW. Disponível em: https://medium.com/gerindo-produtos-digitais/prioriza%C3%A7%C3%A3o-02-moscow-84362fbc9350 . Acesso: 17/02/2022.
 
 
 ## Histórico de versão 

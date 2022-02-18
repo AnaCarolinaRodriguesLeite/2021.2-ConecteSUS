@@ -65,10 +65,11 @@
 | BS20 | O aplicativo deve apresentar persistência de login                                 | RNF                |
 | BS21 | O aplicativo poderia ter outras formas de login                                    | RNF                |
 
+<figcaption>Tabela 1: Requisitos funcionais e não funcionais.</figcaption>
 
 ## Bibliografia
 
->WOEBCKEN, Cayo. 2019. O que é brainstorming e as 7 melhores técnicas para a tomada de decisões inteligentes. Disponível em: https://rockcontent.com/br/blog/brainstorming/. Acesso em: 17/02/2022.
+>WOEBCKEN, Cayo. 2019. O que é brainstorming e as 7 melhores técnicas para a tomada de decisões inteligentes. Disponível em: https://rockcontent.com/br/blog/brainstorming/ . Acesso em: 17/02/2022.
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
