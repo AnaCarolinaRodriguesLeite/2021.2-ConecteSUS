@@ -65,7 +65,7 @@
 | BS20 | O aplicativo deve apresentar persistência de login                                 | RNF                |
 | BS21 | O aplicativo poderia ter outras formas de login                                    | RNF                |
 
-<figcaption>Tabela 1: Requisitos funcionais e não funcionais.</figcaption>
+<center> <figcaption>Tabela 1: Requisitos funcionais e não funcionais.</figcaption> </center>
 
 ## Bibliografia
 

@@ -63,7 +63,7 @@
 | RF 44 |	O usuário deve poder avaliar o aplicativo. |
 | RF 45 |	O usuário deve poder fazer logout. |
 
-<figcaption>Tabela 1: Requisitos funcionais.</figcaption>
+<center> <figcaption>Tabela 1: Requisitos funcionais.</figcaption> </center>
 
 ## Bibliografia
 

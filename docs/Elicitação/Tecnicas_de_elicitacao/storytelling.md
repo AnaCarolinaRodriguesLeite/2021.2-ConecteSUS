@@ -72,7 +72,7 @@
     </tbody>
 </table>
 
-<figcaption>Tabela 1: Persona primária.</figcaption>
+<center> <figcaption>Tabela 1: Persona primária.</figcaption> </center>
 
 ### Persona Secundária: Zenitsu Agatsuma <a id="ZenitsuAgatsuma"></a>
 
@@ -135,7 +135,7 @@
     </tbody>
 </table>
 
-<figcaption>Tabela 2: Persona secundária.</figcaption>
+<center> <figcaption>Tabela 2: Persona secundária.</figcaption> </center>
 
 ### Antipersona: Kanae Kocho <a id="KanaeKocho"></a>
 
@@ -195,7 +195,7 @@
     </tbody>
 </table>
 
-<figcaption>Tabela 3: Antipersona.</figcaption>
+<center> <figcaption>Tabela 3: Antipersona.</figcaption> </center>
 
 ## 3. Situações
 
@@ -222,7 +222,7 @@
 | RF 10 | O usuário pode emitir certificado de vacina COVID-19. | 
 | RF 11 | O usuário pode emitir Carteira Nacional de Vacinação. | 
 
-<figcaption>Tabela 4: Requisitos Funcionais.</figcaption>
+<center> <figcaption>Tabela 4: Requisitos Funcionais.</figcaption> </center>
 
 
 ## 5. Requisitos Não - Funcionais <a id="StorytellingNFuncional"></a>
@@ -234,7 +234,7 @@
 | RNF 03 | O sistema não pode ficar fora do ar muito tempo. |
 | RNF 05 | Os dados do usuário devem ser protegidos. |
 
-<figcaption>Tabela 5: Requisitos Não funcionais.</figcaption>
+<center> <figcaption>Tabela 5: Requisitos Não funcionais.</figcaption> </center>
 
 ## Bibliografia
 

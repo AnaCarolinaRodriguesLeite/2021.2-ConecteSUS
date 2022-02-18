@@ -16,6 +16,7 @@
 | <img src="https://user-images.githubusercontent.com/49570180/152993039-9dce211b-0d20-4fb1-9965-f0ed6ad7d9f7.png" width="150" title="Canva">| Canva | Elaboração das apresentações |
 | <img src="https://user-images.githubusercontent.com/49570180/152993064-9278b5f4-ee8c-4823-837e-541529ac3bc5.png" width="150" title="Miro"> | Miro | Utilizado para elaboração dos Rich Pictures |
 
+<center> <figcaption>Tabela 1: ferramentas usadas.</figcaption> </center>
 
 ## Histórico de versão
 

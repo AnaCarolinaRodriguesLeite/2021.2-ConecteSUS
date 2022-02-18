@@ -55,7 +55,7 @@
     </tbody>
 </table>
 
-<figcaption>Tabela 1: Persona primária.</figcaption>
+<center> <figcaption>Tabela 1: Persona primária.</figcaption> </center>
 
 ### Persona Secundária: Zenitsu Agatsuma <a id="ZenitsuAgatsuma"></a>
 
@@ -109,7 +109,7 @@
     </tbody>
 </table>
 
-<figcaption>Tabela 2: Persona secundária.</figcaption>
+<center> <figcaption>Tabela 2: Persona secundária.</figcaption> </center>
 
 ### Antipersona: Kanae Kocho <a id="KanaeKocho"></a>
 
@@ -159,7 +159,7 @@
     </tbody>
 </table>
 
-<figcaption>Tabela 3: Antipersona.</figcaption>
+<center> <figcaption>Tabela 3: Antipersona.</figcaption> </center>
 
 ## Bibliografia
 
