@@ -244,4 +244,4 @@
 
 | Versão | Data | Descrição | Autor | Revisor |
 |:--:|:--:|:--:|:--:|:--:|
-| 0.1 | 15/02/2022 | Criação do documento | Daniel Vinicius e Ricardo Loureiro | Ana Carolina e Erick |
+| 1.0 | 15/02/2022 | Criação do documento | Daniel Vinicius e Ricardo Loureiro | Ana Carolina e Erick |
