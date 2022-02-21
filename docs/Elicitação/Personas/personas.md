@@ -6,17 +6,23 @@
 
 #### Persona Primária: Nezuko Kamado <a id="NezukoKamado"></a>
 
-<center>
-
-<a href="https://ibb.co/jvnKbCD"><img src="https://i.ibb.co/TB9XYQt/nezuko.jpg" alt="nezuko"  alt="Image" height="180" width="180" border="0"></a>
-
-</center>
 
 <table>
     <thead>
         <th colspan="10" style="text-align: center">Nezuko Kamado</th>
     </thead>
     <tbody>
+        <tr>
+            <td rowspan="7" colspan="5" style="width: 350px">
+                <figure>
+                    <center>
+                    <a href="https://ibb.co/jvnKbCD"><img src="https://i.ibb.co/TB9XYQt/nezuko.jpg" alt="nezuko"  alt="Image" height="180" width="180" border="0"></a>
+                    </center>
+                    <figcaption>Figura 1: Foto da Kanae
+                    </figcaption>
+                </figure>
+            </td>
+        </tr>
         <tr>
             <td class="titulo"><strong>Idade:</strong></td>
             <td class="persona" colspan="1">18 anos.</td>
@@ -64,17 +70,23 @@
 
 ### Persona Secundária: Zenitsu Agatsuma <a id="ZenitsuAgatsuma"></a>
 
-<center>
-
-<a href="https://ibb.co/z7z0DgN"><img src="https://i.ibb.co/dLRzxv7/zenitsu.jpg" alt="zenitsu" height="180" width="180" border="0"></a>
-
-</center>
 
 <table>
     <thead>
         <th colspan="10" style="text-align: center">Zenitsu Agatsuma</th>
     </thead>
     <tbody>
+        <tr>
+            <td rowspan="7" colspan="5" style="width: 350px">
+                <figure>
+                    <center>
+                    <a href="https://ibb.co/z7z0DgN"><img src="https://i.ibb.co/dLRzxv7/zenitsu.jpg" alt="zenitsu" height="180" width="180" border="0"></a>
+                    </center>
+                    <figcaption>Figura 1: Foto da Kanae
+                    </figcaption>
+                </figure>
+            </td>
+        </tr>
         <tr>
             <td class="titulo"><strong>Idade:</strong></td>
             <td class="persona" colspan="1">30 anos.</td>
@@ -122,17 +134,23 @@
 
 ### Antipersona: Kanae Kocho <a id="KanaeKocho"></a>
 
-<center>
-
-<a href="https://ibb.co/gZqxb9J"><img src="https://i.ibb.co/N2DMgCK/kanae.jpg" alt="kanae" height="180" width="180" border="0"></a>
-
-</center>
 
 <table> <a id="KanaeKocho"></a>
     <thead>
         <th colspan="10" style="text-align: center">Kanae Kocho</th>
     </thead>
     <tbody>
+        <tr>
+            <td rowspan="7" colspan="5" style="width: 350px">
+                <figure>
+                    <center>
+                    <a href="https://ibb.co/gZqxb9J"><img src="https://i.ibb.co/N2DMgCK/kanae.jpg" alt="kanae" height="180" width="180" border="0"></a>
+                    </center>
+                    <figcaption>Figura 1: Foto da Kanae
+                    </figcaption>
+                </figure>
+            </td>
+        </tr>
         <tr>
             <td class="titulo"><strong>Idade:</strong></td>
             <td class="persona" colspan="1">22 anos.</td>
