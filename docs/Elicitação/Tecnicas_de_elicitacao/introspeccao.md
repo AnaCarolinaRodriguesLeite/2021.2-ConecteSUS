@@ -76,5 +76,6 @@
 
 | Versão |    Data    |                               Descrição                                |             Autor             | Revisor |
 | :----: | :--------: | :----------------------------------------------------------------------: | :---------------------------: | :-------: |
-|  1.0   | 15/02/2022 |                           Criação do documento                           | Gustave Persijn, Ana Carolina |  Daniel   |
-|  2.0   | 16/02/2022 | Correção de algumas informações na tabela, adição de legenda das tabelas | Gustave Persijn, Ana Carolina |  Daniel   |
+|  0.1   | 15/02/2022 |                           Criação do documento                           | Gustave Persijn, Ana Carolina |  Daniel   |
+|  0.2   | 16/02/2022 | Correção de algumas informações na tabela, adição de legenda das tabelas | Gustave Persijn, Ana Carolina |  Daniel   |
+|    0.3   | 20/02/2022 |  Revisão  da v0.1 e v0.2 | Daniel | - |

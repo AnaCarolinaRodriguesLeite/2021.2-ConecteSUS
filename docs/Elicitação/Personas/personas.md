@@ -171,3 +171,5 @@
 | Versão | Data | Descrição | Autor | Revisor |
 |:--:|:--:|:--:|:--:|:--:|
 | 0.1 | 15/02/2022 | Criação do documento | Daniel Vinicius e Ricardo Loureiro | Ana Carolina e Erick |
+|    0.2  | 20/02/2022 |  Revisão  da v0.1  | Erick Melo | - |
+|    0.3  | 20/02/2022 |  Revisão  da v0.2  | Ana Carolina | - |

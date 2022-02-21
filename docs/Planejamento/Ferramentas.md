@@ -25,3 +25,4 @@
 | 0.1    | 07/02/2022 | Criação da página de ferramentas | Ana Carolina | Erick Melo |
 | 0.2    | 08/02/2022 | Correção das figuras | Ana Carolina | Erick Melo |
 | 0.3    | 14/02/2022 | Correção do tamanho das figuras | Erick Melo | Daniel Vinicius |
+|    0.4   | 20/02/2022 |  Revisão  da v0.1, v0.2 e v0.3| Erick e Daniel | - |

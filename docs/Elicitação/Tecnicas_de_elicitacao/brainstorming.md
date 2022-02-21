@@ -74,5 +74,5 @@
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 |:--:|:--:|:--:|:--:|:--:|
-|0.1|16/02|Criação dos requistos através da técnica|Todos|Todos|
+|0.1|16/02/2022|Criação dos requistos através da técnica|Todos|Todos|
 

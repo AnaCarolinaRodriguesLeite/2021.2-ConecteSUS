@@ -97,3 +97,4 @@
 | ------ | ---------- | ----------------------------------------- | ------------ | ------------ |
 | 0.1    | 08/02/2022 | Criação da primeira versão metodologia    | Ana Carolina | Ricardo Loureiro |
 | 0.2    | 08/02/2022 | Correção das imagens                      | Ana Carolina | Ricardo Loureiro |
+|    0.3   | 20/02/2022 |  Revisão  da v0.1 e v0.2 | Ricardo Loureiro  | - |

@@ -46,4 +46,5 @@
 | Versão | Data       | Descrição                                           | Autor        | Revisor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ | ------------ |
 | 0.1    | 07/02/2022 | Criação do documento | Daniel e Ricardo Loureiro | Erick e Gustave |
-| 0.2    | 17/02/2022 | Correção do documento | Ana Carolina | Gustave | 
+| 0.2    | 17/02/2022 | Correção do documento | Ana Carolina | Erick e Gustave | 
+|    0.3   | 20/02/2022 |  Revisão  da v0.1 e v0.2| Erick e Gustave | - |
