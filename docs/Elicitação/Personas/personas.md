@@ -3,9 +3,14 @@
 <p style="text-align: justify;"> Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário.</p>
 
 ### 2.Personas
+
 #### Persona Primária: Nezuko Kamado <a id="NezukoKamado"></a>
 
-![persona](../assets/claudia.png)
+<center>
+
+<a href="https://ibb.co/jvnKbCD"><img src="https://i.ibb.co/TB9XYQt/nezuko.jpg" alt="nezuko"  alt="Image" height="120" width="120" border="0"></a>
+
+</center>
 
 <table>
     <thead>
@@ -165,9 +170,8 @@
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; **Engenharia de Requisitos**: Software orientado ao negócio. 1. ed. Brasil: Brasport, 2016.
 
-
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor | Revisor |
-|:--:|:--:|:--:|:--:|:--:|
-| 0.1 | 15/02/2022 | Criação do documento | Daniel Vinicius e Ricardo Loureiro | Ana Carolina e Erick |
+| Versão |    Data    |      Descrição       |               Autor                |       Revisor        |
+| :----: | :--------: | :------------------: | :--------------------------------: | :------------------: |
+|  0.1   | 15/02/2022 | Criação do documento | Daniel Vinicius e Ricardo Loureiro | Ana Carolina e Erick |
