@@ -40,7 +40,7 @@
 
 <center>
 
-![Legenda](https://user-images.githubusercontent.com/49570180/152996472-e7bf8c13-5a4b-4f5f-9730-27aef65e61cc.jpg)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/bBn11Lm/print-tabela-miro.png" alt="print-tabela-miro" border="0"></a>
 
  <figcaption>
       <b>Imagem 3: Legenda do Rich Picture versão 1</b>
@@ -51,17 +51,17 @@
 
 ## Bibliografia
 
->Young, Ralph. **Requirements Engineering Handbook**. Norwood, US: Artech House Books, 2003.
+> Young, Ralph. **Requirements Engineering Handbook**. Norwood, US: Artech House Books, 2003.
 
->Leite, Julio Cesar Sampaio do Prado. **Livro Vivo - Engenharia de Requisitos**. Disponível em: http://livrodeengenhariaderequisitos.blogspot.com.br/ 
+> Leite, Julio Cesar Sampaio do Prado. **Livro Vivo - Engenharia de Requisitos**. Disponível em: http://livrodeengenhariaderequisitos.blogspot.com.br/
 
->Chemuturi, Murali. **Mastering Software Quality Assurance : Best Practices, Tools and Technique for Software Developers**. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010.
+> Chemuturi, Murali. **Mastering Software Quality Assurance : Best Practices, Tools and Technique for Software Developers**. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010.
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                          | Autor                | Revisor                |
-| ------ | ---------- | ---------------------------------- | -------------------- | -------------------- |
-| 0.1    | 08/02/2022 | Criação do Rich Picture Versão 0.1   | Ana Carolina |  Erick Melo |
+| Versão | Data       | Descrição                          | Autor          | Revisor      |
+| ------ | ---------- | ---------------------------------- | -------------- | ------------ |
+| 0.1    | 08/02/2022 | Criação do Rich Picture Versão 0.1 | Ana Carolina   | Erick Melo   |
 | 0.2    | 08/02/2022 | Criação do Rich Picture Versão 1   | Gustave, Erick | Ana Carolina |
-| 0.3    | 08/02/2022 | Introdução e Referências,legenda  | Ana Carolina | Erick Melo|
-| 0.4    | 08/02/2022 | Correção das imagens  | Ana Carolina | Erick Melo |
+| 0.3    | 08/02/2022 | Introdução e Referências,legenda   | Ana Carolina   | Erick Melo   |
+| 0.4    | 08/02/2022 | Correção das imagens               | Ana Carolina   | Erick Melo   |
