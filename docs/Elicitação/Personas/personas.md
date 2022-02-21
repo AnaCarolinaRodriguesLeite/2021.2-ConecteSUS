@@ -18,7 +18,7 @@
                     <center>
                     <a href="https://ibb.co/jvnKbCD"><img src="https://i.ibb.co/TB9XYQt/nezuko.jpg" alt="nezuko"  alt="Image" height="180" width="180" border="0"></a>
                     </center>
-                    <figcaption>Figura 1: Foto da Kanae
+                    <figcaption>Figura 1: Foto da Nezuko
                     </figcaption>
                 </figure>
             </td>
@@ -82,7 +82,7 @@
                     <center>
                     <a href="https://ibb.co/z7z0DgN"><img src="https://i.ibb.co/dLRzxv7/zenitsu.jpg" alt="zenitsu" height="180" width="180" border="0"></a>
                     </center>
-                    <figcaption>Figura 1: Foto da Kanae
+                    <figcaption>Figura 1: Foto do Zenitsu
                     </figcaption>
                 </figure>
             </td>
