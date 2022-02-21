@@ -28,7 +28,7 @@
 | ID    | Requisitos                                                                                            | MosCoW |
 | ----- | ----------------------------------------------------------------------------------------------------- | :----: |
 | RF 01 | O usuário deve poder visualizar informações gerais sem efetuar o login.                               | Could  |
-| RF 02 | Ousuário deve poder efetuar o login no gov.br com o cpf.                                              |  Must  |
+| RF 02 | O usuário deve poder efetuar o login no gov.br com o cpf.                                              |  Must  |
 | RF 03 | O usuário deve poder escolher outras opções de identificação para login.                              | Could  |
 | RF 04 | O usuário deve poder ver a senha inserida.                                                            | Should |
 | RF 05 | O usuário deve ter uma alternativa de recuperação de senha caso tenha esquecido.                      |  Must  |
