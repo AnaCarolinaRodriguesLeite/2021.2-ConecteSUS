@@ -8,7 +8,7 @@
 
 <center>
 
-<a href="https://ibb.co/jvnKbCD"><img src="https://i.ibb.co/TB9XYQt/nezuko.jpg" alt="nezuko"  alt="Image" height="120" width="120" border="0"></a>
+<a href="https://ibb.co/jvnKbCD"><img src="https://i.ibb.co/TB9XYQt/nezuko.jpg" alt="nezuko"  alt="Image" height="180" width="180" border="0"></a>
 
 </center>
 
@@ -64,7 +64,11 @@
 
 ### Persona Secundária: Zenitsu Agatsuma <a id="ZenitsuAgatsuma"></a>
 
-![persona](../assets/claudia.png)
+<center>
+
+<a href="https://ibb.co/z7z0DgN"><img src="https://i.ibb.co/dLRzxv7/zenitsu.jpg" alt="zenitsu" height="180" width="180" border="0"></a>
+
+</center>
 
 <table>
     <thead>
@@ -118,7 +122,11 @@
 
 ### Antipersona: Kanae Kocho <a id="KanaeKocho"></a>
 
-![persona](../assets/claudia.png)
+<center>
+
+<a href="https://ibb.co/gZqxb9J"><img src="https://i.ibb.co/N2DMgCK/kanae.jpg" alt="kanae" height="180" width="180" border="0"></a>
+
+</center>
 
 <table> <a id="KanaeKocho"></a>
     <thead>
