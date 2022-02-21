@@ -9,11 +9,6 @@
 
 
 ### Persona Primária: Nezuko Kamado <a id="NezukoKamado"></a>
-<figure markdown>
-                    ![NezukoKamado](https://user-images.githubusercontent.com/83254747/154366488-9dbdf68a-f651-43d0-a874-05897bf248d6.png)
-                    <figcaption>Figura 1: Foto da Nezuko
-                    </figcaption>
-                </figure>
 
 <table>
     <thead>
@@ -22,9 +17,11 @@
     <tbody>
         <tr>
             <td rowspan="7" colspan="5" style="width: 350px">
-                <figure markdown>
-                    ![NezukoKamado](https://user-images.githubusercontent.com/83254747/154366488-9dbdf68a-f651-43d0-a874-05897bf248d6.png)
-                    <figcaption>Figura 1: Foto da Nezuko
+                <figure>
+                    <center>
+                    <a href="https://ibb.co/jvnKbCD"><img src="https://i.ibb.co/TB9XYQt/nezuko.jpg" alt="nezuko"  alt="Image" height="180" width="180" border="0"></a>
+                    </center>
+                    <figcaption>Figura 1: Foto da Kanae
                     </figcaption>
                 </figure>
             </td>
@@ -85,13 +82,13 @@
             <td rowspan="7" colspan="5" style="width: 350px">
                 <figure>
                     <center>
-                    <img src="../../assets/zenitsu.png" height="175" width="175" alt="Foto de Zenitsu"></img>
+                    <a href="https://ibb.co/z7z0DgN"><img src="https://i.ibb.co/dLRzxv7/zenitsu.jpg" alt="zenitsu" height="180" width="180" border="0"></a>
                     </center>
-                    <figcaption>Figura 1: Foto do Zenitsu
+                    <figcaption>Figura 1: Foto da Kanae
                     </figcaption>
                 </figure>
             </td>
-        </tr>  
+        </tr>
         <tr>
             <td class="titulo"><strong>Idade:</strong></td>
             <td class="persona" colspan="1">30 anos.</td>
@@ -149,7 +146,7 @@
             <td rowspan="7" colspan="5" style="width: 350px">
                 <figure>
                     <center>
-                    <img src="../../assets/kanae.png" height="175" width="175" alt="Foto de Kanae"></img>
+                    <a href="https://ibb.co/gZqxb9J"><img src="https://i.ibb.co/N2DMgCK/kanae.jpg" alt="kanae" height="180" width="180" border="0"></a>
                     </center>
                     <figcaption>Figura 1: Foto da Kanae
                     </figcaption>
