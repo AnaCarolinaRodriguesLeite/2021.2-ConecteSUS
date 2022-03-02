@@ -7,14 +7,14 @@
 
 ## 2. Versões do Rich Picture
 
-### 2.1 Versão 0.1
+### 2.1 Mapa Mental
 
 <center>
 
 ![RichPicture01](https://user-images.githubusercontent.com/49570180/152996404-e6cc262b-1394-4022-8e2f-5dd5f45c558a.jpg)
 
  <figcaption>
-      <b>Imagem 1: Rich Picture versão 0.1.</b>
+      <b>Imagem 1: Mapa Mental</b>
     <br><small>Fonte: própria</small>
   </figcaption>
 
@@ -61,7 +61,8 @@
 
 | Versão | Data       | Descrição                          | Autor          | Revisor      |
 | ------ | ---------- | ---------------------------------- | -------------- | ------------ |
-| 0.1    | 08/02/2022 | Criação do Rich Picture Versão 0.1 | Ana Carolina   | Erick Melo   |
+| 0.1    | 08/02/2022 | Criação do Mapa Mental             | Ana Carolina   | Erick Melo   |
 | 0.2    | 08/02/2022 | Criação do Rich Picture Versão 1   | Gustave, Erick | Ana Carolina |
 | 0.3    | 08/02/2022 | Introdução e Referências,legenda   | Ana Carolina   | Erick Melo   |
 | 0.4    | 08/02/2022 | Correção das imagens               | Ana Carolina   | Erick Melo   |
+| 0.5    | 02/03/2022 | Mudando Legendas e subtitulos      | Ricardo        | -            |
