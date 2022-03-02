@@ -6,7 +6,7 @@
   
 </center>
 
-## 1.Sobre o projeto
+## 1. Sobre o projeto
 <p align="justify">
   Repositório reservado à disciplina de Requisitos de Software da Universidade de Brasília sobre os requisitos do aplicativo ConectaSUS. Ele retém o armazenamento e a apresentação de artefatos e processos desenvolvidos na disciplina.
 </p>
