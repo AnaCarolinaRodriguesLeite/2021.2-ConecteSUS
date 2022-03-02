@@ -72,6 +72,6 @@
 ## Histórico de versão
 | Versão | Data | Descrição | Autores | Revisor |
 |--------|------|-------------|---------|-----------|
-| 0.1 | 15/02/2022 | Adicionando introdução | Erick Melo | Gustave Augusto, Ricardo Loureiro |
-| 0.2 | 16/02/2022 | Adicionando tabela de requisitos | Erick Melo | Gustave Augusto, Ricardo Loureiro |
-|    0.3   | 20/02/2022 |  Revisão  da v0.1 e v0.2 | Gustave Augusto, Ricardo Loureiro | - |
+| 0.1 | 15/02/2022 | Adicionando introdução | Erick | Gustave, Ricardo |
+| 0.2 | 16/02/2022 | Adicionando tabela de requisitos | Erick | Gustave, Ricardo|
+|    0.3   | 20/02/2022 |  Revisão  da v0.1 e v0.2 | Gustave, Ricardo | - |

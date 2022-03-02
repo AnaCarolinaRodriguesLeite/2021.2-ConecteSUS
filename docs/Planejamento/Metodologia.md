@@ -80,6 +80,33 @@
 
 </center>
 
+## 5. Política de Commits
+
+Os commits são essenciais para acompanharmos as alterações e adições ao projeto.
+
+Deve ser usado o modo imperativo (ações e ordens assertivas) para mencionar o que foi feito.
+
+Caso o commit trate de uma questão simples, faça o commit da seguinte maneira:
+
+```git
+git commit -m "#IdIssue - Mensagem"
+```
+
+Devido à importância, caso o commit trate de algo mais complexo, use o seguinte template para padronização, substituindo o texto dos comentários '# não será lido no commit':
+
+```txt
+. #Id-da-Issue - Título do commit: comece com  letra maiúscula, objetivo
+#Não mais que 50 chars,Essa linha possui   50                   #
+#Pular linha
+# Corpo: Explique o quê e porque
+# Não mais que 72 caracteres (essa linha possui)                                                                             #
+#OPCIONAL: Caso haja, inclua essa linha de co-autores do seu commit para cada contribuidor.
+#Pular 2 linhas
+# Co-authored-by: nome1 <usuário1@users.noreply.github.com>
+# Co-authored-by: nome2 <usuário2@users.noreply.github.com>
+#Pular linha
+```
+
 ## Bibliografia
 
 >SOMMERVILLE, Ian. 2011. Engenharia de software. 10. ed. São Paulo: Pearson Addison Wesley, 2019.
@@ -93,8 +120,9 @@
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                                 | Autor        | Revisor        |
-| ------ | ---------- | ----------------------------------------- | ------------ | ------------ |
-| 0.1    | 08/02/2022 | Criação da primeira versão metodologia    | Ana Carolina | Ricardo Loureiro |
-| 0.2    | 08/02/2022 | Correção das imagens                      | Ana Carolina | Ricardo Loureiro |
-|    0.3   | 20/02/2022 |  Revisão  da v0.1 e v0.2 | Ricardo Loureiro  | - |
+| Versão | Data       | Descrição                                 | Autor        | Revisor  |
+| ------ | ---------- | ----------------------------------------- | ------------ | -------- |
+| 0.1    | 08/02/2022 | Criação da primeira versão metodologia    | Ana Carolina | Ricardo  |
+| 0.2    | 08/02/2022 | Correção das imagens                      | Ana Carolina | Ricardo  |
+| 0.3    | 20/02/2022 |  Revisão  da v0.1 e v0.2                  | Ricardo      | -        |
+| 0.4    | 02/03/2022 | Criando politíca de commit                | Ricardo      | Ana      |          

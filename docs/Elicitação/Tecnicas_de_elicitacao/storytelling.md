@@ -1,4 +1,4 @@
-# Storytelling
+# Storyboard
 
 ## 1. Introdução
 
