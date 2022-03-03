@@ -69,10 +69,10 @@
 | :----: | :--------------------------------------------: | :--------------: | :------------: |
 | 03/03 | Cenários | Ricardo, Daniel | Erick |
 | 03/03 | Léxicos | Ana Carolina | Gustave |
-| 11/02 | Casos de uso | Gustave | Daniel |
-| 13/02 | Especificação Suplementar | Erick | Ana Carolina |
-| 13/02 | Cronograma da terceira entrega | Ana Carolina | Ricardo |
-| 13/02 | Ata de reunião | Ana Carolina | - |
+| 04/03 | Casos de uso | Gustave | Daniel |
+| 04/03 | Especificação Suplementar | Erick | Ana Carolina |
+| 03/03 | Cronograma da terceira entrega | Ana Carolina | Ricardo |
+| 03/03 | Ata de reunião | Ana Carolina | - |
 
 
 <figcaption>Tabela 4: Tabela específica contendo data de entrega, responsáveis e revisores.</figcaption>
