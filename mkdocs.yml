@@ -34,6 +34,7 @@ nav:
       - Personas: Elicitação/Personas/personas.md
   - Modelagem:
        - Cenários: Modelagem/cenarios.md
+       - Léxicos: Modelagem/lexicos.md
   - Apresentações:
       - Apresentação 1: Apresentacao/Apresentacao 1.md
       - Apresentação 2: Apresentacao/Apresentacao 2.md
