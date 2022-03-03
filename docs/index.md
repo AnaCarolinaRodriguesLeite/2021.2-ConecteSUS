@@ -1,4 +1,4 @@
-<h1 align="center"> ConectaSUS </h1>
+<h1 align="center"> ConecteSUS </h1>
 
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/49570180/152342175-84f56765-ec70-47c2-a16a-437b8a9f3ae8.png">
@@ -7,7 +7,7 @@
 
 ## 1. Sobre o projeto
 <p align="justify">
-  Repositório reservado à disciplina de Requisitos de Software da Universidade de Brasília sobre os requisitos do aplicativo ConectaSUS. Ele retém o armazenamento e a apresentação de artefatos e processos desenvolvidos na disciplina.
+  Repositório reservado à disciplina de Requisitos de Software da Universidade de Brasília sobre os requisitos do aplicativo ConecteSUS. Ele retém o armazenamento e a apresentação de artefatos e processos desenvolvidos na disciplina.
 </p>
 
 ## 2. Sobre o ConectaSUS
