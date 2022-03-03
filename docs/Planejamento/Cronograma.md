@@ -41,10 +41,32 @@
 
 </center>
 
+
+### 2.2 Cronograma da segunda entrega
+
+<center>
+
+| Data da realização da tarefa | Planejamento do projeto              | Responsáveis        | Revisores      |
+| :----: | :--------------------------------------------: | :--------------: | :------------: |
+| 15/02 | Técnicas de elicitação - Storyboard | Daniel e Ricardo |  Ana Carolina e Erick |
+| 15/02 | Técnicas de elicitação - Introspecção | Gustave, Ana Carolina | Daniel |
+| 15/02 | Técnicas de elicitação - Observação Paticipativa | Erick | Gustave e Ricardo |
+| 16/02 | Técnicas de elicitação - Brainstorming | Todos | - |
+| 20/02 | Técnicas de priorização - Moscow | Todos os integrantes | - |
+| 15/02 | Personas | Daniel e Ricardo | Ana Carolina e Erick |
+| 15/02 | Cronograma da segunda entrega | Ana Carolina | Erick |
+
+
+<figcaption>Tabela 3: Tabela específica contendo data de entrega, responsáveis e revisores.</figcaption>
+
+</center>
+
+
 ## Histórico de versão
 
-| Versão | Data       | Descrição                                           | Autor        | Revisor        |
-| ------ | ---------- | --------------------------------------------------- | ------------ | ------------ |
+| Versão | Data       | Descrição            | Autor        | Revisor      |
+| ------ | ---------- | -------------------- | ------------ | ------------ |
 | 0.1    | 07/02/2022 | Criação do documento | Daniel e Ricardo Loureiro | Erick e Gustave |
 | 0.2    | 17/02/2022 | Correção do documento | Ana Carolina | Erick e Gustave | 
-|    0.3   | 20/02/2022 |  Revisão  da v0.1 e v0.2| Erick e Gustave | - |
+| 0.3    | 20/02/2022 |  Revisão  da v0.1 e v0.2  | Erick e Gustave | - |
+| 0.4    | 15/02/2022 |  Adicionando a segunda entrega  | Ana Carolina | Daniel |
