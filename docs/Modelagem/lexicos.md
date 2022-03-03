@@ -29,13 +29,13 @@
 
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
-| Vacinas |  Imunização | Forma de imunização por meio do usuário. | O usuário pode registrar vacinas. </br> O usuário pode consultar vacinas.  | Objeto  |
+| Vacinas |  Imunização | Forma de imunização por meio do usuário. | O usuário pode registrar vacinas.</br> O usuário pode consultar vacinas.  | Objeto  |
 
 ### L03 - Exames
 
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
-| Exames |  Apuração, análise | São consultas realizadas pelo usuário. | O usuário pode verificar os exames já feitos. </br> O usuário pode verificar os exames em andamento.  | Objeto  |
+| Exames |  Apuração, análise | São consultas realizadas pelo usuário. | O usuário pode verificar os exames já feitos.</br>O usuário pode verificar os exames em andamento.  | Objeto  |
 
 ### L04 - Medicamentos
 
@@ -65,7 +65,7 @@
 
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
-| Minha saúde |  Bem-estar | Estado de disposição física e mental acerca do usuário. | O usuário pode registrar os aspectos de saúde pelo conectaSUS. </br> O usuário pode verificar os dados registrados sobre a respectiva saúde pelo conecteSUS. | Estado  |
+| Minha saúde |  Bem-estar | Estado de disposição física e mental acerca do usuário. | O usuário pode registrar os aspectos de saúde pelo conectaSUS.</br> O usuário pode verificar os dados registrados sobre a respectiva saúde pelo conecteSUS. | Estado  |
 
 ### L09 - Atendimentos e intervenções
 
@@ -107,7 +107,7 @@
 
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
-| Meu perfil |  - | Perfil do usuário que está acessando o aplicativo. | O usuário poderá verificar os dados de sua conta. </br> O usuário poderá gerenciar outras contas cadastradas no seu aplicativo. | Objeto  |
+| Meu perfil |  - | Perfil do usuário que está acessando o aplicativo. | O usuário poderá verificar os dados de sua conta.</br>O usuário poderá gerenciar outras contas cadastradas no seu aplicativo. | Objeto  |
 
 ### L16 - Home
 
@@ -115,60 +115,60 @@
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
 | Home |  - | Janela inicial do aplicativo. | O usuário poderá visualizar todas as principais informações e ações. | Objeto |
 
-### L16 - Histórico
+### L17 - Histórico
 
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
 | Histórico |  Antecedentes | Verificação de quatro funções que são armazenadas e guardam registros de ações anteriores. | O usuário poderá verificar as informações que são armazenadas e tem registros anteriores. | Objeto |
 
-### L17 - Registro
+### L18 - Registro
 
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
 | Registro |  Transferir, Transportar | Verificação de quatro funções que são registradas no aplicativo. | O usuário pode verificar as informações registradas. | Verbo |
 
-### L17 - Notícias
+### L19 - Notícias
 
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
 | Notícias |  - | Notícias divulgadas pelo ministério da saúde. | O usuário deve poder ver notícias divulgadas pelo ministério da saúde. | Objeto |
 
-### L18 - Fale com o ConecteSUS
+### L20 - Fale com o ConecteSUS
 
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
 | Fale com o ConecteSUS |  Conversar | Mensagens na central do ConecteSUS. | O usuário pode enviar mensagem para o próprio conecteSUS. | Verbo |
 
-### L19 - Aplicativos MS
+### L21 - Aplicativos MS
 
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
 | Aplicativos MS |  - | Aplicativos do ministério da saúde. | O usuário pode verificar e acessar os aplicativos do ministério da saúde. | Estado |
 
-### L20 - Dúvidas frequentes
+### L22 - Dúvidas frequentes
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
 | Dúvidas frequentes | Incerteza | Perguntas comuns em que os usuários tem dúvidas de como funciona. | O usuário pode verificar as perguntas e suas respectivas respostas. | Objeto |
 
-### L21 - Termo de utilização
+### L23 - Termo de utilização
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
 | Termo de utilização | - | É um conteúdo escrito sobre as regras de uso do aplicativo. | O usuário pode verificar o termo de utilização do aplicativo. | Objeto |
 
-### L22 - Política de privacidade
+### L24 - Política de privacidade
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
 | Política de privacidade | - | Ciência da privacidade dos dados. | O usuário pode verificar as informações da política de privacidade do aplicativo. | Objeto |
 
-### L23 - Avalie-nos
+### L25 - Avalie-nos
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
 | Avalie-nos | Dar nota, classificar, qualificar | Avaliar a qualidade do aplicativo. | O usuário poderá avaliar se o aplicativo supriu suas necessidades. | Verbo |
 
-### L24 - Sair
+### L26 - Sair
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
-| Sair | Retirar-se, desvencilhar-se | Sair da conta ou perfil. | O usuário poderá sair do perfil que está. </br> O usuário pode sair da conta que está. | Verbo |
+| Sair | Retirar-se, desvencilhar-se | Sair da conta ou perfil. | O usuário poderá sair do perfil que está.</br>O usuário pode sair da conta que está. | Verbo |
 
 
 ## Bibliografia
