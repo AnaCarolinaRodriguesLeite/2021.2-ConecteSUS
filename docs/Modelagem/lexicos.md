@@ -29,15 +29,13 @@
 
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
-| Vacinas |  Imunização | Forma de imunização por meio do usuário. | O usuário pode registrar vacinas. </br>
-O usuário pode consultar vacinas.  | Objeto  |
+| Vacinas |  Imunização | Forma de imunização por meio do usuário. | O usuário pode registrar vacinas. </br> O usuário pode consultar vacinas.  | Objeto  |
 
 ### L03 - Exames
 
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
-| Exames |  Apuração, análise | São consultas realizadas pelo usuário. | O usuário pode verificar os exames já feitos.
-</br> O usuário pode verificar os exames em andamento.  | Objeto  |
+| Exames |  Apuração, análise | São consultas realizadas pelo usuário. | O usuário pode verificar os exames já feitos. </br> O usuário pode verificar os exames em andamento.  | Objeto  |
 
 ### L04 - Medicamentos
 
@@ -109,8 +107,7 @@ O usuário pode consultar vacinas.  | Objeto  |
 
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
-| Meu perfil |  - | Perfil do usuário que está acessando o aplicativo. | O usuário poderá verificar os dados de sua conta.
-</br> O usuário poderá gerenciar outras contas cadastradas no seu aplicativo. | Objeto  |
+| Meu perfil |  - | Perfil do usuário que está acessando o aplicativo. | O usuário poderá verificar os dados de sua conta. </br> O usuário poderá gerenciar outras contas cadastradas no seu aplicativo. | Objeto  |
 
 ### L16 - Home
 
@@ -171,8 +168,7 @@ O usuário pode consultar vacinas.  | Objeto  |
 ### L24 - Sair
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
-| Sair | Retirar-se, desvencilhar-se | Sair da conta ou perfil. | O usuário poderá sair do perfil que está. </br>
-O usuário pode sair da conta que está. | Verbo |
+| Sair | Retirar-se, desvencilhar-se | Sair da conta ou perfil. | O usuário poderá sair do perfil que está. </br> O usuário pode sair da conta que está. | Verbo |
 
 
 ## Bibliografia
