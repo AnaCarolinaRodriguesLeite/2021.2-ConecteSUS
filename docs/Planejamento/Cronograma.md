@@ -61,6 +61,24 @@
 
 </center>
 
+### 2.3 Cronograma da terceira entrega
+
+<center>
+
+| Data da realização da tarefa | Planejamento do projeto              | Responsáveis        | Revisores      |
+| :----: | :--------------------------------------------: | :--------------: | :------------: |
+| 03/03 | Cenários | Ricardo, Daniel | Erick |
+| 03/03 | Léxicos | Ana Carolina | Gustave |
+| 11/02 | Casos de uso | Gustave | Daniel |
+| 13/02 | Especificação Suplementar | Erick | Ana Carolina |
+| 13/02 | Cronograma da terceira entrega | Ana Carolina | Ricardo |
+| 13/02 | Ata de reunião | Ana Carolina | - |
+
+
+<figcaption>Tabela 4: Tabela específica contendo data de entrega, responsáveis e revisores.</figcaption>
+
+</center>
+
 
 ## Histórico de versão
 
@@ -70,3 +88,4 @@
 | 0.2    | 17/02/2022 | Correção do documento | Ana Carolina | Erick e Gustave | 
 | 0.3    | 20/02/2022 |  Revisão  da v0.1 e v0.2  | Erick e Gustave | - |
 | 0.4    | 15/02/2022 |  Adicionando a segunda entrega  | Ana Carolina | Daniel |
+| 0.5    | 03/03/2022 |  Adicionando a terceira entrega  | Ana Carolina | Ricardo |
