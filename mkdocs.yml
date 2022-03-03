@@ -13,7 +13,7 @@ theme:
     text: 'Montserrat'
     code: 'sans-serif'
   logo: 'assets/sus.png'
-  favicon: 'assets/favicon.ico'
+  favicon: 'assets/sus.png'
 
 nav:
   - Início: index.md
