@@ -33,10 +33,12 @@ nav:
         - Moscow: Elicitação/Tecnica_de_priorizacao/Moscow.md
       - Personas: Elicitação/Personas/personas.md
   - Modelagem:
-       - Cenários: Modelagem/cenarios.md
-       - Léxicos: Modelagem/lexicos.md
+      - Cenários: Modelagem/cenarios.md
+      - Léxicos: Modelagem/lexicos.md
   - Apresentações:
       - Apresentação 1: Apresentacao/Apresentacao 1.md
       - Apresentação 2: Apresentacao/Apresentacao 2.md
+  - Atas:
+      - 02-03-2022: Atas/02-03-2022.md 
 
 
