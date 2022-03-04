@@ -1,7 +1,7 @@
 site_name: ConecteSUS
 
 repo_name: '2021.2-ConecteSUS'
-repo_url: 'https://github.com/Requisitos-de-Software/2021.2-ConectaSUS'
+repo_url: 'https://requisitos-de-software.github.io/2021.2-ConecteSUS/'
 
 theme:
   name: material
