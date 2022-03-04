@@ -1,19 +1,19 @@
 site_name: ConecteSUS
 
-repo_name: '2021.2-ConecteSUS'
-repo_url: 'https://requisitos-de-software.github.io/2021.2-ConecteSUS/'
+repo_name: "2021.2-ConecteSUS"
+repo_url: "https://requisitos-de-software.github.io/2021.2-ConecteSUS/"
 
 theme:
   name: material
-  language: 'pt'
+  language: "pt"
   palette:
-    primary: '#fff'
-    accent: 'light blue'
+    primary: "#fff"
+    accent: "light blue"
   font:
-    text: 'Montserrat'
-    code: 'sans-serif'
-  logo: 'assets/sus.png'
-  favicon: 'assets/sus.png'
+    text: "Montserrat"
+    code: "sans-serif"
+  logo: "assets/sus.png"
+  favicon: "assets/sus.png"
 
 nav:
   - Início: index.md
@@ -23,22 +23,21 @@ nav:
       - Metodologia: Planejamento/Metodologia.md
   - Pré-Rastreabilidade:
       - Rich Picture: Pre_rastreabilidade/RichPicture.md
-  - Elicitações: 
-      - Técnicas de elicitação: 
-        - Storyboard : Elicitação/Tecnicas_de_elicitacao/storytelling.md
-        - Introspecção: Elicitação/Tecnicas_de_elicitacao/introspeccao.md
-        - Observação Participativa: Elicitação/Tecnicas_de_elicitacao/Observacao_participativa.md
-        - Brainstorming: Elicitação/Tecnicas_de_elicitacao/brainstorming.md
+  - Elicitações:
+      - Técnicas de elicitação:
+          - Storyboard: Elicitação/Tecnicas_de_elicitacao/storytelling.md
+          - Introspecção: Elicitação/Tecnicas_de_elicitacao/introspeccao.md
+          - Observação Participativa: Elicitação/Tecnicas_de_elicitacao/Observacao_participativa.md
+          - Brainstorming: Elicitação/Tecnicas_de_elicitacao/brainstorming.md
       - Técnica de priorização:
-        - Moscow: Elicitação/Tecnica_de_priorizacao/Moscow.md
+          - Moscow: Elicitação/Tecnica_de_priorizacao/Moscow.md
       - Personas: Elicitação/Personas/personas.md
   - Modelagem:
+      - Especificação Suplementar: Modelagem/Especificacao_suplementar.md
       - Cenários: Modelagem/cenarios.md
       - Léxicos: Modelagem/lexicos.md
   - Apresentações:
       - Apresentação 1: Apresentacao/Apresentacao 1.md
       - Apresentação 2: Apresentacao/Apresentacao 2.md
   - Atas:
-      - 02-03-2022: Atas/02-03-2022.md 
-
-
+      - 02-03-2022: Atas/02-03-2022.md
