@@ -24,3 +24,11 @@
 | <img src="https://avatars.githubusercontent.com/u/48844857?v=4" width="80" title="Erick Melo"> | [Erick Melo Vidal de Oliveira](https://github.com/ErickMVdO)  |
 | <img src="https://avatars.githubusercontent.com/u/56366957?v=4" width="80" title="Gustave Augusto"> | [Gustave Augusto Persijn](https://github.com/gpersijn)  |
 | <img src="https://avatars.githubusercontent.com/u/83254747?v=4" width="80" title="Ricardo Loureiro"> | [Ricardo de Castro Loureiro](https://github.com/castroricardo1) |
+
+
+
+## Histórico de versão
+
+| Versão | Data | Descrição  | Autor        | Revisor |
+| ------ | ---- | ---------- | ------------ | --------|
+| 0.1    | 01/02/2022 - 03/02/2022 | Criação do readme | Ana Carolina, Erick, Ricardo | Daniel |
