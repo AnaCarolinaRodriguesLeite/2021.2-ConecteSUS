@@ -149,6 +149,8 @@ Esse relacionamento é representado por uma seta tracejada com uma ponta de seta
   <br><b>Figura 8: Diagrama do fluxo de Consultar Registros</b>
 </p>
 
+<center>
+
 |  UC03  | Informações                                                                 |
 | ------ | --------------------------------------------------------------------------- |
 | Descrição | O usuário deve ser capaz de consultar seus registros                     | 
@@ -158,6 +160,7 @@ Esse relacionamento é representado por uma seta tracejada com uma ponta de seta
 | Fluxo principal | <ul> <li> O usuário acessa a aplicação <li> O usuário realiza o login <li> O usuário entra em registros <li> O usuário escolhe um registro para consultar</ul>|
 | Pós-condições | O usuário poderá utilizar as informações do registro consultado      |
 
+</center>
 
 ## Bibliografia:
 >SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 11;
