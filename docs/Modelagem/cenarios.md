@@ -22,7 +22,7 @@ Cenários são formas reconhecidas afim de compreender as interações entre amb
 | Atores    | Usuário                                                                                                                                     |
 | Recursos  | Smartphone<br>Desktop<br>Tablet<br>Acesso a internet<br>Conta no gov.com.br                                                                             |
 | Excessão  | Falta de energia<br> Smartphone ou Tablet descarregado <br>Perda de conexão com a internet <br>Não possuir conta no gov.com.br<br> Usuário esqueceu a senha |
-| Episódios | Usuário abre o aplicativo<br> Usuário clica em entrar com a conta gov.com.br<br> Usuário digita o CPF<br> Usuário digita a senha Usuário clica em entrar        |
+| Episódios | Usuário abre o aplicativo<br> Usuário clica em entrar com a conta gov.com.br<br> Usuário digita o CPF<br> Usuário digita a senha<br> Usuário clica em entrar        |
 
 ###C02 - Fazendo login com o seu banco
 
@@ -32,7 +32,7 @@ Cenários são formas reconhecidas afim de compreender as interações entre amb
 | Atores    | Usuário                                                                                                                                     |
 | Recursos  | Smartphone<br>Desktop<br>Tablet<br>Acesso a internet<br>Conta no gov.com.br                                                                             |
 | Excessão  | Falta de energia<br> Smartphone ou Tablet descarregado <br>Perda de conexão com a internet <br>Não possuir conta no gov.com.br<br> Usuário esqueceu a senha |
-| Episódios | Usuário abre o aplicativo<br> Usuário clica login com o seu banco<br> Usuário seleciona o seu banco<br> Usuário digita sua agência<br> Usuário digita sua conta<br> Usuário digita senha<br> Usuário clica em entrar       |
+| Episódios | Usuário abre o aplicativo<br> Usuário clica em login com o seu banco<br> Usuário seleciona o seu banco<br> Usuário digita sua agência<br> Usuário digita sua conta<br> Usuário digita senha<br> Usuário clica em entrar       |
 
 ###C03 - Emititir carteira nacional de vacinação
 
@@ -73,7 +73,7 @@ Cenários são formas reconhecidas afim de compreender as interações entre amb
 | Atores    | Usuário                                                                                                                                     |
 | Recursos  | Smartphone<br>Desktop<br>Tablet<br>Acesso a internet<br>Conta no gov.com.br                                                                             |
 | Excessão  | Falta de energia<br> Smartphone ou Tablet descarregado <br>Perda de conexão com a internet <br>Usuário não estiver logado<br> Não ter feito algum exame|
-| Episódio  | Usuário clica na opção de "Exames" no centro da tela<br> Usuário clica no exame que deseja ver o resultado <br> Usuário clica no icone de documento e assim gerando o PDF com o resultado |
+| Episódio  | Usuário clica na opção de "Exames" no centro da tela<br> Usuário clica no exame que deseja ver o resultado <br> Usuário clica no icone de documento, gerando o PDF com o resultado |
 
 ###C07 - Adicionar contato de emergência
 
@@ -115,12 +115,13 @@ Cenários são formas reconhecidas afim de compreender as interações entre amb
 | Excessão  | Falta de energia<br> Smartphone ou Tablet descarregado <br>Perda de conexão com a internet <br>Usuário não estiver logado<br> |
 | Episódio  | Usuário clica no icone de doações de sangue <br> Usuário clica na opção de minhas doações ou regras|
 
-## 4. Bibliografia 
+## Bibliografia 
 
-> - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
+> SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                                 | Autor        | Revisor  |
 | ------ | ---------- | ----------------------------------------- | ------------ | -------- |
 | 0.1    | 03/03/2022 | Criação dos cenários                      | Ricardo e Daniel | Erick  |
+| 0.2    | 04/03/2022 | Revisando e fazendo pequenas correções    |      Erick       |   -    |
