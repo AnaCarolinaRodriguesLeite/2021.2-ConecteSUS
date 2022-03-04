@@ -1,6 +1,6 @@
-site_name: ConectaSUS
+site_name: ConecteSUS
 
-repo_name: '2021.2-ConectaSUS'
+repo_name: '2021.2-ConecteSUS'
 repo_url: 'https://github.com/Requisitos-de-Software/2021.2-ConectaSUS'
 
 theme:
