@@ -30,5 +30,5 @@
 ## Histórico de versão
 
 | Versão | Data | Descrição  | Autor        | Revisor |
-| ------ | ---- | ---------- | ------------ | --------|
+| :-----: | :----: | :----------: | :------------: | :--------: |
 | 0.1    | 01/02/2022 - 03/02/2022 | Criação do readme | Ana Carolina, Erick, Ricardo | Daniel |
