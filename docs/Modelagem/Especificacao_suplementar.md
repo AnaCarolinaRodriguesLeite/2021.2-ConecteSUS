@@ -32,7 +32,7 @@ A metodologia abordada durante a produção desse documento foi a FURPS+ que é 
 
 ### 2.1. Funcionalidade:
 
-Relaciona-se com os requisitos funcionais encontrados no Caso de Uso. Pode ser encontrada clicando em <a href="url">Moscow</a>
+Relaciona-se com os requisitos funcionais encontrados no Caso de Uso. Pode ser encontrada clicando em <a href="https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/">Moscow</a>
 
 ### 2.2. Usabilidade:
 
