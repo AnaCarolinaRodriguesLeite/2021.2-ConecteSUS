@@ -65,7 +65,7 @@
 
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
-| Minha saúde |  Bem-estar | Estado de disposição física e mental acerca do usuário. | O usuário pode registrar os aspectos de saúde pelo conectaSUS.</br> O usuário pode verificar os dados registrados sobre a respectiva saúde pelo conecteSUS. | Estado  |
+| Minha saúde |  Bem-estar | Estado de disposição física e mental acerca do usuário. | O usuário pode registrar os aspectos de saúde pelo conecteSUS.</br> O usuário pode verificar os dados registrados sobre a respectiva saúde pelo conecteSUS. | Estado  |
 
 ### L09 - Atendimentos e intervenções
 
@@ -83,7 +83,7 @@
 
 | Léxico | Sinônimo | Noção | Impacto         | Classificação |
 | :------: | :--------: | :-----: | :---------------: | :-------------: |
-| Peso saudável |  - | Consulta sobre o atual peso do usuário. E sobre as informações de sobrepeso. | O usuário pode verificar o peso e as informações no conectaSUS. | Estado  |
+| Peso saudável |  - | Consulta sobre o atual peso do usuário. E sobre as informações de sobrepeso. | O usuário pode verificar o peso e as informações no conecteSUS. | Estado  |
 
 ### L12 - Avaliação
 
