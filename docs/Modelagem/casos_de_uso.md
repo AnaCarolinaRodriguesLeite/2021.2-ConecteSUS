@@ -27,7 +27,7 @@ Seus principais elementos estão representados na Figura 1.
 
 ### 2.1. Casos de uso
 <p align = "justify">
-A especificação UML não fornece diretrizes sobre nomes de casos de uso. O único requisito é que cada caso de uso tenha um nome. Devemos apenas seguir a definição de caso de uso para dar algum nome àquela unidade de funcionalidade executada por um sistema que fornece algum resultado observável e útil para um ator como, por exemplo, fazer compra, atualizar assinatura, transferir fundos, gerenciar conta, entre outros.
+A especificação UML não fornece diretrizes sobre nomes de casos de uso. O único requisito é que cada caso de uso tenha um nome. Devemos apenas seguir a definição de caso de uso para dar algum nome àquela unidade de funcionalidade executada por um sistema que fornece algum resultado observável e útil para um ator como, por exemplo: fazer compra, atualizar assinatura, transferir fundos, gerenciar conta, entre outros.
 </p>
 
 ### 2.2. Atores
@@ -64,7 +64,7 @@ A generalização entre casos de uso é semelhante à generalização entre clas
 
 #### 2.4.2. Associações
 <p align = "justify">
-Cada caso de uso representa uma unidade de funcionalidade útil que os sujeitos fornecem aos atores . Uma associação entre um ator e um caso de uso indica que o ator e o caso de uso de alguma forma interagem ou se comunicam, como mostra o exemplo da Figura 3.
+Cada caso de uso representa uma unidade de funcionalidade útil que os sujeitos fornecem aos atores. Uma associação entre um ator e um caso de uso indica que o ator e o caso de uso de alguma forma interagem ou se comunicam, como mostra o exemplo da Figura 3.
 </p>
  
 <p align="center">
@@ -122,7 +122,7 @@ Esse relacionamento é representado por uma seta tracejada com uma ponta de seta
   
 </center>
 
-### 3.2. Fluxo de Histórico:
+### 3.2. Fluxo de Histórico
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48844857/156847608-75337053-6150-4f87-a642-af1cc5bd3b5a.jpg">
@@ -142,7 +142,7 @@ Esse relacionamento é representado por uma seta tracejada com uma ponta de seta
   
 </center>
 
-### 3.3. Fluxo de Registros:
+### 3.3. Fluxo de Registros
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48844857/156847697-0c3e264e-b90f-48f0-9edb-5f6e17757a5a.jpg">
@@ -162,14 +162,15 @@ Esse relacionamento é representado por uma seta tracejada com uma ponta de seta
 
 </center>
 
-## Bibliografia:
+## Bibliografia
 >SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 11;
 
->UML Use Case Diagrams. UML Diagrams. Disponível em:  https://www.uml-diagrams.org/use-case-diagrams.html.
+>UML Use Case Diagrams. UML Diagrams. Disponível em:  https://www.uml-diagrams.org/use-case-diagrams.html. Acesso em: 04/03/2022.
 
 ## Histórico de Versão
 
-| Versão |    Data    |                   Descrição                   |     Autor      |   Revisor    |
-| :----: | :--------: | :-------------------------------------------: | :------------: | :----------: |
-|  0.1   | 04/03/2022 |               Criação do documento            | Erick, Gustave | Ana Carolina |
+| Versão |    Data    |    Descrição                   |     Autor      |   Revisor    |
+| :----: | :--------: | :----------------------------: | :------------: | :----------: |
+|  0.1   | 04/03/2022 |  Criação do documento     | Erick, Gustave | Ana Carolina |
+|  0.2   | 05/03/2022 |  Revisão do documento | Ana Carolina |   -    |
 
