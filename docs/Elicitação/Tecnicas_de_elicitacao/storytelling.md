@@ -146,7 +146,7 @@
             <td rowspan="7" colspan="5" style="width: 350px">
                 <figure>
                     <center>
-                    <a href="https://ibb.co/gZqxb9J"><img src="https://i.ibb.co/N2DMgCK/kanae.jpg" alt="kanae" height="180" width="180" border="0"></a>
+                    <a href="https://ibb.co/D90nfTv"><img src="https://i.ibb.co/7nsFtLZ/avatar-b0bb92986021683bbfd248044cdf0992.jpg" alt="Kanae" height="190" width="190" border="0"></a>
                     </center>
                     <figcaption>Figura 1: Foto da Kanae
                     </figcaption>
@@ -155,19 +155,23 @@
         </tr>
         <tr>
             <td class="titulo"><strong>Idade:</strong></td>
-            <td class="persona" colspan="1">22 anos.</td>
+            <td class="persona" colspan="1">82 anos.</td>
+        </tr>
+        <tr>
+            <td class="titulo"><strong>Nacionalidade:</strong></td>
+            <td colspan="8" class="persona">Holandesa.</td>
         </tr>
         <tr>
             <td class="titulo"><strong>Ocupação:</strong></td>
-            <td colspan="1">Estudante.</td>
+            <td colspan="1">Aposentada.</td>
         </tr>
         <tr>
             <td class="titulo"><strong>Escolaridade:</strong></td>
-            <td colspan="1" class="persona">Cursando Nível Superior.</td>
+            <td colspan="1" class="persona">Formação em Biologia.</td>
         </tr>
         <tr>
             <td class="titulo"><strong>Objetivos:</strong></td>
-            <td colspan="1" class="persona">Deseja se formar em farmácia e exercer essa profissão, além disso quer ajudar os menos favorecidos, participando de ONGs.</td>
+            <td colspan="1" class="persona">Quer conhecer o mundo e aproveitar a aposentadoria.</td>
         </tr>
         <tr>
             <td class="titulo"><strong>Relacionamentos:</strong></td>
@@ -175,19 +179,15 @@
         </tr>
         <tr>
             <td class="titulo"><strong>Status:</strong></td>
-            <td class="persona" colspan="1">Antipersona.</td>
+            <td class="persona" colspan="8">Antipersona.</td>
         </tr>
         <tr>
             <td class="titulo"><strong>Habilidades:</strong></td>
-            <td colspan="8" class="persona">Tem prática com tecnologia, gosta de participar de ONGs e ajudar.</td>
+            <td colspan=8 class="persona">Não tem prática nenhuma com tecnologia.</td>
         </tr>
         <tr>
             <td><strong>Tarefas:</strong></td>
-            <td colspan=8 class="persona">Kanae tem bastante tempo livre, apesar da faculdade cobrar muito ela consegue lidar bem com os compromissos.</td>
-        </tr>
-        <tr>
-            <td><strong>Requisitos:</strong></td>
-            <td colspan=8 class="persona">Kanae necessita de um aplicativo rápido para sempre que necessário apresentar o cartão de vacina consiga fazer isso com rapidez.</td>
+            <td colspan=8 class="persona">Kanae tem bastante tempo livre, está de passagem no Brasil conhecendo pontos turísticos.</td>
         </tr>
     </tbody>
 </table>
@@ -243,3 +243,4 @@
 |:--:|:--:|:--:|:--:|:--:|
 | 0.1 | 15/02/2022 | Criação do documento | Daniel Vinicius e Ricardo Loureiro | Ana Carolina e Erick |
 |    0.2   | 20/02/2022 |  Revisão  da v0.1| Ana Carolina e Erick | - |
+|    0.3   | 05/03/2022 |  Revisão  da v0.2| Daniel | Erick |
