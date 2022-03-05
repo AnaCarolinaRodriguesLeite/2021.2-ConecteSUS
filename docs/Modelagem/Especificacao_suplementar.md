@@ -14,7 +14,7 @@ A metodologia abordada durante a produção desse documento foi a FURPS+ que é 
 
 3. Reliability: Relacionada à integridade, conformidade e interoperabilidade do software.
 
-4. Performance: Traduz o desemepnho do programa.
+4. Performance: Traduz o desempenho do programa.
 
 5. Supportability: Correlaciona-se com testabilidade, manutenibilidade, escalabilidade e outros.
 
@@ -71,7 +71,7 @@ Pode ser atribuído à adaptabilidade, suporte e portabilidade do aplicativo
 
 - O usuário deve possui uma conexão wifi ou 3g para acessar o aplicativo
 - O usuário consegue baixar o aplicativo se possui 52M de espaço disponível em seu aparelho móvel.
-- Compatibilidade com Andrpod 4.4W ou superior
+- Compatibilidade com Android 4.4W ou superior
 - Possui versão atual número 70.4.8
 - Atualizações frequentes no aplicativo foram verificadas, sendo a última em 28 de janeiro de 2022
 - Possui compatibilidade de gerenciamento de registros
@@ -94,7 +94,7 @@ Para interfaces de Software, foram escolhidas linguagens de programação e fram
 
 Para interfaces de Comunicação, deve haver uma comunicação inclusiva que provém no direito do cidadão brasileiro de que todos podem ter acesso às ferramentas oferecidas pelo Ministério da Saúde.
 
-Para restrições de Design, temos que o suporte de idiomas não é aplicavél visto que o aplicativo é um suporte para os cidadãos brasileiros cadastrados no SUS.
+Para restrições de Design, temos que o suporte de idiomas não é aplicável visto que o aplicativo é um suporte para os cidadãos brasileiros cadastrados no SUS.
 
 Para restrições de Design, temos uma navegabilidade boa e eficiente, com componentes de design intuitivos para todos os usuários.
 
@@ -128,7 +128,7 @@ Para requisitos de Licenciamento, todos os usuários devem concordar com os term
 
 </center>
 
-## 4. Bibliografia
+## Bibliografia
 
 > - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 13;
 > - https://qualidadebr.wordpress.com/2008/07/10/furps/#:~:text=FURPS%2B%20%C3%A9%20um%20sistema%20para,Rational%20Unified%20Process%20(RUP)%3A
