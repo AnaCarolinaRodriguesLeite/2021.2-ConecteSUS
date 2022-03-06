@@ -2,8 +2,10 @@
 
 <div align="justify">
 
+
 ## 1. Introdução
 O presente documento reúne todos os requisitos levantados ao longo do projeto utilizando técnicas de elicitação, totalizando 46 requisitos funcionais e 5 requisitos não-funcionais.
+
 
 
 ## 2. Metodologia
@@ -30,6 +32,7 @@ Os requisitos levantados em tais técnicas foram compilados e cada um deles é i
 
 
 ## 3. Resultado
+
 
 
 ### 3.1. Requisitos Funcionais
