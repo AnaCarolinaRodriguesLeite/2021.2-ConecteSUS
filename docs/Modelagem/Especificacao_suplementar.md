@@ -138,3 +138,4 @@ Para requisitos de Licenciamento, todos os usuários devem concordar com os term
 | Versão |    Data    |                   Descrição                   |     Autor      | Revisor |
 | :----: | :--------: | :-------------------------------------------: | :------------: | :-----: |
 |  0.1   | 04/03/2022 | Criação do documento com todas as informações | Gustave, Erick | Daniel  |
+|  0.2   | 06/03/2022 | Revisão | Daniel  | - |
