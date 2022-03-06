@@ -9,6 +9,8 @@
 ## 2. Metodologia
 <p style="text-align: justify;">A equipe utilizou diferentes técnicas de elicitação para levantar e concluir, finalmente, a lista de requisitos do projeto. As técnicas utilizadas foram:
 </p>
+
+
 * Brainstorm;
 * Observação;
 * Storyboard;
@@ -31,7 +33,6 @@
 
 
 ## 3. Resultado
-
 
 
 ### 3.1. Requisitos Funcionais
@@ -79,7 +80,7 @@
 | RF 39 | O usuário deve poder visualizar as notícias relacionadas à saúde. | [OB39](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  |
 | RF 40 | O usuário deve poder entrar em contato com o ConecteSUS para esclarecer dúvidas e problemas.  | [OB40](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  |
 | RF 41 | O usuário deve poder verificar quais são os demais aplicativos do Ministério da Saúde. | [OB41](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  |
-| RF 42 | O usuário deve poder consultar as duvidas frequentes relacionadas ao aplicativo. | [OB42](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  |
+| RF 42 | O usuário deve poder consultar as dúvidas frequentes relacionadas ao aplicativo. | [OB42](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  |
 | RF 43 | O usuário deve poder consultar ao termo de utilização e política de privacidade. |  [OB43](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  |
 | RF 44 | O usuário deve poder avaliar o aplicativo. | [OB44](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  |
 | RF 45 | O usuário deve poder fazer logout.  |  [OB45](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados), [ITP03](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/introspeccao/#31-requisitos-funcionais)  |
