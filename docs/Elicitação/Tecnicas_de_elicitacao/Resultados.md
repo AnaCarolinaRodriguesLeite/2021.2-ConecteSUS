@@ -1,23 +1,22 @@
 # Requisitos Elicitados
 
-<div align="justify">
-
 
 ## 1. Introdução
-O presente documento reúne todos os requisitos levantados ao longo do projeto utilizando técnicas de elicitação, totalizando 46 requisitos funcionais e 5 requisitos não-funcionais.
-
+<p style="text-align: justify;">O presente documento reúne todos os requisitos levantados ao longo do projeto utilizando técnicas de elicitação, totalizando 46 requisitos funcionais e 5 requisitos não-funcionais.
+</p>
 
 
 ## 2. Metodologia
-A equipe utilizou diferentes técnicas de elicitação para levantar e concluir, finalmente, a lista de requisitos do projeto. As técnicas utilizadas foram:
+<p style="text-align: justify;">A equipe utilizou diferentes técnicas de elicitação para levantar e concluir, finalmente, a lista de requisitos do projeto. As técnicas utilizadas foram:
+</p>
 * Brainstorm;
 * Observação;
 * Storyboard;
 * Observação Participativa;
 * Introspecção.
 
-Os requisitos levantados em tais técnicas foram compilados e cada um deles é identificado por um ID, que possui o prefixo RF para requisitos funcionais e RNF para requisitos não-funcionais, juntamente com sua numeração. Para melhor rastreabilidade, as técnicas em que cada requisito se originou serão identificadas com a sigla da técnica juntamente com o número do requisito no devido documento. As técnicas serão referenciadas pelas seguintes siglas:
-
+<p style="text-align: justify;">Os requisitos levantados em tais técnicas foram compilados e cada um deles é identificado por um ID, que possui o prefixo RF para requisitos funcionais e RNF para requisitos não-funcionais, juntamente com sua numeração. Para melhor rastreabilidade, as técnicas em que cada requisito se originou serão identificadas com a sigla da técnica juntamente com o número do requisito no devido documento. As técnicas serão referenciadas pelas seguintes siglas:
+</p>
 <center>
 
 | Técnica | Sigla |
@@ -87,6 +86,8 @@ Os requisitos levantados em tais técnicas foram compilados e cada um deles é i
 | RF 46 | O usuário deve ser redirecionado para o site de cadastro. |  [OB46](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados), [SB02](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/storytelling/#4-requisitos-funcionais), [ITP01](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/introspeccao/#31-requisitos-funcionais)  |
 
 
+<center> <figcaption>Tabela 1: Requisitos funcionais.</figcaption> </center>
+
 
 ### 3.2. Requisitos Não-Funcionais
 | ID     | Requisito                                                                   | Técnica utilizada |
@@ -96,6 +97,9 @@ Os requisitos levantados em tais técnicas foram compilados e cada um deles é i
 | RNF 03 | Os usuários devem conseguir encontrar a funcionalidade desejada rapidamente. | [ITP23](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/introspeccao/#31-requisitos-funcionais), [SB13](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/storytelling/#5-requisitos-nao-funcionais) |
 | RNF 04 | O aplicativo deve proteger os dados dos usuários.  |  [ITP24](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/introspeccao/#31-requisitos-funcionais), [SB15](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/storytelling/#5-requisitos-nao-funcionais) |
 | RNF 05 | O aplicativo deve apresentar persistência de login. | [BT20](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/brainstorming/#5-levantamento-de-requisitos)  |
+
+
+<center> <figcaption>Tabela 2: Requisitos não funcionais.</figcaption> </center>
 
 ## Bibliografia
 > SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. Slides apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
