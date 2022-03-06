@@ -89,3 +89,4 @@
 | 0.3    | 20/02/2022 |  Revisão  da v0.1 e v0.2  | Erick e Gustave | - |
 | 0.4    | 15/02/2022 |  Adicionando a segunda entrega  | Ana Carolina | Daniel |
 | 0.5    | 03/03/2022 |  Adicionando a terceira entrega  | Ana Carolina | Ricardo |
+|  0.6   | 06/03/2022 | Revisão | Daniel  | - |
