@@ -9,7 +9,7 @@ Diferentes cenários são desenvolvidos e oferecem diversos tipos de informaçã
 
 ## 2. Metodologia
 <p align = "justify">
-Cenários são formas reconhecidas afim de compreender as interações entre ambientes e sistemas, para definir fluxos na parte comportamental do software. No nosso cenário, fizemos, os objetivos descreve a meta para o cenário, contexto são condições e pré condições para o cenário ter êxito, atores são os próprios Usuários, excessão são situações que os usuários não irão conseguir reproduzir os cenários e os epsódios são o detalhamento do cenário para o funcionamento do mesmo.
+Cenários são formas reconhecidas afim de compreender as interações entre ambientes e sistemas, para definir fluxos na parte comportamental do software. No nosso cenário, fizemos, os objetivos descreve a meta para o cenário, contexto são condições e pré condições para o cenário ter êxito, atores são os próprios usuários, recursos estão envolvidos para conseguir execturar o cenário, excessão são situações que os usuários não irão conseguir reproduzir os cenários e os epsódios são o detalhamento do cenário para o funcionamento do mesmo.
 </p>
 
 ## 3. Cenários
