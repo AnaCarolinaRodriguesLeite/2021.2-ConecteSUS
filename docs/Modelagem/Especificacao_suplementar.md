@@ -39,13 +39,13 @@ Relaciona-se com os requisitos funcionais encontrados no Caso de Uso. Pode ser e
 
 Relacionado com a facilidade do usuário em manusear o produto:
 
-- Interface intuitiva: O menu disposto no aplicativo do Conecte SUS é abrangente e possui uma certa naturalidade durante sua primeira experiência de usuário, a plataforma dispõe de vários cards com as principais opções de ações que partem do usuário, portanto, possui uma boa usabilidade.
+-<p style="text-align: justify;">Interface intuitiva: O menu disposto no aplicativo do Conecte SUS é abrangente e possui uma certa naturalidade durante sua primeira experiência de usuário, a plataforma dispõe de vários cards com as principais opções de ações que partem do usuário, portanto, possui uma boa usabilidade.</p>
 
-- Interface padronizada: Facilita o usuário em gravar padrões de sistema e de ações, assim, consegue percorrer os caminhos do aplicativo de forma mais dinâmica
+-<p style="text-align: justify;">Interface padronizada: Facilita o usuário em gravar padrões de sistema e de ações, assim, consegue percorrer os caminhos do aplicativo de forma mais dinâmica.</p>
 
-- Estética coerente: Possui um design que facilita a memória do usuário em percorrer os caminhos devido aos campos uniformes e cores padronizadas.
+- <p style="text-align: justify;">Estética coerente: Possui um design que facilita a memória do usuário em percorrer os caminhos devido aos campos uniformes e cores padronizadas.</p>
 
-- Mensagens de alerta: O aplicativo possui mensagens que alertam o usuário caso tente acessar algo indevido, como também possui indicações de ajuda.
+- <p style="text-align: justify;">Mensagens de alerta: O aplicativo possui mensagens que alertam o usuário caso tente acessar algo indevido, como também possui indicações de ajuda.</p>
 
 ### 2.3. Confiabilidade
 
@@ -77,7 +77,7 @@ Pode ser atribuído à adaptabilidade, suporte e portabilidade do aplicativo:
 - <p style="text-align: justify;">Atualizações frequentes no aplicativo foram verificadas, sendo a última em 28 de janeiro de 2022.
 - <p style="text-align: justify;">Possui compatibilidade de gerenciamento de registros.
 
-### 2.6. Mais (+):
+### 2.6. Mais (+)
 
 Refere-se aos mais diversos requisitos sobre o Conecte SUS que ainda não foram englobados anteriormente, podendo-se destacar:
 
