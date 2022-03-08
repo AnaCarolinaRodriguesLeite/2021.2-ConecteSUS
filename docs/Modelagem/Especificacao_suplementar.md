@@ -39,9 +39,9 @@ Relaciona-se com os requisitos funcionais encontrados no Caso de Uso. Pode ser e
 
 Relacionado com a facilidade do usuário em manusear o produto:
 
--<p style="text-align: justify;">Interface intuitiva: O menu disposto no aplicativo do Conecte SUS é abrangente e possui uma certa naturalidade durante sua primeira experiência de usuário, a plataforma dispõe de vários cards com as principais opções de ações que partem do usuário, portanto, possui uma boa usabilidade.</p>
+- <p style="text-align: justify;">Interface intuitiva: O menu disposto no aplicativo do Conecte SUS é abrangente e possui uma certa naturalidade durante sua primeira experiência de usuário, a plataforma dispõe de vários cards com as principais opções de ações que partem do usuário, portanto, possui uma boa usabilidade.</p>
 
--<p style="text-align: justify;">Interface padronizada: Facilita o usuário em gravar padrões de sistema e de ações, assim, consegue percorrer os caminhos do aplicativo de forma mais dinâmica.</p>
+- <p style="text-align: justify;">Interface padronizada: Facilita o usuário em gravar padrões de sistema e de ações, assim, consegue percorrer os caminhos do aplicativo de forma mais dinâmica.</p>
 
 - <p style="text-align: justify;">Estética coerente: Possui um design que facilita a memória do usuário em percorrer os caminhos devido aos campos uniformes e cores padronizadas.</p>
 
