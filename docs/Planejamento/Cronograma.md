@@ -80,14 +80,32 @@
 </center>
 
 
+### 2.3 Cronograma da quarta entrega
+
+<center>
+
+| Data da realização da tarefa | Planejamento do projeto  | Responsáveis     | Revisores      |
+| :--------------------------: | :----------------------: | :--------------: | :------------: |
+| 08/03 | NFR Framework | Ana Carolina | Erick |
+| 07/03 | Backlog do produto | Gustave e Ricardo | Ana Carolina |
+| 08/03 | História de usuário | Daniel e Erick | Ana Carolina |
+| 08/03 | Ata da reunião | Ana Carolina | Ricardo |
+| 08/03 | Cronograma da quarta entrega | Ana Carolina | Gustave |
+
+<figcaption>Tabela 5: Tabela específica contendo data de entrega, responsáveis e revisores.</figcaption>
+
+</center>
+
+
 ## Histórico de versão
 
 | Versão | Data       | Descrição            | Autor        | Revisor      |
 | ------ | ---------- | -------------------- | ------------ | ------------ |
 | 0.1    | 07/02/2022 | Criação do documento | Daniel e Ricardo Loureiro | Erick e Gustave |
 | 0.2    | 17/02/2022 | Correção do documento | Ana Carolina | Erick e Gustave | 
-| 0.3    | 20/02/2022 |  Revisão  da v0.1 e v0.2  | Erick e Gustave | - |
-| 0.4    | 15/02/2022 |  Adicionando a segunda entrega  | Ana Carolina | Daniel |
-| 0.5    | 03/03/2022 |  Adicionando a terceira entrega  | Ana Carolina | Ricardo |
+| 0.3    | 20/02/2022 | Revisão  da v0.1 e v0.2  | Erick e Gustave | - |
+| 0.4    | 15/02/2022 | Adicionando a segunda entrega  | Ana Carolina | Daniel |
+| 0.5    | 03/03/2022 | Adicionando a terceira entrega  | Ana Carolina | Ricardo |
 | 0.6    | 06/03/2022 | Revisão | Daniel  | - |
 | 0.7    | 06/03/2022 | Revisão da v0.5| Ricardo  | - |
+| 0.8    | 08/03/2022 | Adicionando a quarta entrega  | Ana Carolina | Gustave |
