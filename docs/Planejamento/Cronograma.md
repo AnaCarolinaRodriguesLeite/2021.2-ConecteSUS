@@ -80,7 +80,7 @@
 </center>
 
 
-### 2.3 Cronograma da quarta entrega
+### 2.4 Cronograma da quarta entrega
 
 <center>
 
