@@ -6,7 +6,8 @@
 
 ## 2. Metodologia
 
-A metodologia abordada durante a produção desse documento foi a FURPS+ que é um sistema utilizado para a classificação dos requisitos, em que cada letra representa os atributos de Qualidade de Software correspondente:
+<p style="text-align: justify;">A metodologia abordada durante a produção desse documento foi a FURPS+ que é um sistema utilizado para a classificação dos requisitos, em que cada letra representa os atributos de Qualidade de Software correspondente:
+</p>
 
 1. Functionality: Refere-se a todo aspecto que relaciona-se com a funcionalidade dos requisitos.
 
@@ -30,13 +31,13 @@ A metodologia abordada durante a produção desse documento foi a FURPS+ que é 
 
 </center>
 
-### 2.1. Funcionalidade:
+### 2.1. Funcionalidade
 
-Relaciona-se com os requisitos funcionais encontrados no Caso de Uso. Pode ser encontrada clicando em <a href="https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/">Moscow</a>
+Relaciona-se com os requisitos funcionais encontrados no Caso de Uso. Pode ser encontrada clicando em <a href="https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/">Moscow.</a>
 
-### 2.2. Usabilidade:
+### 2.2. Usabilidade
 
-Relcionado com a facilidade do usuário em manusear o produto
+Relacionado com a facilidade do usuário em manusear o produto:
 
 - Interface intuitiva: O menu disposto no aplicativo do Conecte SUS é abrangente e possui uma certa naturalidade durante sua primeira experiência de usuário, a plataforma dispõe de vários cards com as principais opções de ações que partem do usuário, portanto, possui uma boa usabilidade.
 
@@ -46,35 +47,35 @@ Relcionado com a facilidade do usuário em manusear o produto
 
 - Mensagens de alerta: O aplicativo possui mensagens que alertam o usuário caso tente acessar algo indevido, como também possui indicações de ajuda.
 
-### 2.3. Confiabilidade:
+### 2.3. Confiabilidade
 
-Sobre a segurança do aplicativo Conecte SUS
+Sobre a segurança do aplicativo ConecteSUS:
 
-- Os dados provém de um banco de dados fornecido pelo Ministério da Saúde, que é responsável pelo armazenado e segurança dos mesmos.
-- Possui informações aderidas sob as diretrizes da OMS e do Ministério da Saúde.
-- Possui login realizado com dados do site também gerido pelo ministério, portanto possui capacidade de recuperação de senha e gerência de informações
-- Possui precisão de intercomunicação dos dados
-- Possibilidade de recuperação de dados
-- Possui política de uso de dados bem definida e disponível para os usuários
+- <p style="text-align: justify;">Os dados provém de um banco de dados fornecido pelo Ministério da Saúde, que é responsável pelo armazenado e segurança dos mesmos.</p>
+- <p style="text-align: justify;">Possui informações aderidas sob as diretrizes da OMS e do Ministério da Saúde.</p>
+- <p style="text-align: justify;">Possui login realizado com dados do site também gerido pelo ministério, portanto possui capacidade de recuperação de senha e gerência de informações.</p>
+- <p style="text-align: justify;">Possui precisão de intercomunicação dos dados.</p>
+- <p style="text-align: justify;">Possibilidade de recuperação de dados.</p>
+- <p style="text-align: justify;">Possui política de uso de dados bem definida e disponível para os usuários.</p>
 
-### 2.4. Performance:
+### 2.4. Performance
 
-Relaciona-se com o desempenho durante a experiência do usuário
+Relaciona-se com o desempenho durante a experiência do usuário:
 
-- É requerido uma versão Android 4.4W ou superior para melhores condinções de desempenho
-- Possui tamanho de 52M para dispositivos Android
-- Possui tempo de resposta satisfatório para inserção, coleta e atualização de dados
+- <p style="text-align: justify;">É requerido uma versão Android 4.4W ou superior para melhores condições de desempenho.</p>
+- <p style="text-align: justify;">Possui tamanho de 52M para dispositivos Android.</p>
+- <p style="text-align: justify;">Possui tempo de resposta satisfatório para inserção, coleta e atualização de dados.</p>
 
-### 2.5. Suportabilidade:
+### 2.5. Suportabilidade
 
-Pode ser atribuído à adaptabilidade, suporte e portabilidade do aplicativo
+Pode ser atribuído à adaptabilidade, suporte e portabilidade do aplicativo:
 
-- O usuário deve possui uma conexão wifi ou 3g para acessar o aplicativo
-- O usuário consegue baixar o aplicativo se possui 52M de espaço disponível em seu aparelho móvel.
-- Compatibilidade com Android 4.4W ou superior
-- Possui versão atual número 70.4.8
-- Atualizações frequentes no aplicativo foram verificadas, sendo a última em 28 de janeiro de 2022
-- Possui compatibilidade de gerenciamento de registros
+- <p style="text-align: justify;">O usuário deve possui uma conexão wifi ou 3g para acessar o aplicativo.
+- <p style="text-align: justify;">O usuário consegue baixar o aplicativo se possui 52M de espaço disponível em seu aparelho móvel.
+- <p style="text-align: justify;">Compatibilidade com Android 4.4W ou superior.
+- <p style="text-align: justify;">Possui versão atual número 70.4.8.
+- <p style="text-align: justify;">Atualizações frequentes no aplicativo foram verificadas, sendo a última em 28 de janeiro de 2022.
+- <p style="text-align: justify;">Possui compatibilidade de gerenciamento de registros.
 
 ### 2.6. Mais (+):
 
@@ -86,21 +87,21 @@ Refere-se aos mais diversos requisitos sobre o Conecte SUS que ainda não foram 
 - Requisitos de Design
 - Requisitos de Sistema de Ajuda
 
-Para interfaces do usuário, têm-se que o sistema deve possuir uma interface dinâmica que exibe os componentes da aplicação que fornecerão as ações desejados pelo usuário.
+<p style="text-align: justify;">Para interfaces do usuário, têm-se que o sistema deve possuir uma interface dinâmica que exibe os componentes da aplicação que fornecerão as ações desejados pelo usuário.</p>
 
-Para interfaces de Hardware, têm-se que o servidor deve ser responsável pelo processamentos das mais diversas requisições de API simultaneamente acessado pelos usuários, garantindo informações atualizadas de seus respectivos processos.
+<p style="text-align: justify;">Para interfaces de Hardware, têm-se que o servidor deve ser responsável pelo processamentos das mais diversas requisições de API simultaneamente acessado pelos usuários, garantindo informações atualizadas de seus respectivos processos.</p>
 
-Para interfaces de Software, foram escolhidas linguagens de programação e frameworks, além de bibliotecas e interfaces escolhidas de acordo com a melhor manutenibilidade, acessibilidade e portabilidade que o sistema oferece. Esse papel coube ao Ministério da Saúde - órgão gestor.
+<p style="text-align: justify;">Para interfaces de Software, foram escolhidas linguagens de programação e frameworks, além de bibliotecas e interfaces escolhidas de acordo com a melhor manutenibilidade, acessibilidade e portabilidade que o sistema oferece. Esse papel coube ao Ministério da Saúde - órgão gestor.</p>
 
-Para interfaces de Comunicação, deve haver uma comunicação inclusiva que provém no direito do cidadão brasileiro de que todos podem ter acesso às ferramentas oferecidas pelo Ministério da Saúde.
+<p style="text-align: justify;">Para interfaces de Comunicação, deve haver uma comunicação inclusiva que provém no direito do cidadão brasileiro de que todos podem ter acesso às ferramentas oferecidas pelo Ministério da Saúde.</p>
 
-Para restrições de Design, temos que o suporte de idiomas não é aplicável visto que o aplicativo é um suporte para os cidadãos brasileiros cadastrados no SUS.
+<p style="text-align: justify;">Para restrições de Design, temos que o suporte de idiomas não é aplicável visto que o aplicativo é um suporte para os cidadãos brasileiros cadastrados no SUS.</p>
 
-Para restrições de Design, temos uma navegabilidade boa e eficiente, com componentes de design intuitivos para todos os usuários.
+<p style="text-align: justify;">Para restrições de Design, temos uma navegabilidade boa e eficiente, com componentes de design intuitivos para todos os usuários.</p>
 
-Para requisitos de sistemas de ajuda, possui uma opção no Menu "Fale com o Conecte SUS" que da acesso ao formulário que poderá ser preenchido para resolver questões de ajuda provindas dos usuários.
+<p style="text-align: justify;">Para requisitos de sistemas de ajuda, possui uma opção no Menu "Fale com o Conecte SUS" que da acesso ao formulário que poderá ser preenchido para resolver questões de ajuda provindas dos usuários. </p>
 
-Para requisitos de Licenciamento, todos os usuários devem concordar com os termos de utilização e política de privacidade, são oferecidos e apresentados abertamente na opção do Menu.
+<p style="text-align: justify;">Para requisitos de Licenciamento, todos os usuários devem concordar com os termos de utilização e política de privacidade, são oferecidos e apresentados abertamente na opção do Menu.</p>
 
 ## 3. Resultados
 
@@ -131,7 +132,7 @@ Para requisitos de Licenciamento, todos os usuários devem concordar com os term
 ## Bibliografia
 
 > - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 13;
-> - https://qualidadebr.wordpress.com/2008/07/10/furps/#:~:text=FURPS%2B%20%C3%A9%20um%20sistema%20para,Rational%20Unified%20Process%20(RUP)%3A
+> - https://qualidadebr.wordpress.com/2008/07/10/furps#:~:text=FURPS%2B%20%C3%A9%20um%20sistema%20paraRational%20Unified%20Process%20(RUP)%3A
 
 ## Histórico de Versão
 
