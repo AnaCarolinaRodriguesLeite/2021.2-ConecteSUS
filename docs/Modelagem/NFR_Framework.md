@@ -52,7 +52,7 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 </p>
 
 
-## 3. Requisitos Funcionais
+## 3. Requisitos Não Funcionais
 
 <p style="text-align: justify;"> Abaixo estão listados os requisitos não-funcionais levantados pelas das técnicas de elicitação utilizadas no projeto, que serão os mesmos utilizados no NFR Framework.
 </p>
@@ -106,6 +106,21 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 
 </center>
 
+<center>
+
+![legenda2](https://user-images.githubusercontent.com/49570180/157535350-9272cbec-4b63-4b30-836b-5ac868130ee7.jpeg)
+
+</center>
+
+<center>
+
+  <figcaption>
+      <b>Imagem 3: Tipos de rótulos.</b>
+    <br><small>Fonte: própria</small>
+  </figcaption>
+
+</center>
+
 
 ## 5. Diagramas
 
@@ -120,7 +135,7 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 <center>
 
   <figcaption>
-      <b>Imagem 3: Diagrama NFR Framework de Confiabilidade.</b>
+      <b>Imagem 4: Diagrama NFR Framework de Confiabilidade.</b>
     <br><small>Fonte: própria</small>
   </figcaption>
 
@@ -137,7 +152,7 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 <center>
 
   <figcaption>
-      <b>Imagem 4: Diagrama NFR Framework de Usabilidade com propagação.</b>
+      <b>Imagem 5: Diagrama NFR Framework de Confiabilidade com propagação.</b>
     <br><small>Fonte: própria</small>
   </figcaption>
 
@@ -154,7 +169,7 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 <center>
 
   <figcaption>
-      <b>Imagem 5: Diagrama NFR Framework de Perfomance.</b>
+      <b>Imagem 6: Diagrama NFR Framework de Perfomance.</b>
     <br><small>Fonte: própria</small>
   </figcaption>
 
@@ -171,7 +186,7 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 <center>
 
   <figcaption>
-      <b>Imagem 6: Diagrama NFR Framework de Perfomance com propagação.</b>
+      <b>Imagem 7: Diagrama NFR Framework de Perfomance com propagação.</b>
     <br><small>Fonte: própria</small>
   </figcaption>
 
@@ -188,7 +203,7 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 <center>
 
   <figcaption>
-      <b>Imagem 7: Diagrama NFR Framework de Usabilidade.</b>
+      <b>Imagem 8: Diagrama NFR Framework de Usabilidade.</b>
     <br><small>Fonte: própria</small>
   </figcaption>
 
@@ -205,7 +220,7 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 <center>
 
   <figcaption>
-      <b>Imagem 8: Diagrama NFR Framework de Usabilidade com propagação.</b>
+      <b>Imagem 9: Diagrama NFR Framework de Usabilidade com propagação.</b>
     <br><small>Fonte: própria</small>
   </figcaption>
 
