@@ -31,70 +31,70 @@ Os épicos são termos genéricos que buscam agrupar um conjunto de atividades e
 
 | História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... |               Para poder...               | Prioridade |
 | :-----------------: | :-------------: | :-----------------------------: | :---------------------------------------: | :--------: |
-| US01 | RF 01 | vizualiar sem efetuar o login | visualizar informações gerais sem efetuar o login                               | Could  |
-| US02 | RF 02 | efetuar o login no gov.br com o cpf | efetuar o login no gov.br com o cpf                                              |  Must  |
-| US03 | RF 03 | ter outras opções de identificação para login | escolher outras opções de identificação para login                              | Could  |
-| US04 | RF 04 | ver a senha inserida | ter certeza da senha que digitei                                                            | Should |
-| US05 | RF 05 | recuperar senha caso tenha esquecido | ter uma alternativa de recuperação de senha caso esqueça                      |  Must  |
-| US06 | RF 06 | navegar entre todas as abas | utilizar todo o app                                                     |  Must  |
-| US07 | RF 36 | adicionar uma foto de perfil | melhorar meu perfil                                                    | Would  |
-| US08 | RF 37 | gerenciar as contas | melhorar o meu uso do app                                                           | Could  |
-| US09 | RF 38 | visualizar os dados cadastrados | verificar os dados da minha conta                                                 | Could  |
-| US10 | RF 39 | visualizar as notícias relacionadas à saúde | me interar das notícias mais recentes                                     | Would  |
-| US11 | RF 40 | entrar em contato com o ConecteSUS | esclarecer dúvidas e problemas          | Could  |
-| US12 | RF 41 | verificar quais são os demais aplicativos do Ministério da Saúde | utilizar melhor dos serviços oferecidos                | Would  |
-| US13 | RF 42 | consultar as duvidas frequentes relacionadas ao aplicativo | solucionar minha dúvida                      | Could  |
-| US14 | RF 43 | consultar ao termo de utilização e política de privacidade | saber se as políticas e termos me agradam                      |  Must  |
-| US15 | RF 44 |  avaliar o aplicativo | mostrar minha satisfação                                                            | Would  |
-| US16 | RF 45 | fazer logout | me sentir seguro ao largar meu celular                                                                    |  Must  |
-| US17 |  RF 46 | ser redirecionado para o site de cadastro | me despreocupar em procurar o site de cadastro                                              |  Must  |
+| US01 | [RF 01](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | vizualiar sem efetuar o login | visualizar informações gerais sem efetuar o login                               | Could  |
+| US02 | [RF 02](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | efetuar o login no gov.br com o cpf | efetuar o login no gov.br com o cpf                                              |  Must  |
+| US03 | [RF 03](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | ter outras opções de identificação para login | escolher outras opções de identificação para login                              | Could  |
+| US04 | [RF 04](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | ver a senha inserida | ter certeza da senha que digitei                                                            | Should |
+| US05 | [RF 05](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | recuperar senha caso tenha esquecido | ter uma alternativa de recuperação de senha caso esqueça                      |  Must  |
+| US06 | [RF 06](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | navegar entre todas as abas | utilizar todo o app                                                     |  Must  |
+| US07 | [RF 36](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | adicionar uma foto de perfil | melhorar meu perfil                                                    | Would  |
+| US08 | [RF 37](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | gerenciar as contas | melhorar o meu uso do app                                                           | Could  |
+| US09 | [RF 38](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | visualizar os dados cadastrados | verificar os dados da minha conta                                                 | Could  |
+| US10 | [RF 39](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | visualizar as notícias relacionadas à saúde | me interar das notícias mais recentes                                     | Would  |
+| US11 | [RF 40](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | entrar em contato com o ConecteSUS | esclarecer dúvidas e problemas          | Could  |
+| US12 | [RF 41](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | verificar quais são os demais aplicativos do Ministério da Saúde | utilizar melhor dos serviços oferecidos                | Would  |
+| US13 | [RF 42](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | consultar as duvidas frequentes relacionadas ao aplicativo | solucionar minha dúvida                      | Could  |
+| US14 | [RF 43](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | consultar ao termo de utilização e política de privacidade | saber se as políticas e termos me agradam                      |  Must  |
+| US15 | [RF 44](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) |  avaliar o aplicativo | mostrar minha satisfação                                                            | Would  |
+| US16 | [RF 45](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | fazer logout | me sentir seguro ao largar meu celular                                                                    |  Must  |
+| US17 |  [RF 46](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | ser redirecionado para o site de cadastro | me despreocupar em procurar o site de cadastro                                              |  Must  |
 
 
 ### 3.2 EP02: Históricos
 
 | História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... |                    Para poder...                    | Prioridade |
 | :-----------------: | :-------------: | :-----------------------------: | :-------------------------------------------------: | :--------: |
-| US | RF 10 | acessar o certificado de vacinação da COVID-19       | ir em locais publicos e apresentar meu certificado |  Could  |
-| US 18 | RF 11 | alterar o idioma do certificado de vacina COVID-19      | ir em locais publicos no exterior e apresentar meu certificado |  Could  | 
-| US 19 | RF 12 | gerar um pdf do certificado de vacina COVID-19      | apresentar em locais públicos |  Should  | 
-| US 20 | RF 13 | visualizar um QR Code para autenticar o certificado de vacina COVID-19       | ter uma forma diferente de validar meu certificado |   Should  |
-| US 21 | RF 18 | ver as vacinas tomadas       | ver os dados das vacinas  |  Must  |
-| US 22 | RF 19 | informar se há algum problema com minhas vacinas |  corrigir as informações erradas  |  Should  |
-| US 23 | RF 20 | consultar meus exames de COVID-19 |  ver os dados das vacinas  |  Must  |
-| US 24 | RF 21 | consultar meus medicamentos autodeclarados e recebidos |  ver as informações dos medicamentos  |  Must  |
-| US 25 | RF 22 | adicionar um medicamento autodeclarado |  consultar as informações deste medicamento no futuro  |  Must  |
-| US 26 | RF 23 | consultar os dados de atendimentos e internações realizadas no SUS |  ver as informações dos atendimentos e internações  |  Must  |
+| US | [RF 10](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | acessar o certificado de vacinação da COVID-19       | ir em locais publicos e apresentar meu certificado |  Could  |
+| US 18 | [RF 11](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | alterar o idioma do certificado de vacina COVID-19      | ir em locais publicos no exterior e apresentar meu certificado |  Could  | 
+| US 19 | [RF 12](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | gerar um pdf do certificado de vacina COVID-19      | apresentar em locais públicos |  Should  | 
+| US 20 | [RF 13](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | visualizar um QR Code para autenticar o certificado de vacina COVID-19       | ter uma forma diferente de validar meu certificado |   Should  |
+| US 21 | [RF 18](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | ver as vacinas tomadas       | ver os dados das vacinas  |  Must  |
+| US 22 | [RF 19](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | informar se há algum problema com minhas vacinas |  corrigir as informações erradas  |  Should  |
+| US 23 | [RF 20](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | consultar meus exames de COVID-19 |  ver os dados das vacinas  |  Must  |
+| US 24 | [RF 21](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | consultar meus medicamentos autodeclarados e recebidos |  ver as informações dos medicamentos  |  Must  |
+| US 25 | [RF 22](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | adicionar um medicamento autodeclarado |  consultar as informações deste medicamento no futuro  |  Must  |
+| US 26 | [RF 23](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | consultar os dados de atendimentos e internações realizadas no SUS |  ver as informações dos atendimentos e internações  |  Must  |
 
 
 ### 3.3 EP03: Registros
 
 | História de Usuário | Rastreabilidade |    Eu, como usuário gostaria de...    |                                  Para poder...                                   | Prioridade |
 | :-----------------: | :-------------: | :-----------------------------------: | :------------------------------------------------------------------------------: | :--------: |
-| US27 | RF 26 | adicionar e consultar contatos emergenciais | me sentir seguro ao passar mal fora de casa                                     |  Must  |
-| US28 | RF 27 | adicionar e consultar meu registro de saúde | ter um controle melhor da minha saúde                                     |  Must  |
-| US29 | RF 28 | consultar as regras e doações de sangue | realizar uma doação                        |  Must  |
-| US30 | RF 29 | adicionar e consultar seu registro de alergias | ter um controle melhor da minha saúde                                    |  Must  |
+| US27 | [RF 26](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | adicionar e consultar contatos emergenciais | me sentir seguro ao passar mal fora de casa                                     |  Must  |
+| US28 | [RF 27](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | adicionar e consultar meu registro de saúde | ter um controle melhor da minha saúde                                     |  Must  |
+| US29 | [RF 28](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | consultar as regras e doações de sangue | realizar uma doação                        |  Must  |
+| US30 | [RF 29](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | adicionar e consultar seu registro de alergias | ter um controle melhor da minha saúde                                    |  Must  |
 
 
 ### 3.4 EP04: Geral
 
 | História de Usuário | Rastreabilidade |    Eu, como usuário gostaria de...    |                                  Para poder...                                   | Prioridade |
 | :-----------------: | :-------------: | :-----------------------------------: | :------------------------------------------------------------------------------: | :--------: |
-| US31 | RF 07 | acessar a carteira nacional de vacina no menu rápido | gerar a carteira de maneira rápida                          | Could  |
-| US32 | RF 08 | alterar o idioma da carteira nacional de vacina | utilizar a carteira no exterior                             | Could  |
-| US33 | RF 09 |  gerar um pdf da carteira nacional de vacina | apresentar minha cateira                                  | Should |
-| US34 | RF 14 |  acessar o cartão do SUS no menu rápido | apresentar meu cartão                                  | Could  |
-| US35 | RF 15 |  compartilhar seu cartão do SUS | permitir que alguem apresente meu cartão                                         | Could  |
-| US36 | RF 16 |  visualizar um QR Code para o cartão do SUS | permitir que alguem verifique meu cartão                              | Would  |
-| US37 | RF 17 |  ver as informações principais no menu inicial | conhecer minhas opções                                |  Must  |
-| US38 | RF 24 |  validar um QR Code | confirmar a autenticidade do documento                                                      | Should |
-| US39 | RF 25 |  consultar a localização dos estabelecimentos da rede de saúde | ser atendido                |  Must  |
-| US40 | RF 30 |  consultar informações sobre saúde alimentar | melhorar minha alimentação                                  |  Must  |
-| US41 | RF 31 |  realizar um teste de alimentação | saber se estou me alimentando bem                                           | Could  |
-| US42 | RF 32 |  ver consultas agendadas e a fila de espera | ser atendido no dia                                    |  Must  |
-| US43 | RF 33 |  consultar informações sobre doações de órgãos | realizar uma doação                             | Could  |
-| US44 | RF 34 |  acompanhar sua posição na fila do sistema nacional de transplantes | saber quando realizarei meu trasplante         |  Must  |
-| US45 | RF 35 | ser redirecionado para a chamada telefônica da central nacional de transplantes | fazer a chamada de maneira rápida | Would  |
+| US31 | [RF 07](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | acessar a carteira nacional de vacina no menu rápido | gerar a carteira de maneira rápida                          | Could  |
+| US32 | [RF 08](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | alterar o idioma da carteira nacional de vacina | utilizar a carteira no exterior                             | Could  |
+| US33 | [RF 09](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) |  gerar um pdf da carteira nacional de vacina | apresentar minha cateira                                  | Should |
+| US34 | [RF 14](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) |  acessar o cartão do SUS no menu rápido | apresentar meu cartão                                  | Could  |
+| US35 | [RF 15](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) |  compartilhar seu cartão do SUS | permitir que alguem apresente meu cartão                                         | Could  |
+| US36 | [RF 16](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) |  visualizar um QR Code para o cartão do SUS | permitir que alguem verifique meu cartão                              | Would  |
+| US37 | [RF 17](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) |  ver as informações principais no menu inicial | conhecer minhas opções                                |  Must  |
+| US38 | [RF 24](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) |  validar um QR Code | confirmar a autenticidade do documento                                                      | Should |
+| US39 | [RF 25](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) |  consultar a localização dos estabelecimentos da rede de saúde | ser atendido                |  Must  |
+| US40 | [RF 30](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) |  consultar informações sobre saúde alimentar | melhorar minha alimentação                                  |  Must  |
+| US41 | [RF 31](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) |  realizar um teste de alimentação | saber se estou me alimentando bem                                           | Could  |
+| US42 | [RF 32](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) |  ver consultas agendadas e a fila de espera | ser atendido no dia                                    |  Must  |
+| US43 | [RF 33](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) |  consultar informações sobre doações de órgãos | realizar uma doação                             | Could  |
+| US44 | [RF 34](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) |  acompanhar sua posição na fila do sistema nacional de transplantes | saber quando realizarei meu trasplante         |  Must  |
+| US45 | [RF 35](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | ser redirecionado para a chamada telefônica da central nacional de transplantes | fazer a chamada de maneira rápida | Would  |
 
 
 ## 4. Bibliografia
@@ -109,3 +109,4 @@ Os épicos são termos genéricos que buscam agrupar um conjunto de atividades e
 | Versão |    Data    |               Descrição                |    Autor     | Revisor |
 | :----: | :--------: | :------------------------------------: | :----------: | :-----: |
 |  0.1   | 07/03/2022 | Criação do documento | Gustave, Daniel e Erick | Ana Carolina |
+|  0.2   | 09/03/2022 | Linkando rastreabilidade | Erick | Ana Carolina |
