@@ -52,7 +52,7 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 </p>
 
 
-## 3. Requisitos Funcionais
+## 3. Requisitos Não Funcionais
 
 <p style="text-align: justify;"> Abaixo estão listados os requisitos não-funcionais levantados pelas das técnicas de elicitação utilizadas no projeto, que serão os mesmos utilizados no NFR Framework.
 </p>
@@ -137,7 +137,7 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 <center>
 
   <figcaption>
-      <b>Imagem 4: Diagrama NFR Framework de Usabilidade com propagação.</b>
+      <b>Imagem 4: Diagrama NFR Framework de Confiabilidade com propagação.</b>
     <br><small>Fonte: própria</small>
   </figcaption>
 
@@ -194,7 +194,7 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 
 </center>
 
-#### 5.3.1Com propagação
+#### 5.3.1 Com propagação
 
 <center>
 
