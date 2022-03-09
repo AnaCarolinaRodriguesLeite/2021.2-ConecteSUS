@@ -4,7 +4,7 @@
 
 <p align = "justify">Backlog é uma coleção de recursos de produtos desejados definidos definidos pelo product owner. Ele é construído de forma incremental, isso é, não precisa estar finalizado no inicio do projeto, ele pode começar com um conteúdo mais generalizado e ir acrescentando á medida que vai adquirindo mais conhecimento do produto
 <br><br>
-O objetivo do backlog é dividir as tarefas para que as histórias de usuários possam ser compartilhadas facilmente, fornecer uma noção de tempo gasto em cada história, ser eslanável á medida que se aprende mais sobre o produto e usuário e fornecer o maior valor para o cliente.</p>
+O Backlog visa detalhar as tarefas de forma que as histórias de usuários sejam implementadas de maneira mais fácil, definindo a prioridade de cada tarefa.</p>
 
 
 ### 2. Tabela de Backlog
