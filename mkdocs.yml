@@ -39,6 +39,7 @@ nav:
       - Léxicos: Modelagem/lexicos.md
       - Casos de Uso: Modelagem/casos_de_uso.md
       - NFR Framework: Modelagem/NFR_Framework.md
+      - Histórias de Usuário: Modelagem/historias_de_usuario.md
   - Apresentações:
       - Apresentação 1: Apresentacao/Apresentacao 1.md
       - Apresentação 2: Apresentacao/Apresentacao 2.md
