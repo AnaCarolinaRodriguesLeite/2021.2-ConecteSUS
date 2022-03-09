@@ -226,3 +226,4 @@ O Backlog visa detalhar as tarefas de forma que as histórias de usuários sejam
 | Versão |    Data    |    Descrição                   |     Autor      |   Revisor    |
 | :----: | :--------: | :----------------------------: | :------------: | :----------: |
 |  0.1   | 09/03/2022 |  Criação do documento     | Ricardo | Daniel |
+|  0.2   | 09/03/2022 |  Revisão     | Daniel | - |
