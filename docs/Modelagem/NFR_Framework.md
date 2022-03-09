@@ -34,7 +34,7 @@
 Contribuição | Descrição
 -|-
 AND | se os softgoals descendentes forem satisfeitos os softgoals ascendentes também são.
-OR | se algum softgoal descendente form satisfeito, o ascendente é satisfeito.
+OR | se algum softgoal descendente for satisfeito, o ascendente é satisfeito.
 MAKE(++) | se o softgoal descendente for satisfeito o softgoal pai também é.
 BREAK(--) | se o softgoal descendente for suficientemente satisfeito, o softgoal pai é negado.
 HELP(+) | se o softgoal descendente for parcialmente satisfeito, o softgoal ascendente será parcialmente satisfeito.
@@ -227,3 +227,4 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 | Versão |    Data    |  Descrição | Autor | Revisor |
 | :----: | :--------: | :--------: | :---: | :-----: |
 |  0.1   | 08/03/2022 | Criação do documento: Introdução, Metodologia, Requisitos Funcionais, Legenda, Diagramas, Bibliografia | Ana Carolina | Erick |
+|  0.2   | 09/03/2022 | Revisão do documento | Erick | - |
