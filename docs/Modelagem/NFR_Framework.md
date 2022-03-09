@@ -194,7 +194,7 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 
 </center>
 
-#### 5.3.1 Com propagação
+#### 5.3.1Com propagação
 
 <center>
 
