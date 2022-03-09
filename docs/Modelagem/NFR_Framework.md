@@ -109,7 +109,7 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 
 ## 5. Diagramas
 
-### Confiabilidade
+### 5.1 Confiabilidade
 
 <center>
 
@@ -120,13 +120,13 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 <center>
 
   <figcaption>
-      <b>Imagem 1: Diagrama NFR Framework de Confiabilidade.</b>
+      <b>Imagem 3: Diagrama NFR Framework de Confiabilidade.</b>
     <br><small>Fonte: própria</small>
   </figcaption>
 
 </center>
 
-#### Com propagação
+#### 5.1.1 Com propagação
 
 <center>
 
@@ -137,13 +137,13 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 <center>
 
   <figcaption>
-      <b>Imagem 2: Diagrama NFR Framework de Usabilidade com propagação.</b>
+      <b>Imagem 4: Diagrama NFR Framework de Usabilidade com propagação.</b>
     <br><small>Fonte: própria</small>
   </figcaption>
 
 </center>
 
-### Perfomance
+### 5.2 Perfomance
 
 <center>
 
@@ -154,13 +154,13 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 <center>
 
   <figcaption>
-      <b>Imagem 3: Diagrama NFR Framework de Perfomance.</b>
+      <b>Imagem 5: Diagrama NFR Framework de Perfomance.</b>
     <br><small>Fonte: própria</small>
   </figcaption>
 
 </center>
 
-#### Com propagação
+#### 5.2.1 Com propagação
 
 <center>
 
@@ -171,13 +171,13 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 <center>
 
   <figcaption>
-      <b>Imagem 4: Diagrama NFR Framework de Perfomance com propagação.</b>
+      <b>Imagem 6: Diagrama NFR Framework de Perfomance com propagação.</b>
     <br><small>Fonte: própria</small>
   </figcaption>
 
 </center>
 
-### Usabilidade
+### 5.3 Usabilidade
 
 <center>
 
@@ -188,13 +188,13 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 <center>
 
   <figcaption>
-      <b>Imagem 5: Diagrama NFR Framework de Usabilidade.</b>
+      <b>Imagem 7: Diagrama NFR Framework de Usabilidade.</b>
     <br><small>Fonte: própria</small>
   </figcaption>
 
 </center>
 
-#### Com propagação
+#### 5.3.1 Com propagação
 
 <center>
 
@@ -205,7 +205,7 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 <center>
 
   <figcaption>
-      <b>Imagem 6: Diagrama NFR Framework de Usabilidade com propagação.</b>
+      <b>Imagem 8: Diagrama NFR Framework de Usabilidade com propagação.</b>
     <br><small>Fonte: própria</small>
   </figcaption>
 
