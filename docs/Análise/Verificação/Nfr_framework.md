@@ -14,14 +14,14 @@ Este documento tem como objetivo verificar e detectar os erros no documento de N
 |3| Finalidades de operadores definidas|OK|
 |4| Operadores geram efeitos colaterais|OK|
 |5| Operadores geram impactos em outros operadores?|OK|
-|13| Possui rastreabilidade?|OK|OK|OK|OK|
-|14| Possui versionamento?|OK|OK|OK|OK|
-|15| NFR condiz com requisitos já apresentados?|OK|OK|OK|OK|
-|6|Uso de bibliografia|OK|
-|7|Uso de versionamento e revisor|OK|
-|8|Descrição da metodologia|OK|
-|9|Introdução clara e objetiva|OK|
-|10|Possui rastreabilidade|OK| 
+|6| Possui rastreabilidade?|OK|OK|OK|OK|
+|7| Possui versionamento?|OK|OK|OK|OK|
+|8| NFR condiz com requisitos já apresentados?|OK|OK|OK|OK|
+|9|Uso de bibliografia|OK|
+|10|Uso de versionamento e revisor|OK|
+|11|Descrição da metodologia|OK|
+|12|Introdução clara e objetiva|OK|
+|13|Possui rastreabilidade|OK| 
 
 ### 2.2. Legenda
 |Símbolo|Descrição|
