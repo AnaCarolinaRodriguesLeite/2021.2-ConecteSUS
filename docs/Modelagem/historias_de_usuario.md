@@ -107,3 +107,4 @@ Os épicos são termos genéricos que buscam agrupar um conjunto de atividades e
 |  0.1   | 07/03/2022 |       Criação do documento        | Gustave, Daniel e Erick | Ana Carolina |
 |  0.2   | 09/03/2022 |     Linkando rastreabilidade      |          Erick          | Ana Carolina |
 |  0.3   | 09/03/2022 | Ajustando número de cada história |         Daniel          | Ana Carolina |
+|  0.4   | 22/03/2022 | Revisão listada e esperando correção |   Ana Carolina          | - |
