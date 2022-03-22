@@ -10,7 +10,13 @@
 
 ## 3. Checklist
 
-### 3.1. Resultados
+### 3.1. Legenda
+|Símbolo|Descrição|
+|--|--|
+|OK|Contém|
+|X|Não Contém|
+
+### 3.2. Resultados
 
 |  Número | Item | Resposta |
 |:-:|--|:-:|:-:|
@@ -20,12 +26,6 @@
 |4| Os atores condizem com os usuários do aplicativo?|OK|
 |5| As histórias foram escritas de forma clara e de fácil compreensão?|OK|
 |5| Metodologia possui e está clara?|X|
-
-### 3.2. Legenda
-|Símbolo|Descrição|
-|--|--|
-|OK|Contém|
-|X|Não Contém|
 
 ## 4. Conclusão
 <p style="text-align: justify;"> De acordo com a análise das respostas do checklist é possível verificar que falta a implementação dos links para os léxicos das palavras importantes para a compreensão dos requisitos, porém os atores condizem com os usuários reais do aplicativo e é fácil a compreensão das histórias, além de que os requisitos também foram bem escritos e estão identificados de forma correta. E ainda está faltando a metodologia no documento.

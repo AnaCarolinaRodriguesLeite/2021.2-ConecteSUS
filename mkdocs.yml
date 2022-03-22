@@ -42,6 +42,9 @@ nav:
       - Ágil:
         - Histórias de Usuário: Modelagem/historias_de_usuario.md
         - Backlog: Modelagem/backlog.md
+  - Análise:
+      - Storyboard: Análise/Verificação/Storyboard.md
+      - Cenários: Análise/Verificação/Cenarios.md
   - Apresentações:
       - Apresentação 1: Apresentacao/Apresentacao 1.md
       - Apresentação 2: Apresentacao/Apresentacao 2.md
