@@ -1,7 +1,7 @@
 # Verificação das Histórias de Usuário
 
 ## 1. Introdução
-<p style="text-align: justify;"> A Verificação é uma atividade, a qual envolve a análise de um sistema para certificar se este atende aos requisitos funcionais e não funcionais. Com isso, temos o objetivo de verificar os erros encontrados no documento de Cenários.
+<p style="text-align: justify;"> A Verificação é uma atividade, a qual envolve a análise de um sistema para certificar se este atende aos requisitos funcionais e não funcionais. Com isso, temos o objetivo de verificar os erros encontrados no documento de Histórias de Usuário.
 </p>
 
 ## 2. Metodologia

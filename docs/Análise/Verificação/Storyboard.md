@@ -40,4 +40,4 @@
 
 |Versão | Data | Descrição | Autor|  Revisor |
 | :--: | :--: | :--: | :--: | :--:  |
-| 0.1 | 22/03/2022  | Criação do documento de verificação de storyboard | Ana Carolina |
+| 0.1 | 22/03/2022  | Criação do documento de verificação de storyboard | Ana Carolina | Ricardo |

@@ -191,4 +191,4 @@
 
 |Versão | Data | Descrição | Autor|  Revisor |
 | :--: | :--: | :--: | :--: | :--:  |
-| 0.1 | 22/03/2022  | Criação do documento de verificação de cenários | Ana Carolina |
+| 0.1 | 22/03/2022  | Criação do documento de verificação de cenários | Ana Carolina | Daniel |
