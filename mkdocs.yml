@@ -45,6 +45,7 @@ nav:
   - Análise:
       - Storyboard: Análise/Verificação/Storyboard.md
       - Cenários: Análise/Verificação/Cenarios.md
+      - Histórias de Usuário: Análise/Verificação/Historias_usuario.md
   - Apresentações:
       - Apresentação 1: Apresentacao/Apresentacao 1.md
       - Apresentação 2: Apresentacao/Apresentacao 2.md
