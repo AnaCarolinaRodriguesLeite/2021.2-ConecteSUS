@@ -53,12 +53,13 @@
 
 ### 3.4 Relacionamentos
 
-| Relacionamentos | Generalização | Associação | Estender | Incluir |
-| :-------------: | :---------: | | | |
-| Generalização | OK |aaaaa | aaaaa| aaaaaaaaaa|
-| Associação | OK | | | |
-| Estender | OK | | | |
-| Incluir | OK | | | |
+|               Tópicos               | Generalização | Associação | Estender | Incluir |
+| :---------------------------------: | :-----------: | :--------: | :------: | :-----: |
+|         Erros ortográficos          |      OK       |     OK     |    OK    |   OK    |
+|      Boa definição dos termos       |      OK       |     OK     |    OK    |   OK    |
+|         Coerência e clareza         |      OK       |     OK     |    OK    |   OK    |
+| Presença de diagramas bem definidos |      OK       |     OK     |    OK    |   OK    |
+|  Setas apontando para o lado certo  |      OK       |     OK     |    OK    |   OK    |
 
 ## 4. Conclusão
 
