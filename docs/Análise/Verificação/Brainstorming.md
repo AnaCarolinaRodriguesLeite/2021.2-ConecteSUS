@@ -23,7 +23,7 @@
 |    Rastreabilidade dos requisitos encontrados    |     OK      |
 |      Boa descrição dos requisitos na tabela      |     OK      |
 |      As perguntas estão claras e objetivas?      |     OK      |
-|            Possui erros ortográficos             |     OK      |
+|            Possui erros ortográficos             |      X      |
 
 ### 3.2 Requisitos
 
