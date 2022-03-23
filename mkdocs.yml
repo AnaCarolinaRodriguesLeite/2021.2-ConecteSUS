@@ -48,10 +48,13 @@ nav:
         - Cenários: Análise/Verificação/Cenarios.md
         - Histórias de Usuário: Análise/Verificação/Historias_usuario.md
         - Backlog: Análise/Verificação/Backlog.md
-        - Instrospecção: Análise/Verificação/Introspeccao.md
         - Richpicture: Análise/Verificação/Rich_picture.md
         - NFR Framework: Análise/Verificação/Nfr_framework.md
         - Moscow: Análise/Verificação/Moscow.md
+        - Introspecção: Análise/Verificação/Introspeccao.md
+        - Resultados: Análise/Verificação/Resultado.md
+        - Especificação Suplementar: Análise/Verificação/Especificacao.md
+        - Léxicos: Análise/Verificação/Lexicos.md
       - Validação:
         - Prototipação: Análise/Validação/Prototipação.md
   - Apresentações:
