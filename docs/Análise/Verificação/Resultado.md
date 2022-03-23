@@ -34,4 +34,4 @@
 
 |Versão | Data | Descrição | Autor|  Revisor |
 | :--: | :--: | :--: | :--: | :--:  |
-| 0.1 | 23/03/2022  | Criação do documento de verificação da Introspecção | Ricardo | Ana |
+| 0.1 | 23/03/2022  | Criação do documento de verificação do Resultado | Ricardo | Ana |
