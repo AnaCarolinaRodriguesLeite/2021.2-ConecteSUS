@@ -1,4 +1,4 @@
-# Verificação - Rich Picture
+# Verificação - MoSCow
 
 ## 1. Introdução
 Este documento tem como objetivo verificar e detectar os erros no documento de MoSCoW. Para realizar a verificação foi utilizado a inspeção por checklist, pois é simples, objetiva e irá atender nossos propósitos.
