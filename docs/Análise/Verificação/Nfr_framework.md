@@ -8,7 +8,7 @@ Este documento tem como objetivo verificar e detectar os erros no documento de N
 ### 2.1. Resultados
 
 |Número|Questões|Geral|
-|:-:|--|:-:|:-:|
+|:-:|--|:-:|
 |1| Respeita as regras da metodologia|OK|
 |2| Softgoals claros e auto explicativos|OK|
 |3| Finalidades de operadores definidas|OK|
