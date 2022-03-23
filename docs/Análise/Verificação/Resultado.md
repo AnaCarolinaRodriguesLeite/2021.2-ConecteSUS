@@ -1,7 +1,7 @@
-# Verificação da Introspecção
+# Verificação dos resultados
 
 ## 1. Introdução
-<p style="text-align: justify;"> A Verificação é uma atividade, a qual envolve a análise de um sistema para certificar se este atende aos requisitos funcionais e não funcionais. Com isso, temos o objetivo de verificar os erros encontrados no documento de Introspecção.
+<p style="text-align: justify;"> A Verificação é uma atividade, a qual envolve a análise de um sistema para certificar se este atende aos requisitos funcionais e não funcionais. Com isso, temos o objetivo de verificar os erros encontrados no documento dos Resultados.
 </p>
 
 ## 2. Checklist
@@ -16,17 +16,15 @@
 
 |Número|Questão|Resposta|
 |:-:|:-:|:-:|
-|1|Os requisitos estão descritos de forma correta e clara|OK|
-|2|Os usuários estão identificados por seus tipos|X|
-|3|Consegue-se identificar os atores dos requisitos|OK|
+|1|Os requisitos funcionais e não funcionais estão descritos de forma correta e clara|OK|
+|2|Os requisitos estão linkados por suas técnicas|OK|
+|3|Consegue-se identificar os atores dos requisitos|X|
 |4|As ações a serem realizadas estão bem descritas em cada requisito|OK|
-|5|O documento possui referências|OK|
+|5|O documento possui referêcias|OK|
 |6|Os requisitos funcionais e não funcionais estão identificados de maneira correta|OK|
-|7|O ID de cada requisito possui identificação acerca do documento que foi responsável por elicitá-lo|X|
+|7|O ID de cada requisito possui identificação acerca do documento a técnica utiliza|OK|
 |8|Existem erros ortograficos|OK|
-|9|Todos os termos importantes para a compreensão estão linkados aos léxicos|X|
-|10|Há alguma formatação quebrada no documento|OK|
-
+|9|Os resultados estão claros|OK|
 
 ## 3. Bibliografia
 
