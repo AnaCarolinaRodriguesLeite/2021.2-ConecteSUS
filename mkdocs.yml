@@ -40,23 +40,27 @@ nav:
       - Casos de Uso: Modelagem/casos_de_uso.md
       - NFR Framework: Modelagem/NFR_Framework.md
       - Ágil:
-        - Histórias de Usuário: Modelagem/historias_de_usuario.md
-        - Backlog: Modelagem/backlog.md
+          - Histórias de Usuário: Modelagem/historias_de_usuario.md
+          - Backlog: Modelagem/backlog.md
   - Análise:
       - Verificação:
-        - Storyboard: Análise/Verificação/Storyboard.md
-        - Cenários: Análise/Verificação/Cenarios.md
-        - Histórias de Usuário: Análise/Verificação/Historias_usuario.md
-        - Backlog: Análise/Verificação/Backlog.md
-        - Richpicture: Análise/Verificação/Rich_picture.md
-        - NFR Framework: Análise/Verificação/Nfr_framework.md
-        - Moscow: Análise/Verificação/Moscow.md
-        - Introspecção: Análise/Verificação/Introspeccao.md
-        - Resultados: Análise/Verificação/Resultado.md
-        - Especificação Suplementar: Análise/Verificação/Especificacao.md
-        - Léxicos: Análise/Verificação/Lexicos.md
+          - Storyboard: Análise/Verificação/Storyboard.md
+          - Cenários: Análise/Verificação/Cenarios.md
+          - Histórias de Usuário: Análise/Verificação/Historias_usuario.md
+          - Backlog: Análise/Verificação/Backlog.md
+          - Richpicture: Análise/Verificação/Rich_picture.md
+          - NFR Framework: Análise/Verificação/Nfr_framework.md
+          - Moscow: Análise/Verificação/Moscow.md
+          - Introspecção: Análise/Verificação/Introspeccao.md
+          - Resultados: Análise/Verificação/Resultado.md
+          - Especificação Suplementar: Análise/Verificação/Especificacao.md
+          - Brainstorming: Análise/Verificação/Brainstorming.md
+          - Observação Participativa: Análise/Verificação/Observacao_participativa.md
+          - Léxicos: Análise/Verificação/Lexicos.md
+          - Personas: Análise/Verificação/Personas.md
+          - Casos de Uso: Análise/Verificação/Casos_de_uso.md
       - Validação:
-        - Prototipação: Análise/Validação/Prototipação.md
+          - Prototipação: Análise/Validação/Prototipação.md
   - Apresentações:
       - Apresentação 1: Apresentacao/Apresentacao 1.md
       - Apresentação 2: Apresentacao/Apresentacao 2.md
