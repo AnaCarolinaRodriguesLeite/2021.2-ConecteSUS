@@ -75,7 +75,7 @@
 
 ## 4. Conclusão
 
-De acordo com a análise das respostas do Checklist é possível verificar que o documento atende as principais técnicas do brainstorming.
+De acordo com a análise das respostas do Checklist é possível verificar que o documento atende as principais técnicas da observação participativa.
 
 ## 5. Bibliografia
 
