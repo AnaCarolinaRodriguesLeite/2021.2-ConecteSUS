@@ -12,7 +12,7 @@
 <p style="text-align: justify;"> É possível visualizar o protótipo apresentado abaixo completo clicando <a href = "https://www.figma.com/file/vHhS5dqVvmexAEuD8Y39SP/ConecteSus?node-id=0%3A1">aqui</a>
 </p>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/vHhS5dqVvmexAEuD8Y39SP/ConecteSus?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FvHhS5dqVvmexAEuD8Y39SP%2FConecteSus%3Fnode-id%3D1%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A2" allowfullscreen></iframe>
 
 ## Bibliografia
 >ROGERS, Y.; SHARP, H.; PREECE, J. Design de interação: além da Interação humano-computador. 3. ed. Porto Alegre: Bookman, 2013;
