@@ -43,14 +43,17 @@ nav:
         - Histórias de Usuário: Modelagem/historias_de_usuario.md
         - Backlog: Modelagem/backlog.md
   - Análise:
-      - Storyboard: Análise/Verificação/Storyboard.md
-      - Cenários: Análise/Verificação/Cenarios.md
-      - Histórias de Usuário: Análise/Verificação/Historias_usuario.md
-      - Backlog: Análise/Verificação/Backlog.md
-      - Instrospecção: Análise/Verificação/Introspeccao.md
-      - Richpicture: Análise/Verificação/Rich_picture.md
-      - NFR Framework: Análise/Verificação/Nfr_framework.md
-      - Moscow: Análise/Verificação/Moscow.md
+      - Verificação:
+        - Storyboard: Análise/Verificação/Storyboard.md
+        - Cenários: Análise/Verificação/Cenarios.md
+        - Histórias de Usuário: Análise/Verificação/Historias_usuario.md
+        - Backlog: Análise/Verificação/Backlog.md
+        - Instrospecção: Análise/Verificação/Introspeccao.md
+        - Richpicture: Análise/Verificação/Rich_picture.md
+        - NFR Framework: Análise/Verificação/Nfr_framework.md
+        - Moscow: Análise/Verificação/Moscow.md
+      - Validação:
+        - Prototipação: Análise/Validação/Prototipação.md
   - Apresentações:
       - Apresentação 1: Apresentacao/Apresentacao 1.md
       - Apresentação 2: Apresentacao/Apresentacao 2.md
