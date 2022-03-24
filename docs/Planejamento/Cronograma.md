@@ -91,6 +91,35 @@
 
 </center>
 
+### 2.5 Cronograma da quinta entrega
+
+<center>
+
+| Data da realização da tarefa |   Planejamento do projeto    |   Responsáveis   |  Revisores   |
+| :--------------------------: | :--------------------------: | :--------------: | :----------: |
+|22/03| Verificação - Storyboard          | Ana Carolina         | Ricardo        |
+|22/03| Verificação - Cenários      | Ana Carolina    | Daniel |
+|22/03| Verificação - Backlog | Ana Carolina | Gustave |
+|22/03| Verificação - História de usuário  | Ana Carolina       | Ricardo |
+|21/03| Verificação - Rich Picture | Daniel      | Erick |
+|21/03| Verificação - NFR Framework  | Daniel     | Gustave |
+|21/03| Verificação - Moscow  | Daniel  | Ana Carolina |
+|21/03| Verificação - Introspecção  | Ricardo     | Ana Carolina |
+|21/03| Verificação - Resultados  | Ricardo       | Ana Carolina |
+|21/03| Verificação - Especificação Suplementar  | Ricardo      | Ana Carolina |
+|23/03| Verificação - Brainstorming | Gustave   | Daniel |
+|23/03| Verificação - Observação Participativa | Gustave  | Erick |
+|21/03| Verificação - Léxicos | Ricardo       | Ana Carolina |
+|23/03| Verificação - Personas | Gustave     | Erick |
+|23/03| Verificação - Casos de Uso | Gustave       | Ana Carolina |
+|18/03 - 22/03 | Validação - Prototipação | Erick e Daniel       | Gustave |
+|17/03| Ata da reunião                       | Ana Carolina         | Ricardo      |
+|22/03| Cronograma quinta entrega            | Ana Carolina         | Gustave      |
+
+<figcaption>Tabela 6: Tabela específica contendo data de entrega, responsáveis e revisores.</figcaption>
+
+</center>
+
 ## Histórico de versão
 
 | Versão | Data       | Descrição                      | Autor                     | Revisor         |
@@ -104,3 +133,4 @@
 | 0.7    | 06/03/2022 | Revisão da v0.5                | Ricardo                   | -               |
 | 0.8    | 08/03/2022 | Adicionando a quarta entrega   | Ana Carolina              | Gustave         |
 | 0.9    | 09/03/2022 | Revisão da v0.8                | Gustave                   | -               |
+| 1.0    | 22/03/2022 | Adicionando a quinta entrega   | Ana Carolina              | Gustave         |
