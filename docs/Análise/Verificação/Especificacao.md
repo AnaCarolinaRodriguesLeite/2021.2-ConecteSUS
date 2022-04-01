@@ -4,19 +4,23 @@
 <p style="text-align: justify;"> A Verificação é uma atividade, a qual envolve a análise de um sistema para certificar se este atende aos requisitos funcionais e não funcionais. Com isso, temos o objetivo de verificar os erros encontrados no documento da Especificação Suplementar.
 </p>
 
-## 2. Checklist
+## 2. Metodologia
+<p style="text-align: justify;">Para realizar a verificação foi utilizado a técnica de inspeção por checklist que pode ser definida como: "Trata-se de um Método gerencial de reuniões, as quais objetivam o descobrimento de Defeitos em documentos. É um processo de detecção de defeitos bem definidos. Após um defeito ser descoberto, é necessário corrigir o sistema e revalidá-lo. A partir daí, será necessário novas Inspeções no sistema, testes de regressões e análises". Ele foi utilizado por ser simples, objetivo e no qual irá atender nossos propósitos.
+</p>
 
-### 2.1. Legenda
+## 3. Checklist
+
+### 3.1. Legenda
 |Símbolo|Descrição|
 |--|--|
 |OK|Contém|
 |X|Não Contém|
 
-### 2.2 Resultados
+### 3.2 Resultados
 
 |Número|Questão|Resposta|
 |:-:|:-:|:-:|
-|1| O documento está no formato FURPS+  | OK|
+|1| O documento está no formato FURPS+  |x|
 |2| Há rastreabilidade dos requisitos | OK |
 |3| Há os links para os léxicos | X |
 |4| O documento especifíca interação e aprendizagem, na Usabilidade | OK |
@@ -26,12 +30,14 @@
 |8| O documento especifíca a transparência de dados, na Confiabilidade? | OK |
 |9| O documento especifíca a Recuperabilidade, na Confiabilidade?  OK |
 |10| O documento específica sobre os dispositivos suportados, na Suportabilidade  | OK | 
-|11| O documento específica sobre os dispositivos suportados, na Suportabilidade  | OK |
-|12| O documento especifíca a testabilidade, na Suportabilidade | OK | 
-|13| O documento especifíca os Requisitos de Licenciamento | X | 
+|11| O documento especifíca a testabilidade, na Suportabilidade | OK | 
+|12| O documento especifíca os Requisitos de Licenciamento | X | 
 
+## 4. Conclusão
+<p style="text-align: justify;">Ao analisar o documento, foi possível concluir que nem todos os itens do acrônimo FURPS+ foram utilizados e o documento não esta especificando os requitos de licenciamento.
+</p>
 
-## 3. Bibliografia
+## 5. Bibliografia
 
 > SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 52 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
