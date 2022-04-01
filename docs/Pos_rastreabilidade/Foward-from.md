@@ -20,7 +20,7 @@ A metodologia utilizada para a produção do respectivo documento tem como base 
 
 ## 3. Mapeamento
 
-<p style="text-align: justify;"> Serão apresentadas na tabela abaixo o mapeamento dos documentos e referência dos artefatos listados na tabela que será apresentada posteriormente.
+<p style="text-align: justify;"> Serão apresentadas na tabela abaixo o mapeamento dos documentos e referência dos artefatos listados na tabela que será apresentada posteriormente.</p>
 
 |          Artefato           |                                                        Documento                                                         |
 | :-------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
@@ -29,8 +29,6 @@ A metodologia utilizada para a produção do respectivo documento tem como base 
 |           Lexico            |    [Léxicos](https://requisitos-de-software.github.io/2021.2-ConecteSUS/An%C3%A1lise/Verifica%C3%A7%C3%A3o/Lexicos/)     |
 |           Cenario           |   [Cenários](https://requisitos-de-software.github.io/2021.2-ConecteSUS/An%C3%A1lise/Verifica%C3%A7%C3%A3o/Cenarios/)    |
 |          Categoria          |                 [Meta-modelo de Toranzo](https://labrasoft.ifba.edu.br/assets/files/pdf/Livro_AADSP.pdf)                 |
-
-</p>
 
 ## 4. Tabela
 
