@@ -121,7 +121,7 @@
 </center>
 
 
-### 2.5 Cronograma da sexta entrega
+### 2.6 Cronograma da sexta entrega
 
 <center>
 
