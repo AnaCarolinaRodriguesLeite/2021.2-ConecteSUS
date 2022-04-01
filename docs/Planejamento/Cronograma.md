@@ -120,6 +120,23 @@
 
 </center>
 
+
+### 2.6 Cronograma da sexta entrega
+
+<center>
+
+| Data da realização da tarefa |   Planejamento do projeto    |   Responsáveis   |  Revisores   |
+| :--------------------------: | :--------------------------: | :--------------: | :----------: |
+|01/04| Pós-rastreabilidade - backward-from          | Ana Carolina         | Ricardo        |
+|02/04 - 03/04| Pós-rastreabilidade - forward-from      | Daniel, Ricardo, Erick, Gustave    | Ana Carolina |
+|01/04| Ata da reunião                       | Ana Carolina         | Daniel      |
+|01/04| Cronograma sexta entrega            | Ana Carolina         | Gustave      |
+
+<figcaption>Tabela 7: Tabela específica contendo data de entrega, responsáveis e revisores.</figcaption>
+
+</center>
+
+
 ## Histórico de versão
 
 | Versão | Data       | Descrição                      | Autor                     | Revisor         |
@@ -134,3 +151,4 @@
 | 0.8    | 08/03/2022 | Adicionando a quarta entrega   | Ana Carolina              | Gustave         |
 | 0.9    | 09/03/2022 | Revisão da v0.8                | Gustave                   | -               |
 | 1.0    | 22/03/2022 | Adicionando a quinta entrega   | Ana Carolina              | Gustave         |
+| 1.1    | 01/04/2022 | Adicionando a sexta entrega   | Ana Carolina              | Gustave         |
