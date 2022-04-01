@@ -60,12 +60,12 @@
 | RF 32 | O usuário deve poder ver consultas agendadas e a fila de espera. |  [OB32](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  | Usuário |
 | RF 33 | O usuário deve poder consultar informações sobre doações de órgãos. | [OB33](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  | Usuário |
 | RF 34 | O usuário deve poder acompanhar sua posição na fila do sistema nacional de transplantes. |  [OB34](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  | Usuário |
-| RF 35 | O usuário deve poder ser redirecionado para a chamada telefônica da central nacional de transplantes. | [OB35](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  |
+| RF 35 | O usuário deve poder ser redirecionado para a chamada telefônica da central nacional de transplantes. | [OB35](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  | Usuário |
 | RF 36 | O usuário deve poder adicionar uma foto de perfil. | [OB36](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  | Usuário |
 | RF 37 | O usuário deve poder gerenciar suas contas. | [OB37](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  | Usuário |
 | RF 38 | O usuário deve poder visualizar os dados cadastrados. | [OB38](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  | Usuário |
 | RF 39 | O usuário deve poder visualizar as notícias relacionadas à saúde. | [OB39](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  | Usuário |
-| RF 40 | O usuário deve poder entrar em contato com o ConecteSUS para esclarecer dúvidas e problemas.  | [OB40](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  |
+| RF 40 | O usuário deve poder entrar em contato com o ConecteSUS para esclarecer dúvidas e problemas.  | [OB40](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  | Usuário |
 | RF 41 | O usuário deve poder verificar quais são os demais aplicativos do Ministério da Saúde. | [OB41](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  | Usuário |
 | RF 42 | O usuário deve poder consultar as dúvidas frequentes relacionadas ao aplicativo. | [OB42](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  | Usuário |
 | RF 43 | O usuário deve poder consultar ao termo de utilização e política de privacidade. |  [OB43](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/#3-resultados)  | Usuário |
@@ -78,8 +78,8 @@
 
 
 ## 4. Requisitos Não-Funcionais
-| ID     | Requisito                                                                   | Técnica utilizada |  Stakeholder |
-| ------ | --------------------------------------------------------------------------- | :----: | :-------: |
+| ID     | Requisito                                         | Técnica utilizada |  Stakeholder |
+| ------ | ------------------------------------------------- | :----: | :-------: |
 | RNF 01 | O aplicativo não pode demorar muito para abrir. | [ITP21](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/introspeccao/#31-requisitos-funcionais), [SB12](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/storytelling/#5-requisitos-nao-funcionais) | Aplicativo  |
 | RNF 02 | O aplicativo não pode ficar indisponível.  |  [ITP22](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/introspeccao/#31-requisitos-funcionais), [SB14](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/storytelling/#5-requisitos-nao-funcionais)  | Aplicativo  |
 | RNF 03 | Os usuários devem conseguir encontrar a funcionalidade desejada rapidamente. | [ITP23](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/introspeccao/#31-requisitos-funcionais), [SB13](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/storytelling/#5-requisitos-nao-funcionais) | Usuário |
