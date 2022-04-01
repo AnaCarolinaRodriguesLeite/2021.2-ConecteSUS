@@ -61,6 +61,8 @@ nav:
           - Casos de Uso: Análise/Verificação/Casos_de_uso.md
       - Validação:
           - Prototipação: Análise/Validação/Prototipação.md
+  - Pós-Rastreabilidade:
+      - Foward-from: Pos_rastreabilidade/Foward-from.md
   - Apresentações:
       - Apresentação 1: Apresentacao/Apresentacao 1.md
       - Apresentação 2: Apresentacao/Apresentacao 2.md
