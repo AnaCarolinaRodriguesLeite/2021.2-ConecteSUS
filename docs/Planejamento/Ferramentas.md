@@ -15,6 +15,7 @@
 | <img src="https://user-images.githubusercontent.com/49570180/152992982-1349a5a0-6e15-44a2-92ca-5d050ac05d80.png" width="250" title="Flaction"> | Flaction | Imagens do richpicture |
 | <img src="https://user-images.githubusercontent.com/49570180/152993039-9dce211b-0d20-4fb1-9965-f0ed6ad7d9f7.png" width="150" title="Canva">| Canva | Elaboração das apresentações |
 | <img src="https://user-images.githubusercontent.com/49570180/152993064-9278b5f4-ee8c-4823-837e-541529ac3bc5.png" width="150" title="Miro"> | Miro | Utilizado para elaboração dos Rich Pictures |
+| <img src="https://user-images.githubusercontent.com/49570180/163823090-bb17702e-49d7-44c3-ac78-e3919b3fdaae.png" width="150" title="Figma"> | Fig,a | Utilizado para elaboração do protótipo |
 
 <center> <figcaption>Tabela 1: ferramentas usadas.</figcaption> </center>
 
@@ -25,4 +26,5 @@
 | 0.1    | 07/02/2022 | Criação da página de ferramentas | Ana Carolina | Erick Melo |
 | 0.2    | 08/02/2022 | Correção das figuras | Ana Carolina | Erick Melo |
 | 0.3    | 14/02/2022 | Correção do tamanho das figuras | Erick Melo | Daniel Vinicius |
-|    0.4   | 20/02/2022 |  Revisão  da v0.1, v0.2 e v0.3| Erick e Daniel | - |
+|  0.4   | 20/02/2022 |  Revisão  da v0.1, v0.2 e v0.3| Erick e Daniel | - |
+|  0.5   | 18/04/2022 |  Inclusão do figma | Ana Carolina | Daniel |
