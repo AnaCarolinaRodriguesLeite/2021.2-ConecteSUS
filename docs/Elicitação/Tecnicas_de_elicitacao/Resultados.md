@@ -102,6 +102,9 @@
 
 <center> <figcaption>Tabela 2: Requisitos não funcionais.</figcaption> </center>
 
+## 4. Conclusão 
+Portanto, a relação dos requisitos levantados pelos integrantes por todas a técnicas de elicitação feitas até o presente momento foram concluídas e estão presentes neste documento com as devidas rastreabilidades de cada requisito que se encontra em cada artefato.
+
 ## Bibliografia
 > SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. Slides apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
@@ -112,3 +115,4 @@
 | Versão | Data | Descrição | Autor | Revisor |
 |:--:|:--:|:--:|:--:|:--:|
 |0.1|05/03/2022|Criação do resultado dos requisitos obtidos através das técnicas de elicitação|Ana Carolina|Gustave|
+|0.2|18/04/2022|Correção: inclusão da conclusão|Ana Carolina|Gustave|
