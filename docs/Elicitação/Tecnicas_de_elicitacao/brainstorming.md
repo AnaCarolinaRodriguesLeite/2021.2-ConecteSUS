@@ -78,6 +78,6 @@ Portanto, a relação dos requisitos levantados pelos integrantes que produziram
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 |:--:|:--:|:--:|:--:|:--:|
-|0.1|16/02/2022|Criação dos requistos através da técnica|Todos|Todos|
+|0.1|16/02/2022|Criação dos requisitos através da técnica|Todos|Todos|
 |0.2|18/04/2022|Correção do documento: numeração da tabela, conclusão|Ana Carolina|Ricardo|
 
