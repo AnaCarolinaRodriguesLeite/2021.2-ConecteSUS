@@ -47,7 +47,7 @@
 | BS3  | O usuário pode consultar o histórico de exames                                     | RF                 |
 | BS4  | O usuário pode consultar o resultado dos exames                                    | RF                 |
 | BS5  | O usuário pode consultar o histórico de atendimentos e internações                 | RF                 |
-| BS6  | O usuário pode consultar registro de doações de sangue                             | RF                 |
+| BS6  | O usuário pode consultar o registro de doações de sangue                             | RF                 |
 | BS7  | O usuário deve poder consultar a localização dos estabelecimentos da rede de saúde | RF                 |
 | BS8  | O usuário pode agendar exames pelo aplicativo                                      | RF                 |
 | BS9  | O usuário pode consultar a posição na fila de esperar para seus exames             | RF                 |
@@ -58,14 +58,18 @@
 | BS14 | O usuário pode ver as informações de cada doação de sangue                         | RF                 |
 | BS15 | O usuário pode consultar o registro de alergias                                    | RF                 |
 | BS16 | O usuário pode consultar o registro de Contatos Emergenciais                       | RF                 |
-| BS16 | O usuário pode ver as informações de cada contato emergencial                      | RF                 |
-| BS17 | O usuário pode adicionar um contato emergencial                                    | RF                 |
-| BS18 | O usuário pode adicionar o registro de saúde diário                                | RF                 |
-| BS19 | O usuário pode consultar o registro de saúde diário                                | RF                 |
-| BS20 | O aplicativo deve apresentar persistência de login                                 | RNF                |
-| BS21 | O aplicativo poderia ter outras formas de login                                    | RNF                |
+| BS17 | O usuário pode ver as informações de cada contato emergencial                      | RF                 |
+| BS18 | O usuário pode adicionar um contato emergencial                                    | RF                 |
+| BS19 | O usuário pode adicionar o registro de saúde diário                                | RF                 |
+| BS20 | O usuário pode consultar o registro de saúde diário                                | RF                 |
+| BS21 | O aplicativo deve apresentar persistência de login                                 | RNF                |
+| BS22 | O aplicativo poderia ter outras formas de login                                    | RNF                |
 
 <center> <figcaption>Tabela 1: Requisitos funcionais e não funcionais.</figcaption> </center>
+
+## 6. Conclusão 
+Portanto, a relação dos requisitos levantados pelos integrantes que produziram este documento foram almejados com a estipulação de determinadas exigências encontradas e também com os requisitos elicitados.
+
 
 ## Bibliografia
 
@@ -75,4 +79,5 @@
 | Versão | Data | Descrição | Autor | Revisor |
 |:--:|:--:|:--:|:--:|:--:|
 |0.1|16/02/2022|Criação dos requistos através da técnica|Todos|Todos|
+|0.2|18/04/2022|Correção do documento: numeração da tabela, conclusão|Ana Carolina|Ricardo|
 
