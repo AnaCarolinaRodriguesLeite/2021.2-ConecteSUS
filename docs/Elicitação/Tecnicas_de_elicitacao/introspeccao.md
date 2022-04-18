@@ -58,6 +58,9 @@
 
 <center> <figcaption>Tabela 2: Requisitos Não funcionais.</figcaption> </center>
 
+## 4. Conclusão 
+Portanto, a relação dos requisitos levantados pelos integrantes que produziram este documento foram almejados com a estipulação de determinadas exigências encontradas e também com os requisitos elicitados.
+
 ## Bibliografia
 
 > SOMMERVILLE, Ian. 2011. Engenharia de Software.
@@ -79,3 +82,4 @@
 |  0.1   | 15/02/2022 |                           Criação do documento                           | Gustave Persijn, Ana Carolina |  Daniel   |
 |  0.2   | 16/02/2022 | Correção de algumas informações na tabela, adição de legenda das tabelas | Gustave Persijn, Ana Carolina |  Daniel   |
 |    0.3   | 20/02/2022 |  Revisão  da v0.1 e v0.2 | Daniel | - |
+|    0.4   | 18/04/2022 |  Adição da conclusão | Ana Carolina | Daniel |
