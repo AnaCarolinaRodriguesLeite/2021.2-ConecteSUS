@@ -10,10 +10,10 @@
 
 ## 2. Metodologia
 
-<p style="text-align: justify;"> Os léxicos foram divididos em ordem alfabética seguindo a tabela abaixo: </p>
+<p style="text-align: justify;"> Os símbolos do ConecteSUS foram identificados a partir do uso do aplicativo e dos requisitos elicitados na etapa anterior. Após identificados eles foram ordenados e descritos como: noção, impacto e sinônimos. Afim de facilitar a compreensão dos símbolos apresentados, dispomos os léxicos que foram divididos em ordem de manipulação do aplicativo, seguindo a tabela abaixo: </p>
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
-| -------------- | -------- | ------- | ------------------- | ------------------- |
+| :--------------: | :--------: | :-------: | :-------------------: | :-------------------: |
 | Nome do Léxico | Sinônimo | Símbolo | Descrição do efeito | Verbo/Objeto/Estado |
 
 ## 3. Léxicos
@@ -22,25 +22,25 @@
 
 | Léxico |         Sinônimo         |                                                                                           Noção                                                                                            |                                                        Impacto                                                        | Classificação |
 | :----: | :----------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-----------: |
-| Entrar | acessar, logar, conectar | A partir da senha gerada no cadastro e os dados pessoais, o usuário consegue acessar com sua conta o aplicativo para utilizar os recursos do aplicativo sincronizado com suas informações. | O usuário pode acessar o ConecteSUS pelo navegador. </br> O usuário pode acessar o ConecteSUS pelo aplicativo mobile. |     Verbo     |
+| Entrar | acessar, [logar](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/cenarios/#c01-fazer-login-usando-cpf), conectar | A partir da senha gerada no cadastro e os dados pessoais, o usuário consegue acessar com sua conta o aplicativo para utilizar os recursos do aplicativo sincronizado com suas informações. | O usuário pode acessar o ConecteSUS pelo navegador. </br> O usuário pode acessar o ConecteSUS pelo aplicativo mobile. |     Verbo     |
 
 ### L02 - Vacinas
 
 | Léxico  |  Sinônimo  |                  Noção                   |                                 Impacto                                  | Classificação |
 | :-----: | :--------: | :--------------------------------------: | :----------------------------------------------------------------------: | :-----------: |
-| Vacinas | Imunização | Forma de imunização por meio do usuário. | O usuário pode registrar vacinas.</br> O usuário pode consultar vacinas. |    Objeto     |
+| [Vacinas](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/cenarios/#c03-emititir-carteira-nacional-de-vacinacao) | Imunização | Forma de imunização por meio do usuário. | O usuário pode registrar vacinas.</br> O usuário pode consultar vacinas. |    Objeto     |
 
 ### L03 - Exames
 
 | Léxico |     Sinônimo      |                 Noção                  |                                              Impacto                                               | Classificação |
 | :----: | :---------------: | :------------------------------------: | :------------------------------------------------------------------------------------------------: | :-----------: |
-| Exames | Apuração, análise | São consultas realizadas pelo usuário. | O usuário pode verificar os exames já feitos.</br>O usuário pode verificar os exames em andamento. |    Objeto     |
+| [Exames](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/cenarios/#c06-ver-resultados-de-exames) | Apuração, análise | São consultas realizadas pelo usuário. | O usuário pode verificar os exames já feitos.</br>O usuário pode verificar os exames em andamento. |    Objeto     |
 
 ### L04 - Medicamentos
 
 |    Léxico    |     Sinônimo     |                   Noção                    |                                          Impacto                                          | Classificação |
 | :----------: | :--------------: | :----------------------------------------: | :---------------------------------------------------------------------------------------: | :-----------: |
-| Medicamentos | remédio, fármaco | São substâncias para uso de um tratamento. | O usuário pode registrar os medicamentos. </br> O usuário pode verificar os medicamentos. |    Objeto     |
+| [Medicamentos](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/cenarios/#c09-consultar-medicamentos) | remédio, fármaco | São substâncias para uso de um tratamento. | O usuário pode registrar os medicamentos. </br> O usuário pode verificar os medicamentos. |    Objeto     |
 
 ### L05 - ValidaQRCode
 
@@ -58,7 +58,7 @@
 
 |  Léxico  |        Sinônimo        |                               Noção                               |                                                           Impacto                                                           | Classificação |
 | :------: | :--------------------: | :---------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-----------: |
-| Contatos | Informações de contato | São números de contatos registrados pelo usuário para emergência. | O usuário pode registrar contatos pelo concecteSUS. </br> O usuário pode verificar os contatos registrados pelo ConecteSUS. |    Objeto     |
+| [Contatos](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/cenarios/#c07-adicionar-contato-de-emergencia) | Informações de contato | São números de contatos registrados pelo usuário para emergência. | O usuário pode registrar contatos pelo concecteSUS. </br> O usuário pode verificar os contatos registrados pelo ConecteSUS. |    Objeto     |
 
 ### L08 - Minha saúde
 
@@ -76,7 +76,7 @@
 
 |      Léxico      | Sinônimo |        Noção        |                    Impacto                     | Classificação |
 | :--------------: | :------: | :-----------------: | :--------------------------------------------: | :-----------: |
-| Doação de sangue |    -     | Ato de doar sangue. | O usuário pode consultar as doações de sangue. |     Verbo     |
+| [Doação de sangue](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/cenarios/#c10-acompanhar-ou-tirar-duvidas-da-doacao-de-sangue) |    -     | Ato de doar sangue. | O usuário pode consultar as doações de sangue. |     Verbo     |
 
 ### L11 - Peso saudável
 
@@ -106,7 +106,7 @@
 
 |   Léxico   | Sinônimo |                       Noção                        |                                                            Impacto                                                            | Classificação |
 | :--------: | :------: | :------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :-----------: |
-| Meu perfil |    -     | Perfil do usuário que está acessando o aplicativo. | O usuário poderá verificar os dados de sua conta.</br>O usuário poderá gerenciar outras contas cadastradas no seu aplicativo. |    Objeto     |
+| [Meu perfil](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/cenarios/#c08-mudar-foto-de-perfil) |    -     | Perfil do usuário que está acessando o aplicativo. | O usuário poderá verificar os dados de sua conta.</br>O usuário poderá gerenciar outras contas cadastradas no seu aplicativo. |    Objeto     |
 
 ### L16 - Home
 
@@ -172,7 +172,10 @@
 
 | Léxico |          Sinônimo           |          Noção           |                                       Impacto                                        | Classificação |
 | :----: | :-------------------------: | :----------------------: | :----------------------------------------------------------------------------------: | :-----------: |
-|  Sair  | Retirar-se, desvencilhar-se | Sair da conta ou perfil. | O usuário poderá sair do perfil que está.</br>O usuário pode sair da conta que está. |     Verbo     |
+|  [Sair](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/cenarios/#c05-realizar-logout)  | Retirar-se, desvencilhar-se | Sair da conta ou perfil. | O usuário poderá sair do perfil que está.</br>O usuário pode sair da conta que está. |     Verbo     |
+
+## 4. Conclusão 
+Portanto, os léxicos encontrados foram buscados e reconhecidos através do uso do aplicativo, identificando o que poderia ser visto como uma figura de linguagem que passa a descrição de algo ou como um simples ícone. Com isso concluímos que alguns deles tem rastreablidade conexa com a atividade de cenários estipulando uma conexão entre os artefatos e permitindo ainda mais a rastreabilidade entre eles.
 
 ## Bibliografia
 
@@ -192,3 +195,4 @@
 | :----: | :--------: | :-------------------------------------------: | :----------: | :-----: |
 |  0.1   | 03/03/2022 | Criação do documento com todas as informações | Ana Carolina | Gustave |
 |  0.2   | 05/03/2022 |                    Revisão                    |   Gustave    |    -    |
+|  0.3   | 18/04/2022 | Correção: Adição de rastreabilidade nos léxicos encontrados com relação aos cenários e inclusção de conclusão           |   Ana Carolina    |   Daniel    |
