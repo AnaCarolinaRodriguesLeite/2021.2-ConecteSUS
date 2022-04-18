@@ -32,16 +32,16 @@
 <p style="text-align: justify;">As decomposições são especificações dos softgoals, ou seja, alterações no estado de um softgoal filho geram alterações no softgoal pai, e essas alterações são chamadas de contribuições. Essas contribuições são:</p>
 
 Contribuição | Descrição
--|-
-AND | se os softgoals descendentes forem satisfeitos os softgoals ascendentes também são.
-OR | se algum softgoal descendente for satisfeito, o ascendente é satisfeito.
-MAKE(++) | se o softgoal descendente for satisfeito o softgoal pai também é.
-BREAK(--) | se o softgoal descendente for suficientemente satisfeito, o softgoal pai é negado.
-HELP(+) | se o softgoal descendente for parcialmente satisfeito, o softgoal ascendente será parcialmente satisfeito.
-HURT(-) | se o softgoal descendente for satisfeito, o softgoal ascendente será parcialmente negado.
-UNKNOWN(?) | fornece uma contribuição desconhecida entre um softgoal descendente e um ascendente, e pode ser tanto positiva quanto negativa.
-EQUALS | o softgoal descendente só será satisfeito se o softgoal ascendente for satisfeito / o softgoal descendente será negado se o softgoal ascendente for negado.
-SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(parcial ou total) não é. 
+:-:|:-:
+AND | Se os softgoals descendentes forem satisfeitos os softgoals ascendentes também são.
+OR | Se algum softgoal descendente for satisfeito, o ascendente é satisfeito.
+MAKE(++) | Se o softgoal descendente for satisfeito o softgoal pai também é.
+BREAK(--) | Se o softgoal descendente for suficientemente satisfeito, o softgoal pai é negado.
+HELP(+) | Se o softgoal descendente for parcialmente satisfeito, o softgoal ascendente será parcialmente satisfeito.
+HURT(-) | Se o softgoal descendente for satisfeito, o softgoal ascendente será parcialmente negado.
+UNKNOWN(?) | Fornece uma contribuição desconhecida entre um softgoal descendente e um ascendente, e pode ser tanto positiva quanto negativa.
+EQUALS | O softgoal descendente só será satisfeito se o softgoal ascendente for satisfeito / o softgoal descendente será negado se o softgoal ascendente for negado.
+SOME (+\|-) | Usado se o sinal da contribuição é conhecido, mas a extensão(parcial ou total) não é. 
 
 <center> <figcaption>Tabela 1: Contribuições.</figcaption> </center>
 
@@ -59,12 +59,12 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 
 
 | ID     | Requisitos            | Técnica utilizada |
-| ------ | --------------------- | :---------------: |
-| RNF 01 | O aplicativo não pode demorar muito para abrir. | [ITP21](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/introspeccao/#31-requisitos-funcionais), [SB12](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/storytelling/#5-requisitos-nao-funcionais) |
-| RNF 02 | O aplicativo não pode ficar indisponível.  |  [ITP22](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/introspeccao/#31-requisitos-funcionais), [SB14](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/storytelling/#5-requisitos-nao-funcionais)  |
-| RNF 03 | Os usuários devem conseguir encontrar a funcionalidade desejada rapidamente. | [ITP23](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/introspeccao/#31-requisitos-funcionais), [SB13](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/storytelling/#5-requisitos-nao-funcionais) |
-| RNF 04 | O aplicativo deve proteger os dados dos usuários.  |  [ITP24](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/introspeccao/#31-requisitos-funcionais), [SB15](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/storytelling/#5-requisitos-nao-funcionais) |
-| RNF 05 | O aplicativo deve apresentar persistência de login. | [BT20](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/brainstorming/#5-levantamento-de-requisitos)  |
+| :------: | :---------------------: | :---------------: |
+| RNF01 | O aplicativo não pode demorar muito para abrir. | [ITP21](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/introspeccao/#31-requisitos-funcionais), [SB12](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/storytelling/#5-requisitos-nao-funcionais) |
+| RNF02 | O aplicativo não pode ficar indisponível.  |  [ITP22](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/introspeccao/#31-requisitos-funcionais), [SB14](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/storytelling/#5-requisitos-nao-funcionais)  |
+| RNF03 | Os usuários devem conseguir encontrar a funcionalidade desejada rapidamente. | [ITP23](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/introspeccao/#31-requisitos-funcionais), [SB13](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/storytelling/#5-requisitos-nao-funcionais) |
+| RNF04 | O aplicativo deve proteger os dados dos usuários.  |  [ITP24](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/introspeccao/#31-requisitos-funcionais), [SB15](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/storytelling/#5-requisitos-nao-funcionais) |
+| RNF05 | O aplicativo deve apresentar persistência de login. | [BT20](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/brainstorming/#5-levantamento-de-requisitos)  |
 
 
 <center> <figcaption>Tabela 2: Requisitos não funcionais.</figcaption> </center>
@@ -227,6 +227,9 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 </center>
 
 
+## 6. Conclusão 
+Portanto, os diagramas de NFR Framework encontrados foram analisados e reconhecidos através dos requisitos esclarecidos e enlecados no documento de [Especificação suplementar](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/Especificacao_suplementar/), verificando em casa requisito o que poderia ser visto como uma exigência de implementar e desenvolver as principais qualidades e característas destes requisitos.
+
 ## Bibliografia
 
 >Guardiões da Saúde. Disponível em: https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/master/docs/modelagem/NFR.md . Acesso em: 08/03/2022.
@@ -243,3 +246,4 @@ SOME (+\|-) | usado se o sinal da contribuição é conhecido, mas a extensão(p
 | :----: | :--------: | :--------: | :---: | :-----: |
 |  0.1   | 08/03/2022 | Criação do documento: Introdução, Metodologia, Requisitos Funcionais, Legenda, Diagramas, Bibliografia | Ana Carolina | Erick |
 |  0.2   | 09/03/2022 | Revisão do documento | Erick | - |
+|  0.3   | 18/04/2022 | Correção: das tabelas e inserção da conclusão | Ana Carolina | Erick |
