@@ -87,7 +87,10 @@ A metodologia utilizada para a produção do respectivo documento tem como base 
 
 
 
-## 5. Bibliografia
+## 5. Conclusão
+<p style="text-align: justify;">Com a elaboração desse documento acredita-se os requisitos funcionais levantados se ligaram com os vários artefatos levantados durante todo o ciclo de desenvolvimento do projeto. Sempre lembrando de manter a consistência entre os diversos pontos estabelecido.</p>
+
+## Bibliografia
 
 > LEONHARDT, Rodrigo. 2019.
 > SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 24. 2019.
@@ -99,3 +102,4 @@ A metodologia utilizada para a produção do respectivo documento tem como base 
 |  0.1   | 01/04/2022 |  Criação do documento  |        Gustave         | Ana Carolina |
 |  0.2   | 01/04/2022 | Levantamento da tabela | Ricardo, Daniel, Erick | Ana Carolina |
 |  0.3   | 18/04/2022 | Correções encontradas e correções feitas | Ana Carolina | Ana Carolina |
+|  0.4   | 19/04/2022 | Corrigindo documento |   Daniel          | - |

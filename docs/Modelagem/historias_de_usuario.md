@@ -93,12 +93,15 @@ Os épicos são termos genéricos que buscam agrupar um conjunto de atividades e
 |        US45         | [RF34](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) |       acompanhar sua posição na fila do sistema nacional de transplantes        |  saber quando realizarei meu trasplante  |    Must    |
 |        US46         | [RF35](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnica_de_priorizacao/Moscow/#41-requisitos-funcionais) | ser redirecionado para a chamada telefônica da central nacional de transplantes |    fazer a chamada de maneira rápida     |   Would    |
 
-## 4. Bibliografia
+## 4. Conclusão
+<p style="text-align: justify;">Com a elaboração desse documento acredita-se que as funcionalidades do sistema ficarão mais claras. Sempre lembrando de manter a consistência entre os diversos pontos estabelecido.</p>
 
-> - WIEGERS, Karl; BEATTY, Joy. "Software Requirements". Microsoft Press, 2013.
-> - Artefato: Backlog do Produto. TRT9. Disponível em: https://www.trt9.jus.br/pds/Scrum/workproducts/product_backlog_68345C16.html. Acesso em: 10 de Setembro de 2021.
-> - FERREIRA, Avelino. Product Backlog: Épico, História de Usuário e Tarefas. K21, 2020. Disponível em: https://k21.global/blog/product-backlog-epico-historia-tarefas. Acesso em: 10 de Setembro de 2021.
-> - RADIGAN, Dan. O backlog do produto: sua lista de tarefas definitiva. Atlassian. Disponível em: https://www.atlassian.com/br/agile/scrum/backlogs. Acesso em: 10 de Setembro de 2021.
+## Bibliografia
+
+> WIEGERS, Karl; BEATTY, Joy. "Software Requirements". Microsoft Press, 2013.
+> Artefato: Backlog do Produto. TRT9. Disponível em: https://www.trt9.jus.br/pds/Scrum/workproducts/product_backlog_68345C16.html. Acesso em: 10 de Setembro de 2021.
+> FERREIRA, Avelino. Product Backlog: Épico, História de Usuário e Tarefas. K21, 2020. Disponível em: https://k21.global/blog/product-backlog-epico-historia-tarefas. Acesso em: 10 de Setembro de 2021.
+> RADIGAN, Dan. O backlog do produto: sua lista de tarefas definitiva. Atlassian. Disponível em: https://www.atlassian.com/br/agile/scrum/backlogs. Acesso em: 10 de Setembro de 2021.
 
 ## Histórico de Versão
 
@@ -108,3 +111,4 @@ Os épicos são termos genéricos que buscam agrupar um conjunto de atividades e
 |  0.2   | 09/03/2022 |     Linkando rastreabilidade      |          Erick          | Ana Carolina |
 |  0.3   | 09/03/2022 | Ajustando número de cada história |         Daniel          | Ana Carolina |
 |  0.4   | 22/03/2022 | Revisão listada e esperando correção |   Ana Carolina          | - |
+|  0.5   | 19/04/2022 | Corrigindo documento |   Daniel          | - |

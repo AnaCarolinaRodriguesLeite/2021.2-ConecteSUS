@@ -14,6 +14,9 @@
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FvHhS5dqVvmexAEuD8Y39SP%2FConecteSus%3Fnode-id%3D1%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A2" allowfullscreen></iframe>
 
+## 4. Conclusão
+<p style="text-align: justify;">Com a elaboração desse documento acredita-se os vários pontos levantados no projeto serão validados. Sempre lembrando de manter a consistência entre os diversos pontos estabelecido.</p>
+
 ## Bibliografia
 >ROGERS, Y.; SHARP, H.; PREECE, J. Design de interação: além da Interação humano-computador. 3. ed. Porto Alegre: Bookman, 2013;
 
@@ -24,3 +27,4 @@
 | Versão |    Data    |    Descrição                   |     Autor      |   Revisor    |
 | :----: | :--------: | :----------------------------: | :------------: | :----------: |
 |  0.1   | 23/03/2022 |  Criação do documento     | Erick, Daniel | Gustave |
+|  0.2   | 19/04/2022 | Corrigindo documento |   Daniel          | - |

@@ -1,8 +1,12 @@
-### 1.Introdução
+### 1. Introdução
 
-<p style="text-align: justify;"> Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário.</p>
+<p style="text-align: justify;">Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário.</p>
 
-### 2.Personas
+### 2. Metodologia
+
+<p style="text-align: justify;">A existência da representação de um usuário mantém os desenvolvedores focados nos desejos e anseios da persona, que são os anseios e desejos de um grupo de usuários de forma mais refinada.</p>
+
+### 3.Personas
 
 #### Persona Primária: Nezuko Kamado <a id="NezukoKamado"></a>
 
@@ -191,6 +195,10 @@
 </table>
 
 <center> <figcaption>Tabela 3: Antipersona.</figcaption> </center>
+
+### 4. Conclusão
+
+<p style="text-align: justify;">Com a elaboração desse documento acredita-se que facilitará na elicitação do aplicativo. Sempre lembrando de manter a consistência entre os diversos pontos estabelecido.</p>
 
 ## Bibliografia
 

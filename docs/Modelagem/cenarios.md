@@ -1,4 +1,4 @@
-## Cenários
+# Cenários
 
 ## 1. Introdução
 <p align = "justify">
@@ -16,8 +16,9 @@ Cenários são formas reconhecidas afim de compreender as interações entre amb
 
 ### C01 - Fazer login usando CPF
 
-| Objetivo  | Usuário fazer login usando CPF                                                                                                              |
+|  |  |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Objetivo  | Usuário fazer [login](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/lexicos/#l01-entrar) usando CPF  |
 | Contexto  | Local: Tela do aplicativo<br> Tempo: 1 minuto <br>Pré-condição: Conhecer as credencias da sua conta e possuir acesso a internet                     |
 | Atores    | Usuário                                                                                                                                     |
 | Recursos  | Smartphone<br>Desktop<br>Tablet<br>Acesso a internet<br>Conta no gov.com.br                                                                             |
@@ -26,8 +27,9 @@ Cenários são formas reconhecidas afim de compreender as interações entre amb
 
 ### C02 - Fazendo login com o seu banco
 
-| Objetivo  | Usuário fazer login usando o banco                                                                                                             |
-|-----------|---------------------------------------------------------------------------------------------------------------------------------------------|
+|  |  |
+|-----------|---------------------|
+| Objetivo  | Usuário fazer login usando o banco |
 | Contexto  | Local: Tela do aplicativo<br> Tempo: 1 minuto <br>Pré-condição: Conhecer as credencias da sua conta e possuir acesso a internet                     |
 | Atores    | Usuário                                                                                                                                     |
 | Recursos  | Smartphone<br>Desktop<br>Tablet<br>Acesso a internet<br>Conta no gov.com.br                                                                             |
@@ -36,8 +38,9 @@ Cenários são formas reconhecidas afim de compreender as interações entre amb
 
 ### C03 - Emititir carteira nacional de vacinação
 
-| Objetivo  | Usuário gerar carteira nacional de vacinação                                                                                                             |
+| | |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Objetivo  | Usuário gerar [carteira nacional de vacinação](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/lexicos/#l02-vacinas) |
 | Contexto  | Local: Tela do aplicativo<br> Tempo: 1 minuto <br>Pré-condição: Conhecer as credencias da sua conta e possuir acesso a internet                     |
 | Atores    | Usuário                                                                                                                                     |
 | Recursos  | Smartphone<br>Desktop<br>Tablet<br>Acesso a internet<br>Conta no gov.com.br                                                                             |
@@ -47,8 +50,9 @@ Cenários são formas reconhecidas afim de compreender as interações entre amb
 
 ### C04 - Emitir cartão do SUS
 
-| Objetivo  | Usuário emitir cartão do SUS                                                                                                              |
+| | |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Objetivo  | Usuário emitir cartão do SUS  |
 | Contexto  | Local: Tela do aplicativo<br> Tempo: 1 minuto <br>Pré-condição: Conhecer as credencias da sua conta e possuir acesso a internet                     |
 | Atores    | Usuário                                                                                                                                     |
 | Recursos  | Smartphone<br>Desktop<br>Tablet<br>Acesso a internet<br>Conta no gov.com.br                                                                             |
@@ -57,8 +61,9 @@ Cenários são formas reconhecidas afim de compreender as interações entre amb
 
 ### C05 - Realizar Logout
 
-| Objetivo  | Usuário fazer logout                                                                                                             |
+| | |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Objetivo  | Usuário fazer [logout](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/lexicos/#l26-sair)  |
 | Contexto  | Local: Tela do aplicativo<br> Tempo: 30 segundos <br>Pré-condição: Conhecer as credencias da sua conta e possuir acesso a internet                     |
 | Atores    | Usuário                                                                                                                                     |
 | Recursos  | Smartphone<br>Desktop<br>Tablet<br>Acesso a internet<br>Conta no gov.com.br                                                                             |
@@ -67,8 +72,9 @@ Cenários são formas reconhecidas afim de compreender as interações entre amb
 
 ### C06 - Ver resultados de exames
 
-| Objetivo  | Usuário deve poder gerar um PDF do resultado dos seus exames                                                             |
+| | |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Objetivo  | Usuário deve poder gerar um PDF do resultado dos seus [exames](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/lexicos/#l03-exames) |
 | Contexto  | Local: Tela do aplicativo<br> Tempo: 30 segundos <br>Pré-condição: Conhecer as credencias da sua conta e possuir acesso a internet                     |
 | Atores    | Usuário                                                                                                                                     |
 | Recursos  | Smartphone<br>Desktop<br>Tablet<br>Acesso a internet<br>Conta no gov.com.br                                                                             |
@@ -77,8 +83,9 @@ Cenários são formas reconhecidas afim de compreender as interações entre amb
 
 ### C07 - Adicionar contato de emergência
 
-| Objetivo  | Usuário tem que adicionar um contato de emergência na aba registros                                                            |
+| | |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Objetivo  | Usuário tem que adicionar um [contato](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/lexicos/#l07-contatos) de emergência na aba registros |
 | Contexto  | Local: Tela do aplicativo<br> Tempo: 45 segundos <br>Pré-condição: Conhecer as credencias da sua conta e possuir acesso a internet                     |
 | Atores    | Usuário                                                                                                                                     |
 | Recursos  | Smartphone<br>Desktop<br>Tablet<br>Acesso a internet<br>Conta no gov.com.br                                                                             |
@@ -87,8 +94,9 @@ Cenários são formas reconhecidas afim de compreender as interações entre amb
 
 ### C08 - Mudar foto de perfil
 
-| Objetivo  | Adicionar uma foto de perfil                                                            |
+| | |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Objetivo  | Adicionar uma foto de [perfil](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/lexicos/#l15-meu-perfil)  |
 | Contexto  | Local: Tela do aplicativo<br> Tempo: 45 segundos <br>Pré-condição: Conhecer as credencias da sua conta e possuir acesso a internet                     |
 | Atores    | Usuário                                                                                                                                     |
 | Recursos  | Smartphone<br>Desktop<br>Tablet<br>Acesso a internet<br>Conta no gov.com.br                                                                             |
@@ -97,8 +105,9 @@ Cenários são formas reconhecidas afim de compreender as interações entre amb
 
 ### C09 - Consultar medicamentos
 
-| Objetivo  | Usuário pode ver detalhes dos seus medicamentos autodeclarados ou recebidos                                                         |
+| | |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Objetivo  | Usuário pode ver detalhes dos seus [medicamentos](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/lexicos/#l04-medicamentos) autodeclarados ou recebidos |
 | Contexto  | Local: Tela do aplicativo<br> Tempo: 1 minuto <br>Pré-condição: Conhecer as credencias da sua conta,possuir acesso a internet e receber medicamentos pelo governo                 |
 | Atores    | Usuário                                                                                                                                     |
 | Recursos  | Smartphone<br>Desktop<br>Tablet<br>Acesso a internet<br>Conta no gov.com.br                                                                             |
@@ -107,13 +116,17 @@ Cenários são formas reconhecidas afim de compreender as interações entre amb
 
 ### C10 - Acompanhar ou tirar dúvidas da doação de sangue
 
-| Objetivo  | Usuário pode ver detalhes das suas doações passadas ou tirar dúvidas de como doar sangue                                                         |
+| | |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Objetivo  | Usuário pode ver detalhes das suas doações passadas ou tirar dúvidas de como [doar sangue](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/lexicos/#l10-doacao-de-sangue)  |
 | Contexto  | Local: Tela do aplicativo<br> Tempo: 1 minuto <br>Pré-condição: Conhecer as credencias da sua conta, possuir acesso a internet e ter doado sangue                   |
 | Atores    | Usuário                                                                                                                                     |
 | Recursos  | Smartphone<br>Desktop<br>Tablet<br>Acesso a internet<br>Conta no gov.com.br                                                                             |
 | Excessão  | Falta de energia<br> Smartphone ou Tablet descarregado <br>Perda de conexão com a internet <br>Usuário não estiver logado<br> |
 | Episódio  | Usuário clica no icone de doações de sangue <br> Usuário clica na opção de minhas doações ou regras|
+
+## 4. Conclusão
+<p style="text-align: justify;">Com a elaboração desse documento acredita-se os requisitos identificados ficarão mais detalhados. Sempre lembrando de manter a consistência entre os diversos pontos estabelecido.</p>
 
 ## Bibliografia 
 
@@ -125,3 +138,4 @@ Cenários são formas reconhecidas afim de compreender as interações entre amb
 | ------ | ---------- | ----------------------------------------- | ------------ | -------- |
 | 0.1    | 03/03/2022 | Criação dos cenários                      | Ricardo e Daniel | Erick  |
 | 0.2    | 04/03/2022 | Revisando e fazendo pequenas correções    |      Erick       |   -    |
+| 0.3    | 19/04/2022 | Corrigindo documento    |      Daniel       |   -    |

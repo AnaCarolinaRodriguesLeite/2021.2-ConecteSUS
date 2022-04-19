@@ -5,7 +5,12 @@
 <p style="text-align: justify;"> Essa técnica utiliza de personas, que são usuários fictícios, para contar uma história. São criadas histórias sobre objetivos e gostos do usuário para entender melhor o que o aplicativo deveria fornecer nas suas funcionalidades buscando atender as personas propostas.
 </p>
 
-## 2. Personas
+## 2. Metodologia
+
+<p style="text-align: justify;"> Para utilizar essa técnica de elicitação foi utilizado o documento de personas, para que cada persona definida auxilie no levantamento de requisitos. Cada persona irá possibiliar avaliar um cenário que facilitará a elicitação.
+</p>
+
+## 3. Personas
 
 
 ### Persona Primária: Nezuko Kamado <a id="NezukoKamado"></a>
@@ -194,7 +199,7 @@
 
 <center> <figcaption>Tabela 3: Antipersona.</figcaption> </center>
 
-## 3. Situações
+## 4. Situações
 
 ###  Urgência
 <p style="text-align: justify;"><a href="#ZenitsuAgatsuma">Zenitsu</a> desde muito cedo tem problema de saúde, tem quadros  de epilepsia que apesar de ser muito raro de acontecer, são muito graves e necessita de ajuda. Quando ficou sabendo que o aplicativo fornece a opção de registrar contatos de emergência baixou o aplicativo para se sentir mais seguro no trabalho.</p>
@@ -203,7 +208,7 @@
 <p style="text-align: justify;"><a href="#NezukoKamado">Nezuko</a> está muito focada nos estudos se preparando para o curso de medicina na UnB, além disso ela trabalha como atendente de supermercado, já que mora sozinha não tem tempo para realizar tarefas muito complicadas, pois alem de trabalhar e cuidar da cas tem que estudar. Com a vacinação já realizada em boa parte da população <a href="#NezukoKamado">Nezuko</a> tem medo de ser necessário apresentar o cartão de vacina, porém ela perdeu o físico. Porem, ela ficou sabendo no trabalho que existe o aplicativo ConecteSUS que permite emitir um cartão de vacina nacional, ela já fez o registro e está tentando emitir o cartão agora.</p>
 
 
-## 4. Requisitos Funcionais
+## 5. Requisitos Funcionais
 
 | ID | Requisito | 
 |:--:|:--:|
@@ -222,7 +227,7 @@
 <center> <figcaption>Tabela 4: Requisitos Funcionais.</figcaption> </center>
 
 
-## 5. Requisitos Não - Funcionais <a id="StorytellingNFuncional"></a>
+## 6. Requisitos Não - Funcionais <a id="StorytellingNFuncional"></a>
 
 | ID | Requisito | 
 |--|--|
@@ -232,6 +237,10 @@
 | RNF 05 | Os dados do usuário devem ser protegidos. |
 
 <center> <figcaption>Tabela 5: Requisitos Não funcionais.</figcaption> </center>
+
+## 7. Conclusão
+
+<p style="text-align: justify;">Esse documento visa levantar os requisitos do aplicativo avaliado, descobrindo requisitos funcionais e não funcionais. Sempre lembrando de manter a consistência entre os diversos pontos estabelecidos.</p>
 
 ## Bibliografia
 
@@ -244,3 +253,4 @@
 | 0.1 | 15/02/2022 | Criação do documento | Daniel Vinicius e Ricardo Loureiro | Ana Carolina e Erick |
 |    0.2   | 20/02/2022 |  Revisão  da v0.1| Ana Carolina e Erick | - |
 |    0.3   | 05/03/2022 |  Revisão  da v0.2| Daniel | Erick |
+|    0.4   | 19/04/2022 |  Corrigindo documento | Daniel | Erick |
