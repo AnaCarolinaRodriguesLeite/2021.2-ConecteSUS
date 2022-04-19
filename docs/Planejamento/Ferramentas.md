@@ -28,3 +28,4 @@
 | 0.3    | 14/02/2022 | Correção do tamanho das figuras | Erick Melo | Daniel Vinicius |
 |  0.4   | 20/02/2022 |  Revisão  da v0.1, v0.2 e v0.3| Erick e Daniel | - |
 |  0.5   | 18/04/2022 |  Inclusão do figma | Ana Carolina | Daniel |
+|  0.6   | 19/04/2022 |  Revisão da v0.5 | Daniel | - |

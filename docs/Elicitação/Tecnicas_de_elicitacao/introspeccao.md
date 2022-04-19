@@ -83,3 +83,4 @@ Portanto, a relação dos requisitos levantados pelos integrantes que produziram
 |  0.2   | 16/02/2022 | Correção de algumas informações na tabela, adição de legenda das tabelas | Gustave Persijn, Ana Carolina |  Daniel   |
 |    0.3   | 20/02/2022 |  Revisão  da v0.1 e v0.2 | Daniel | - |
 |    0.4   | 18/04/2022 |  Adição da conclusão | Ana Carolina | Daniel |
+|    0.5   | 19/04/2022 |  Revisão da v0.4 | Daniel | - |

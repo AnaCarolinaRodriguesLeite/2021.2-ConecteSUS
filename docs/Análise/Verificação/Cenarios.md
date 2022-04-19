@@ -192,3 +192,4 @@
 |Versão | Data | Descrição | Autor|  Revisor |
 | :--: | :--: | :--: | :--: | :--:  |
 | 0.1 | 22/03/2022  | Criação do documento de verificação de cenários | Ana Carolina | Daniel |
+| 0.2 | 18/04/2022  | Revisão v0.1 | Daniel | - |

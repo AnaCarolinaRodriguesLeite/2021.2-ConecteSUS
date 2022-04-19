@@ -65,3 +65,4 @@ De acordo com a análise das respostas do Checklist é possível verificar que o
 | Versão |    Data    |                      Descrição                       |  Autor  | Revisor |
 | :----: | :--------: | :--------------------------------------------------: | :-----: | :-----: |
 |  0.1   | 23/03/2022 | Criação do documento de verificação de Brainstorming | Gustave | Daniel  |
+|  0.2   | 19/04/2022 | Revisão v0.1 | Daniel | -  |

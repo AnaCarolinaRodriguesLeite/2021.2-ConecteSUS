@@ -196,3 +196,4 @@ Portanto, os léxicos encontrados foram buscados e reconhecidos através do uso 
 |  0.1   | 03/03/2022 | Criação do documento com todas as informações | Ana Carolina | Gustave |
 |  0.2   | 05/03/2022 |                    Revisão                    |   Gustave    |    -    |
 |  0.3   | 18/04/2022 | Correção: Adição de rastreabilidade nos léxicos encontrados com relação aos cenários e inclusção de conclusão           |   Ana Carolina    |   Daniel    |
+|  0.4   | 19/04/2022 | Revisão da v0.3           |   Daniel    |   -    |
