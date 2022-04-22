@@ -44,7 +44,7 @@ nav:
           - Backlog: Modelagem/backlog.md
   - Análise:
       - Verificação:
-          - Verificacao: Análise/Verificação/Verificacao.md
+          - Verificação: Análise/Verificação/Verificacao.md
           - Storyboard: Análise/Verificação/Storyboard.md
           - Cenários: Análise/Verificação/Cenarios.md
           - Histórias de Usuário: Análise/Verificação/Historias_usuario.md
