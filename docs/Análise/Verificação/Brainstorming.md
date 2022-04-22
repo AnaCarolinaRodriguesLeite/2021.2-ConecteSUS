@@ -2,12 +2,12 @@
 
 ## 1. Introdução
 
-<p style="text-align: justify;"> A Verificação é uma atividade, a qual envolve a análise de um sistema para certificar se este atende aos requisitos funcionais e não funcionais. Com isso, temos o objetivo de verificar os erros encontrados no documento de Cenários. Sobre a técnica de elicitação através do brainstorming, é baseada em uma reunião, com um espaço de tempo pré-definido, entre os engenheiros de requisitos com o objetivo de explorar ideias, interagir com os outros participantes e compartilhar suas opiniões. Assim, listando a maior quantidade de requisitos possível, visando entender o que os usuários querem e precisam. Normalmente esta técnica é utilizada no inicío do processo de elicitação, quando pouco do produto, do processo e do projeto é conhecido.
+<p style="text-align: justify;"> A Verificação é uma atividade, a qual envolve a análise de um sistema para certificar se este atende aos requisitos funcionais e não funcionais. Com isso, temos o objetivo de verificar os erros encontrados no documento de Cenários. Sobre a técnica de elicitação através do brainstorming, é baseada em uma reunião, com um espaço de tempo pré-definido, entre os engenheiros de requisitos com o objetivo de explorar ideias, interagir com os outros participantes e compartilhar suas opiniões. Assim, listando a maior quantidade de requisitos possível, visando entender o que os usuários querem e precisam. Normalmente esta técnica é utilizada no início do processo de elicitação, quando pouco do produto, do processo e do projeto é conhecido.
 </p>
 
 ## 2. Metodologia
 
-<p style="text-align: justify;">Para realizar a verificação foi utilizado a técnica de inspeção por checklist que pode ser definida como: "Trata-se de um Método gerencial de reuniões, as quais objetivam o descobrimento de Defeitos em documentos. É um processo de detecção de defeitos bem definidos. Após um defeito ser descoberto, é necessário corrigir o sistema e revalidá-lo. A partir daí, será necessário novas Inspeções no sistema, testes de regressões e análises". Ele foi utilizado por ser simples, objetivo e no qual irá atender nossos propósitos.
+<p style="text-align: justify;">Para realizar a verificação foi utilizado a técnica de inspeção por checklist que é um processo de detecção de defeitos bem definidos. Após um defeito ser descoberto, é necessário corrigir o sistema e revalidá-lo. A partir daí, será necessário novas Inspeções no sistema, testes de regressões e análises". Ele foi utilizado por ser simples, objetivo e no qual irá atender nossos propósitos.
 </p>
 
 ## 3. Checklist
@@ -23,7 +23,6 @@
 |    Rastreabilidade dos requisitos encontrados    |     OK      |
 |      Boa descrição dos requisitos na tabela      |     OK      |
 |      As perguntas estão claras e objetivas?      |     OK      |
-|            Possui erros ortográficos             |      X      |
 
 ### 3.2 Requisitos
 
@@ -45,12 +44,12 @@
 | BS14 | O usuário pode ver as informações de cada doação de sangue                         |     OK      |
 | BS15 | O usuário pode consultar o registro de alergias                                    |     OK      |
 | BS16 | O usuário pode consultar o registro de Contatos Emergenciais                       |     OK      |
-| BS16 | O usuário pode ver as informações de cada contato emergencial                      |     OK      |
-| BS17 | O usuário pode adicionar um contato emergencial                                    |     OK      |
-| BS18 | O usuário pode adicionar o registro de saúde diário                                |     OK      |
-| BS19 | O usuário pode consultar o registro de saúde diário                                |     OK      |
-| BS20 | O aplicativo deve apresentar persistência de login                                 |     OK      |
-| BS21 | O aplicativo poderia ter outras formas de login                                    |      X      |
+| BS17 | O usuário pode ver as informações de cada contato emergencial                      |     OK      |
+| BS18 | O usuário pode adicionar um contato emergencial                                    |     OK      |
+| BS19 | O usuário pode adicionar o registro de saúde diário                                |     OK      |
+| BS20 | O usuário pode consultar o registro de saúde diário                                |     OK      |
+| BS21 | O aplicativo deve apresentar persistência de login                                 |     OK      |
+| BS22 | O aplicativo poderia ter outras formas de login                                    |      X      |
 
 ## 4. Conclusão
 
@@ -66,3 +65,4 @@ De acordo com a análise das respostas do Checklist é possível verificar que o
 | :----: | :--------: | :--------------------------------------------------: | :-----: | :-----: |
 |  0.1   | 23/03/2022 | Criação do documento de verificação de Brainstorming | Gustave | Daniel  |
 |  0.2   | 19/04/2022 | Revisão v0.1 | Daniel | -  |
+|  0.3   | 22/04/2022 | Ajustes e correção da estrutura do documento | Ana Carolina | Ricardo  |

@@ -5,7 +5,7 @@
 </p>
 
 ## 2. Metodologia
-<p style="text-align: justify;">Para realizar a verificação foi utilizado a técnica de inspeção por checklist que pode ser definida como: "Trata-se de um Método gerencial de reuniões, as quais objetivam o descobrimento de Defeitos em documentos. É um processo de detecção de defeitos bem definidos. Após um defeito ser descoberto, é necessário corrigir o sistema e revalidá-lo. A partir daí, será necessário novas Inspeções no sistema, testes de regressões e análises". Ele foi utilizado por ser simples, objetivo e no qual irá atender nossos propósitos.
+<p style="text-align: justify;">Para realizar a verificação foi utilizado a técnica de inspeção por checklist que é um processo de detecção de defeitos bem definidos. Após um defeito ser descoberto, é necessário corrigir o sistema e revalidá-lo. A partir daí, será necessário novas Inspeções no sistema, testes de regressões e análises". Ele foi utilizado por ser simples, objetivo e no qual irá atender nossos propósitos.
 </p>
 
 ## 3. Checklist
@@ -32,36 +32,32 @@
 | Número | Item | Resposta |
 | :--: | -- | :--: |
 | 1 | O nome do épico EP01 está descritivo? | OK |
-| 2 | A descrição do épico EP01 está de acordo com a norma ortográfica? | OK |
-| 3 | A descrição do épico EP01 está clara, correta e corresponde ao épico? | OK |
-| 4 | As features do épico EP01 são relacionados ao épico? | X |
+| 2 | A descrição do épico EP01 está clara, correta e corresponde ao épico? | OK |
+| 3 | As features do épico EP01 são relacionados ao épico? | X |
 
 ### EP02: Histórico
 
 | Número | Item | Resposta |
 | :--: | -- | :--: |
 | 1 | O nome do épico EP02 está descritivo? | OK |
-| 2 | A descrição do épico EP02 está de acordo com a norma ortográfica? | OK |
-| 3 | A descrição do épico EP02 está clara, correta e corresponde ao épico? | OK |
-| 4 | As features do épico EP02 são relacionados ao épico? | X |
+| 2 | A descrição do épico EP02 está clara, correta e corresponde ao épico? | OK |
+| 3 | As features do épico EP02 são relacionados ao épico? | X |
 
 ### EP03: Registro
 
 | Número | Item | Resposta |
 | :--: | -- | :--: |
 | 1 | O nome do épico EP03 está descritivo? | OK |
-| 2 | A descrição do épico EP03 está de acordo com a norma ortográfica? | OK |
-| 3 | A descrição do épico EP03 está clara, correta e corresponde ao épico? | X |
-| 4 | As features do épico EP03 são relacionados ao épico? | X |
+| 2 | A descrição do épico EP03 está clara, correta e corresponde ao épico? | X |
+| 3 | As features do épico EP03 são relacionados ao épico? | X |
 
 ### EP04: Geral
 
 | Número | Item | Resposta |
 | :--: | -- | :--: |
 | 1 | O nome do épico EP04 está descritivo? | OK |
-| 2 | A descrição do épico EP04 está de acordo com a norma ortográfica? | OK |
-| 3 | A descrição do épico EP04 está clara, correta e corresponde ao épico? | X |
-| 4 | As features do épico EP04 são relacionados ao épico? | X |
+| 2 | A descrição do épico EP04 está clara, correta e corresponde ao épico? | X |
+| 3 | As features do épico EP04 são relacionados ao épico? | X |
 
 ### 3.2.3. Checklist de Histórias de usuários
 
@@ -771,3 +767,4 @@
 |Versão | Data | Descrição | Autor|  Revisor |
 | :--: | :--: | :--: | :--: | :--:  |
 | 0.1 | 22/03/2022  | Criação do documento de verificação de Histórias de Usuário | Ana Carolina | Ricardo |
+| 0.2 | 22/04/2022 | Ajustes e correção da estrutura do documento | Ana Carolina | Erick  |

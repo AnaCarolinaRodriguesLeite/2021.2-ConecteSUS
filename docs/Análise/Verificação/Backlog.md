@@ -5,7 +5,8 @@
 </p>
 
 ## 2. Metodologia
-<p style="text-align: justify;">Para realizar a verificação foi utilizado a técnica de inspeção por checklist que pode ser definida como: "Trata-se de um Método gerencial de reuniões, as quais objetivam o descobrimento de Defeitos em documentos. É um processo de detecção de defeitos bem definidos. Após um defeito ser descoberto, é necessário corrigir o sistema e revalidá-lo. A partir daí, será necessário novas Inspeções no sistema, testes de regressões e análises". Ele foi utilizado por ser simples, objetivo e no qual irá atender nossos propósitos.
+
+<p style="text-align: justify;">Para realizar a verificação foi utilizado a técnica de inspeção por checklist que é um processo de detecção de defeitos bem definidos. Após um defeito ser descoberto, é necessário corrigir o sistema e revalidá-lo. A partir daí, será necessário novas Inspeções no sistema, testes de regressões e análises". Ele foi utilizado por ser simples, objetivo e no qual irá atender nossos propósitos.
 </p>
 
 ## 3. Checklist
@@ -41,3 +42,4 @@
 |Versão | Data | Descrição | Autor|  Revisor |
 | :--: | :--: | :--: | :--: | :--:  |
 | 0.1 | 22/03/2022  | Criação do documento de verificação de backlog | Ana Carolina |  Gustave |
+| 0.2 | 22/04/2022  | Ajustes e correção da estrutura do documento | Ana Carolina |  Gustave |
