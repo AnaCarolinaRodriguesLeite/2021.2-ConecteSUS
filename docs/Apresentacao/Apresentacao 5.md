@@ -7,6 +7,6 @@
 ## Histórico de versão
 
 | Versão | Data       | Descrição                       | Autor                | Revisor              |
-| ------ | ---------- | ------------------------------- | -------------------- | -------------------- |
+| :------: | :----------: | :-------------------------------: | :--------------------: | :--------------------: |
 | 0.1    | 23/03/2022 | Gravação da apresentação        | Todos os integrantes | -                    |
 | 0.2    | 24/03/2022 | Adição do vídeo no documento    | Ana Carolina         | Daniel               |

@@ -60,7 +60,7 @@
 ## Histórico de versão
 
 | Versão | Data       | Descrição                          | Autor          | Revisor      |
-| ------ | ---------- | ---------------------------------- | -------------- | ------------ |
+| :------: | :----------: | :----------------------------------: | :--------------: | :------------: |
 | 0.1    | 08/02/2022 | Criação do Mapa Mental             | Ana Carolina   | Erick Melo   |
 | 0.2    | 08/02/2022 | Criação do Rich Picture Versão 1   | Gustave, Erick | Ana Carolina |
 | 0.3    | 08/02/2022 | Introdução e Referências,legenda   | Ana Carolina   | Erick Melo   |

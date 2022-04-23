@@ -26,7 +26,7 @@
 ### 3.2 Requisitos
 
 | ID    | Requisitos                                                                                   | Respostas |
-| ----- | -------------------------------------------------------------------------------------------- | :-------: |
+| :-----: | :--------------------------------------------------------------------------------------------: | :-------: |
 | RF 01 | O usuário deve poder visualizar informações gerais sem efetuar o login.                      |    OK     |
 | RF 02 | O usuário deve poder efetuar o login no gov.br com o cpf.                                    |    OK     |
 | RF 03 | O usuário deve poder escolher outras opções de identificação para login.                     |    OK     |

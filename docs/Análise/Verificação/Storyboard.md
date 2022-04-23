@@ -19,7 +19,7 @@
 ### 3.2. Resultados
 
 |  Número | Item | Resposta |
-|:-:|--|:-:|
+|:-:|:--:|:-:|
 |1| Os requisitos estão escritos de forma correta e clara?|OK|
 |2| Todos os termos importantes para a compreensão estão linkados aos léxicos?|X|
 |3| Os requisitos estão identificados quanto ao tipo de forma clara?|OK|

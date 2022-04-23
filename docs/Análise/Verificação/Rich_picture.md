@@ -11,7 +11,7 @@ Este documento tem como objetivo verificar e detectar os erros no documento de R
 
 ### 3.1. Resultados
 |Número|Questão|RP1|RP2|
-|:-:|--|:-:|:-:|
+|:-:|:--:|:-:|:-:|
 |1|Atores representados|OK|OK|
 |2|Limites do sistema representados|X|OK|
 |3|Fluxos representados|OK|OK|
@@ -40,6 +40,6 @@ Este documento tem como objetivo verificar e detectar os erros no documento de R
 ## Histórico de versão
 
 | Versão | Data       | Descrição                                           | Autor          | Revisor        |
-| ------ | ---------- | --------------------------------------------------- | -------------- | -------------- |
+| :------: | :----------: | :---------------------------------------------------: | :--------------: | :--------------: |
 | 0.1    | 19/03/2021 | Criação do documento                                | Daniel         | Erick          |
 | 0.2 | 22/04/2022 | Ajustes e correção da estrutura do documento | Ana Carolina | Ricardo  |

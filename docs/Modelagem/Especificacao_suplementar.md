@@ -108,7 +108,7 @@ Refere-se aos mais diversos requisitos sobre o Conecte SUS que ainda não foram 
 <center>
 
 | ID     | Requisito                                                                   | MosCoW |
-| ------ | --------------------------------------------------------------------------- | :----: |
+| :------ | :---------------------------------------------------------------------------: | :----: |
 | RNF 01 | O aplicativo não pode demorar muito para abrir.                             | Should |
 | RNF 02 | O aplicativo não pode ficar indisponível.                                   |  Must  |
 | RNF 03 | Os usuários devem conseguir encontrar a funcionalidade desejada rapidamente | Should |

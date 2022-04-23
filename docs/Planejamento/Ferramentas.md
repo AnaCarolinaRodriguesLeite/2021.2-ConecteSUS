@@ -22,7 +22,7 @@
 ## Histórico de versão
 
 | Versão | Data       | Descrição                                           | Autor        | Revisor |
-| ------ | ---------- | --------------------------------------------------- | ------------ | --------|
+| :------: | :----------: | :---------------------------------------------------: | :------------: | :--------:|
 | 0.1    | 07/02/2022 | Criação da página de ferramentas | Ana Carolina | Erick Melo |
 | 0.2    | 08/02/2022 | Correção das figuras | Ana Carolina | Erick Melo |
 | 0.3    | 14/02/2022 | Correção do tamanho das figuras | Erick Melo | Daniel Vinicius |

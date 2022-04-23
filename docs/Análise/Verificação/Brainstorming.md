@@ -27,7 +27,7 @@
 ### 3.2 Requisitos
 
 |  ID  | Requisitos                                                                         | Verificação |
-| :--: | ---------------------------------------------------------------------------------- | :---------: |
+| :--: | :----------------------------------------------------------------------------------: | :---------: |
 | BS1  | O usuário pode consultar o histórico de vacinas contra a COVID-19                  |     OK      |
 | BS2  | O usuário pode emitir o certificado de vacinação da COVID-19                       |     OK      |
 | BS3  | O usuário pode consultar o histórico de exames                                     |     OK      |

@@ -38,7 +38,7 @@
 ### 3.1. Requisitos Funcionais
 
 | ID    | Requisito                       | Técnica utilizada |
-| ----- | ------------------------------------ | :---- |
+| :-----: | :------------------------------------: | :----: |
 | RF 01 | O usuário deve poder visualizar informações gerais sem efetuar o login. | [OB01](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/)  |
 | RF 02 | O usuário deve poder efetuar o login no gov.br com o cpf.  |  [OB02](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/)  |
 | RF 03 | O usuário deve poder escolher outras opções de identificação para login. | [OB03](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/)  |

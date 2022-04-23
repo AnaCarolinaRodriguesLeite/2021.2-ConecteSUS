@@ -12,7 +12,7 @@ Este documento tem como objetivo verificar e detectar os erros no documento de N
 ### 3.1. Resultados
 
 |Número|Questões|Geral|
-|:-:|--|:-:|
+|:-:|:--:|:-:|
 |1| Respeita as regras da metodologia|OK|
 |2| Softgoals claros e auto explicativos|OK|
 |3| Finalidades de operadores definidas|OK|
@@ -46,6 +46,6 @@ Este documento tem como objetivo verificar e detectar os erros no documento de N
 ## Histórico de versão
 
 | Versão | Data       | Descrição                                           | Autor          | Revisor        |
-| ------ | ---------- | --------------------------------------------------- | -------------- | -------------- |
+| :------: | :----------: | :---------------------------------------------------: | :--------------: | :--------------: |
 | 0.1    | 19/03/2021 | Criação do documento                                | Daniel         | Gustave        |
 | 0.2 | 22/04/2022 | Ajustes e correção da estrutura do documento | Ana Carolina | Ricardo  |

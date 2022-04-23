@@ -25,7 +25,7 @@
 ## 3. Requisitos Funcionais
 
 | ID    | Requisito                       | Técnica utilizada | Stakeholder |
-| ----- | ------------------------------------ | :---- |  :-------:  |
+| :-----: | :------------------------------------: | :----: |  :-------:  |
 | RF01 | O usuário deve poder visualizar informações gerais sem efetuar o login. | [OB01](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/)  | Usuário |
 | RF02 | O usuário deve poder efetuar o login no gov.br com o cpf.  |  [OB02](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/)  | Usuário |
 | RF03 | O usuário deve poder escolher outras opções de identificação para login. | [OB03](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/Observacao_participativa/)  | Usuário |
@@ -79,7 +79,7 @@
 
 ## 4. Requisitos Não-Funcionais
 | ID     | Requisito                                         | Técnica utilizada |  Stakeholder |
-| ------ | ------------------------------------------------- | :----: | :-------: |
+| :------: | :-------------------------------------------------: | :----: | :-------: |
 | RNF01 | O aplicativo não pode demorar muito para abrir. | [ITP21](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/introspeccao/#31-requisitos-funcionais), [SB12](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/storytelling/#5-requisitos-nao-funcionais) | Aplicativo  |
 | RNF02 | O aplicativo não pode ficar indisponível.  |  [ITP22](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/introspeccao/#31-requisitos-funcionais), [SB14](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/storytelling/#5-requisitos-nao-funcionais)  | Aplicativo  |
 | RNF03 | Os usuários devem conseguir encontrar a funcionalidade desejada rapidamente. | [ITP23](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/introspeccao/#31-requisitos-funcionais), [SB13](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Elicita%C3%A7%C3%A3o/Tecnicas_de_elicitacao/storytelling/#5-requisitos-nao-funcionais) | Usuário |

@@ -135,7 +135,7 @@ Cenários são formas reconhecidas afim de compreender as interações entre amb
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                                 | Autor        | Revisor  |
-| ------ | ---------- | ----------------------------------------- | ------------ | -------- |
+| :------: | :----------: | :-----------------------------------------: | :------------: | :--------: |
 | 0.1    | 03/03/2022 | Criação dos cenários                      | Ricardo e Daniel | Erick  |
 | 0.2    | 04/03/2022 | Revisando e fazendo pequenas correções    |      Erick       |   -    |
 | 0.3    | 19/04/2022 | Corrigindo documento    |      Daniel       |   -    |

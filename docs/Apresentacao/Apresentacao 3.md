@@ -8,7 +8,7 @@
 ## Histórico de versão
 
 | Versão | Data       | Descrição                       | Autor                | Revisor              |
-| ------ | ---------- | ------------------------------- | -------------------- | -------------------- |
+| :------: | :----------: | :-------------------------------: | :--------------------: | :--------------------: |
 | 0.1    | 05/03/2022 | Gravação da apresentação        | Todos os integrantes | -                    |
 | 0.2    | 06/03/2022 | Adição do vídeo no documento    | Ana Carolina         | Erick                |
 | 0.3    | 09/03/2022 | Revisão da v0.1 e v0.2          | Erick                | -                    |

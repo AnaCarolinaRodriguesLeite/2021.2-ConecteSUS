@@ -20,7 +20,7 @@
 
 ### C01 - Fazer login usando CPF
 | Número | Item | Resposta |
-| :--: | -- | :--: |
+| :--: | :--: | :--: |
 | 1 | O título está bem escrito?  | OK |
 | 2 | O objetivo é claro? | OK |
 | 3 | Dentro do contexto, há pré-condição? | OK |
@@ -37,7 +37,7 @@
 
 ### C02 - Fazendo login com o seu banco
 | Número | Item | Resposta |
-| :--: | -- | :--: |
+| :--: | :--: | :--: |
 | 1 | O título está bem escrito?  | OK |
 | 2 | O objetivo é claro? | OK |
 | 3 | Dentro do contexto, há pré-condição? | OK |
@@ -53,7 +53,7 @@
 
 ### C03 - Emitir carteira nacional de vacinação
 | Número | Item | Resposta |
-| :--: | -- | :--: |
+| :--: | :--: | :--: |
 | 1 | O título está bem escrito?  | OK |
 | 2 | O objetivo é claro? | OK |
 | 3 | Dentro do contexto, há pré-condição? | OK |
@@ -69,7 +69,7 @@
 
 ### C04 - Emitir cartão do SUS
 | Número | Item | Resposta |
-| :--: | -- | :--: |
+| :--: | :--: | :--: |
 | 1 | O título está bem escrito?  | OK |
 | 2 | O objetivo é claro? | OK |
 | 3 | Dentro do contexto, há pré-condição? | OK |
@@ -85,7 +85,7 @@
 
 ### C05 - Realizar Logout
 | Número | Item | Resposta |
-| :--: | -- | :--: |
+| :--: | :--: | :--: |
 | 1 | O título está bem escrito?  | OK |
 | 2 | O objetivo é claro? | OK |
 | 3 | Dentro do contexto, há pré-condição? | OK |
@@ -101,7 +101,7 @@
 
 ### C06 - Ver resultados de exames
 | Número | Item | Resposta |
-| :--: | -- | :--: |
+| :--: | :--: | :--: |
 | 1 | O título está bem escrito?  | OK |
 | 2 | O objetivo é claro? | OK |
 | 3 | Dentro do contexto, há pré-condição? | OK |
@@ -117,7 +117,7 @@
 
 ### C07 - Adicionar contato de emergência
 | Número | Item | Resposta |
-| :--: | -- | :--: |
+| :--: | :--: | :--: |
 | 1 | O título está bem escrito?  | OK |
 | 2 | O objetivo é claro? | OK |
 | 3 | Dentro do contexto, há pré-condição? | OK |
@@ -133,7 +133,7 @@
 
 ### C08 - Mudar foto de perfil
 | Número | Item | Resposta |
-| :--: | -- | :--: |
+| :--: | :--: | :--: |
 | 1 | O título está bem escrito?  | OK |
 | 2 | O objetivo é claro? | OK |
 | 3 | Dentro do contexto, há pré-condição? | OK |
@@ -149,7 +149,7 @@
 
 ### C09 - Consultar medicamentos
 | Número | Item | Resposta |
-| :--: | -- | :--: |
+| :--: | :--: | :--: |
 | 1 | O título está bem escrito?  | OK |
 | 2 | O objetivo é claro? | OK |
 | 3 | Dentro do contexto, há pré-condição? | OK |
@@ -165,7 +165,7 @@
 
 ### C10 - Acompanhar ou tirar dúvidas da doação de sangue
 | Número | Item | Resposta |
-| :--: | -- | :--: |
+| :--: | :--: | :--: |
 | 1 | O título está bem escrito?  | OK |
 | 2 | O objetivo é claro? | OK |
 | 3 | Dentro do contexto, há pré-condição? | OK |

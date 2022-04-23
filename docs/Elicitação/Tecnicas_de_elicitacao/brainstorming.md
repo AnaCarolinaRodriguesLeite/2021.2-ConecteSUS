@@ -41,7 +41,7 @@
 
 
 | ID   | Requisitos                                                                         | Tipo de Requisitos |
-|:----:|------------------------------------------------------------------------------------|:------------------:|
+|:----:|:------------------------------------------------------------------------------------:|:------------------:|
 | BS1  | O usuário pode consultar o histórico de vacinas contra a COVID-19                  | RF                 |
 | BS2  | O usuário pode emitir o certificado de vacinação da COVID-19                       | RF                 |
 | BS3  | O usuário pode consultar o histórico de exames                                     | RF                 |

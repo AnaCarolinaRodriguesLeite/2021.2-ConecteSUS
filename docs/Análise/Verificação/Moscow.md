@@ -11,7 +11,7 @@ Este documento tem como objetivo verificar e detectar os erros no documento de M
 
 ### 3.1. Resultados
 |Número|Questão|MoSCow|
-|:-:|--|:-:|
+|:-:|:--:|:-:|
 |1|Técnica aplicada corretamente|OK|
 |2|Funcionalidade válidas|OK|
 |3|Texto claro e objetivo|OK|
@@ -39,6 +39,6 @@ Este documento tem como objetivo verificar e detectar os erros no documento de M
 ## Histórico de versão
 
 | Versão | Data       | Descrição                                           | Autor          | Revisor        |
-| ------ | ---------- | --------------------------------------------------- | -------------- | -------------- |
+| :------: | :----------: | :---------------------------------------------------: | :--------------: | :--------------: |
 | 0.1    | 19/03/2021 | Criação do documento                                | Daniel         | Ana Carolina   |
 | 0.2 | 22/04/2022 | Ajustes e correção da estrutura do documento | Ana Carolina | Ricardo  |

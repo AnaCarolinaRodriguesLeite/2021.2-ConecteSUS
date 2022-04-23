@@ -20,7 +20,7 @@
 ### 3.2. Resultados
 
 | Número | Item | Resposta |
-| :--: | -- | :--: |
+| :--: | :--: | :--: |
 | 1 | Épicos corretamente relacionados às histórias de usuário? | OK |
 | 2 | IDs referenciados corretamente? | OK |
 | 3 | Histórias de usuário contendo atores, ação e objetivos? | OK |

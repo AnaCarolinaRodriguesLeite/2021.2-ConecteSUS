@@ -21,7 +21,7 @@
 </p>
 
 | ID | Requisitos | 
-|--|--|
+|:--:|:--:|
 | RF 01 |	 O usuário deve poder visualizar informações gerais sem efetuar o login. |
 | RF 02 |	O usuário deve poder efetuar o login no gov.br com o cpf. |
 | RF 03 |	O usuário deve poder escolher outras opções de identificação para login. |
@@ -80,7 +80,7 @@
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autores | Revisor |
-|--------|------|-------------|---------|-----------|
+|:--------:|:------:|:-------------:|:---------:|:-----------:|
 | 0.1 | 15/02/2022 | Adicionando introdução | Erick | Gustave, Ricardo |
 | 0.2 | 16/02/2022 | Adicionando tabela de requisitos | Erick | Gustave, Ricardo|
 |    0.3   | 20/02/2022 |  Revisão  da v0.1 e v0.2 | Gustave, Ricardo | - |

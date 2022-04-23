@@ -112,7 +112,7 @@ Esse relacionamento é representado por uma seta tracejada com uma ponta de seta
 <center>
   
 |  UC01  | Informações                                                                 |
-| ------ | --------------------------------------------------------------------------- |
+| :------: | :---------------------------------------------------------------------------: |
 | Descrição | O usuário deve ser capaz de realizar um registro                         | 
 | Pré-Condições | Acesso à internet em um dispositivo válido                           | 
 | Autor | Usuário                                                                      | 
@@ -132,7 +132,7 @@ Esse relacionamento é representado por uma seta tracejada com uma ponta de seta
 <center>
   
 |  UC02  | Informações                                                                 |
-| ------ | --------------------------------------------------------------------------- |
+| :------: | :---------------------------------------------------------------------------: |
 | Descrição | O usuário deve ser capaz de consultar seus históricos                    | 
 | Pré-Condições | Acesso à internet e um cadastro no aplicativo                        | 
 | Autor | Usuário                                                                      | 
@@ -152,7 +152,7 @@ Esse relacionamento é representado por uma seta tracejada com uma ponta de seta
 <center>
 
 |  UC03  | Informações                                                                 |
-| ------ | --------------------------------------------------------------------------- |
+| :------ | :---------------------------------------------------------------------------: |
 | Descrição | O usuário deve ser capaz de consultar seus registros                     | 
 | Pré-Condições | Acesso à internet e um cadastro no aplicativo                        | 
 | Autor | Usuário                                                                      | 

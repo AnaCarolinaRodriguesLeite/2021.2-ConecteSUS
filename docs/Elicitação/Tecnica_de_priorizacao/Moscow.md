@@ -26,7 +26,7 @@
 #### 4.1 Requisitos Funcionais
 
 | ID    | Requisitos                                                                                            | MosCoW |
-| ----- | ----------------------------------------------------------------------------------------------------- | :----: |
+| :-----: | :-----------------------------------------------------------------------------------------------------: | :----: |
 | RF01 | O usuário deve poder visualizar informações gerais sem efetuar o login.                               | Could  |
 | RF02 | O usuário deve poder efetuar o login no gov.br com o cpf.                                              |  Must  |
 | RF03 | O usuário deve poder escolher outras opções de identificação para login.                              | Could  |
@@ -77,7 +77,7 @@
 #### 4.2 Requisitos Não Funcionais
 
 | ID     | Requisito                                                                   | MosCoW |
-| ------ | --------------------------------------------------------------------------- | :----: |
+| :------: | :---------------------------------------------------------------------------: | :----: |
 | RNF01 | O aplicativo não pode demorar muito para abrir.                             | Should |
 | RNF02 | O aplicativo não pode ficar indisponível.                                   |  Must  |
 | RNF03 | Os usuários devem conseguir encontrar a funcionalidade desejada rapidamente | Should |

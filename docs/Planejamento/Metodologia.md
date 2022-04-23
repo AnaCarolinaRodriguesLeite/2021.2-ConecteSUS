@@ -11,7 +11,7 @@
 <center>
 
 | Princípio               | Descrição                                                                                                                                                                                                                            |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| :-----------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Envolvimento do cliente | Os clientes devem ser envolvidos em todo o processo de desenvolvimento. Seu papel é fornecer e priorizar novos requisitos de sistema e avaliar as iterações do sistema.                                                              |
 | Acolher as mudanças     | Tenha em mente que os requisitos do sistema mudam e, portanto, deve-se projetar o sistema para acomodar essas mudanças.                                                                                                              |
 | Entrega incremental     | O software é desenvolvido em incrementos e o cliente especifica os requisitos incluídos em cada um deles.                                                                                                                            |
@@ -121,7 +121,7 @@ Devido à importância, caso o commit trate de algo mais complexo, use o seguint
 ## Histórico de versão
 
 | Versão | Data       | Descrição                                 | Autor        | Revisor  |
-| ------ | ---------- | ----------------------------------------- | ------------ | -------- |
+| :------: | :----------: | :-----------------------------------------: | :------------: | :--------: |
 | 0.1    | 08/02/2022 | Criação da primeira versão metodologia    | Ana Carolina | Ricardo  |
 | 0.2    | 08/02/2022 | Correção das imagens                      | Ana Carolina | Ricardo  |
 | 0.3    | 20/02/2022 |  Revisão  da v0.1 e v0.2                  | Ricardo      | -        |
