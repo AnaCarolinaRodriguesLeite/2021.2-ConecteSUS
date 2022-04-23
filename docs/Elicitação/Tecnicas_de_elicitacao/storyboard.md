@@ -254,3 +254,4 @@
 |    0.2   | 20/02/2022 |  Revisão  da v0.1| Ana Carolina e Erick | - |
 |    0.3   | 05/03/2022 |  Revisão  da v0.2| Daniel | Erick |
 |    0.4   | 19/04/2022 |  Corrigindo documento | Daniel | Erick |
+| 0.5 | 23/04/2022 | Revisão do documento | Erick | -  |

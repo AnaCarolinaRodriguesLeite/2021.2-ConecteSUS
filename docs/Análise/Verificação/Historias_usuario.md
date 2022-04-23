@@ -768,3 +768,4 @@
 | :--: | :--: | :--: | :--: | :--:  |
 | 0.1 | 22/03/2022  | Criação do documento de verificação de Histórias de Usuário | Ana Carolina | Ricardo |
 | 0.2 | 22/04/2022 | Ajustes e correção da estrutura do documento | Ana Carolina | Erick  |
+|  0.3   | 23/04/2022 | Revisão do documento | Erick | -  |

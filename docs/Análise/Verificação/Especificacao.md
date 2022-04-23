@@ -47,3 +47,4 @@
 | :--: | :--: | :--: | :--: | :--:  |
 | 0.1 | 23/03/2022  | Criação do documento de verificação da Especificação | Ricardo | Ana |
 | 0.2 | 22/04/2022 | Ajustes e correção da estrutura do documento | Ana Carolina | Erick  |
+|  0.3   | 23/04/2022 | Revisão do documento | Erick | -  |

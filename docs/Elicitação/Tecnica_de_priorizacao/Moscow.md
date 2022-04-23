@@ -85,7 +85,7 @@
 | RNF05 | O aplicativo deve apresentar persistência de login                          | Could  |
 
 ## 5. Conclusão 
-Portanto, a estipulação da priorização feita por cada requisito foram levantadas pelos integrantes  a partir das técnicas de elicitação feitas até o presente momento e disernindo o quão importante ele é para ser feita em primeira ou em última ocasião. Estão presentes neste documento com as devidas priorizações de cada requisito que se encontra em cada artefato.
+<p style="text-align: justify;">Portanto, a estipulação da priorização feita por cada requisito foram levantadas pelos integrantes  a partir das técnicas de elicitação feitas até o presente momento e disernindo o quão importante ele é para ser feita em primeira ou em última ocasião. Estão presentes neste documento com as devidas priorizações de cada requisito que se encontra em cada artefato.</p>
 
 ### Bibliografia
 
@@ -97,3 +97,4 @@ Portanto, a estipulação da priorização feita por cada requisito foram levant
 | :----: | :--------: | :-------------------------------: | :---: | :-----: |
 |  0.1   | 20/02/2022 | Criação e elaboração do documento | Todos |    -    |
 |  0.2   | 18/04/2022 | Correção: inclusão da conclusão e do espaçamento dos IDS | Ana Carolina |    Erick   |
+| 0.3 | 23/04/2022 | Revisão do documento | Erick | -  |

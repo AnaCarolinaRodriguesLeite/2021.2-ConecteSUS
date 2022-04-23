@@ -212,3 +212,4 @@
 |  0.2   | 20/02/2022 |   Revisão da v0.1    |             Erick Melo             |          -           |
 |  0.3   | 20/02/2022 |   Revisão da v0.2    |            Ana Carolina            |          -           |
 |    0.4   | 05/03/2022 |  Revisão  da v0.3| Daniel | Erick |
+| 0.5 | 23/04/2022 | Revisão do documento | Erick | -  |

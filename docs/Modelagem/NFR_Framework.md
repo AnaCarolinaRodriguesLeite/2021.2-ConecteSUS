@@ -228,7 +228,7 @@ SOME (+\|-) | Usado se o sinal da contribuição é conhecido, mas a extensão(p
 
 
 ## 6. Conclusão 
-Portanto, os diagramas de NFR Framework encontrados foram analisados e reconhecidos através dos requisitos esclarecidos e enlecados no documento de [Especificação suplementar](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/Especificacao_suplementar/), verificando em casa requisito o que poderia ser visto como uma exigência de implementar e desenvolver as principais qualidades e característas destes requisitos.
+<p style="text-align: justify;"> Portanto, os diagramas de NFR Framework encontrados foram analisados e reconhecidos através dos requisitos esclarecidos e enlecados no documento de [Especificação suplementar](https://requisitos-de-software.github.io/2021.2-ConecteSUS/Modelagem/Especificacao_suplementar/), verificando em casa requisito o que poderia ser visto como uma exigência de implementar e desenvolver as principais qualidades e característas destes requisitos.</p>
 
 ## Bibliografia
 
@@ -247,3 +247,4 @@ Portanto, os diagramas de NFR Framework encontrados foram analisados e reconheci
 |  0.1   | 08/03/2022 | Criação do documento: Introdução, Metodologia, Requisitos Funcionais, Legenda, Diagramas, Bibliografia | Ana Carolina | Erick |
 |  0.2   | 09/03/2022 | Revisão do documento | Erick | - |
 |  0.3   | 18/04/2022 | Correção: das tabelas e inserção da conclusão | Ana Carolina | Erick |
+| 0.4 | 23/04/2022 | Revisão do documento | Erick | -  |

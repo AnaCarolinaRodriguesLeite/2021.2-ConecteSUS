@@ -194,3 +194,4 @@
 | 0.1 | 22/03/2022  | Criação do documento de verificação de cenários | Ana Carolina | Daniel |
 | 0.2 | 18/04/2022  | Revisão v0.1 | Daniel | - |
 |  0.3   | 22/04/2022 | Ajustes e correção da estrutura do documento | Ana Carolina | Erick  |
+|  0.4   | 23/04/2022 | Revisão do documento | Erick | -  |
