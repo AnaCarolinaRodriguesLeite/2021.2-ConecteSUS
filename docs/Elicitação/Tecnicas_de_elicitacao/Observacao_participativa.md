@@ -4,14 +4,19 @@
 <p style="text-align: justify;"> A observação participativa é uma técnica de elicitação de requisitos em que o engenheiro de requisitos irá agir como um usuário do sistema para observar e entender as funcionalidades e necessidades e documentá-las.
 </p>
 
-## 2. Participantes
+## 2. Metodologia
+<p style="text-align: justify;"> Para a realização dessa técnica, o participante envolvido navegou pelo aplicativo ConecteSUS baixado em um android, com a finalidade de observar todas as atividades que o usuário poderia realizar no sistema.
+</p>
+
+
+## 3. Participantes
   <ul>
     <li> 
       Erick Melo
     </li>
   </ul>
 
-## 3. Resultados
+## 4. Resultados
 <p style="text-align: justify;"> O participante Erick Melo fez o cadastro no aplicativo ConecteSUS e após 2 dias de análise elicitou as seguintes funcionalidades:
 </p>
 
@@ -64,6 +69,10 @@
 | RF 45 |	O usuário deve poder fazer logout. |
 
 <center> <figcaption>Tabela 1: Requisitos funcionais.</figcaption> </center>
+
+## 5. Conclusão
+<p style="text-align: justify;"> Com a elaboração deste documento, é possível agora a realização de técnicas de priorização de requisitos, utilizando como base os requisitos levantados com a técnica apresentada.
+</p>
 
 ## Bibliografia
 
