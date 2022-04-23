@@ -84,3 +84,4 @@
 | 0.1 | 15/02/2022 | Adicionando introdução | Erick | Gustave, Ricardo |
 | 0.2 | 16/02/2022 | Adicionando tabela de requisitos | Erick | Gustave, Ricardo|
 |    0.3   | 20/02/2022 |  Revisão  da v0.1 e v0.2 | Gustave, Ricardo | - |
+|    0.4   | 23/04/2022 |  Corrigindo docuemnto| Erick | Daniel |
