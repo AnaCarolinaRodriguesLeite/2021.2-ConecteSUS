@@ -52,7 +52,7 @@ Definem como os atores e casos de uso interagem entre si e podem ser de 4 tipos:
 <li>	Incluir.
 </ul>
 
-#### 2.4.1. Generalização
+### 2.4.1. Generalização
 <p align = "justify">
 A generalização entre casos de uso é semelhante à generalização entre classes – o caso de uso filho herda as propriedades e o comportamento do caso de uso pai e pode substituir o comportamento do pai. Ela é representada como uma linha sólida direcionada, com uma grande ponta de seta triangular oca, do caso de uso mais específico para o caso de uso geral, como mostra o exemplo da Figura 2.
 </p>
@@ -62,7 +62,7 @@ A generalização entre casos de uso é semelhante à generalização entre clas
   <br><b>Figura 2: Exemplo de Generalização</b>
 </p>
 
-#### 2.4.2. Associações
+### 2.4.2. Associações
 <p align = "justify">
 Cada caso de uso representa uma unidade de funcionalidade útil que os sujeitos fornecem aos atores. Uma associação entre um ator e um caso de uso indica que o ator e o caso de uso de alguma forma interagem ou se comunicam, como mostra o exemplo da Figura 3.
 </p>
@@ -72,7 +72,7 @@ Cada caso de uso representa uma unidade de funcionalidade útil que os sujeitos 
   <br><b>Figura 3: Exemplo de Associação</b>
 </p>
 
-#### 2.4.3. Estender
+### 2.4.3. Estender
 <p align = "justify">
 Estender é um relacionamento direcionado que especifica como e quando o comportamento definido no caso de uso de extensão geralmente suplementar (opcional) pode ser inserido no comportamento definido no caso de uso estendido. Ele é representado como uma linha tracejada com uma ponta de seta aberta direcionada do caso de uso estendido para o caso de uso base. A seta é rotulada com a palavra-chave «extend», como mostra o exemplo da Figura 4.
 </p>
@@ -82,7 +82,7 @@ Estender é um relacionamento direcionado que especifica como e quando o comport
   <br><b>Figura 4: Exemplo de Estender</b>
 </p>
 
-#### 2.4.4. Incluir
+### 2.4.4. Incluir
 <p align = "justify">
 A inclusão de caso de uso é um relacionamento direcionado entre dois casos de uso que é usado para mostrar que o comportamento do caso de uso incluído (a adição) é inserido no comportamento do caso de uso base. A relação de incluir pode ser usada para:
 </p>
@@ -162,6 +162,11 @@ Esse relacionamento é representado por uma seta tracejada com uma ponta de seta
 
 </center>
 
+## 4. Conclusão
+<p align = "justify">
+Com base no conteúdo apresentado, é possível avaliar as atividades que o usuário pode realizar no sistema, bem como os seus fluxos. Portanto, isso permite a elaboração de documentos mais complexos como os de pós-rastreabilidade, a partir dos casos de uso levantados.
+</p>
+
 ## Bibliografia
 >SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 11;
 
@@ -173,4 +178,5 @@ Esse relacionamento é representado por uma seta tracejada com uma ponta de seta
 | :----: | :--------: | :----------------------------: | :------------: | :----------: |
 |  0.1   | 04/03/2022 |  Criação do documento     | Erick, Gustave | Ana Carolina |
 |  0.2   | 05/03/2022 |  Revisão do documento | Ana Carolina |   -    |
+|  0.3   | 23/04/2022 |  Corrigindo documento | Erick |  Gustave   |
 
