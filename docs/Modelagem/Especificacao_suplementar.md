@@ -107,27 +107,31 @@ Refere-se aos mais diversos requisitos sobre o Conecte SUS que ainda não foram 
 
 <center>
 
-| ID     | Requisito                                                                   | MosCoW |
-| :------ | :---------------------------------------------------------------------------: | :----: |
-| RNF 01 | O aplicativo não pode demorar muito para abrir.                             | Should |
-| RNF 02 | O aplicativo não pode ficar indisponível.                                   |  Must  |
+| ID     |                                  Requisito                                  | MosCoW |
+| :----- | :-------------------------------------------------------------------------: | :----: |
+| RNF 01 |               O aplicativo não pode demorar muito para abrir.               | Should |
+| RNF 02 |                  O aplicativo não pode ficar indisponível.                  |  Must  |
 | RNF 03 | Os usuários devem conseguir encontrar a funcionalidade desejada rapidamente | Should |
-| RNF 04 | O aplicativo deve proteger os dados dos usuários.                           |  Must  |
-| RNF 05 | O aplicativo deve apresentar persistência de login                          | Could  |
+| RNF 04 |              O aplicativo deve proteger os dados dos usuários.              |  Must  |
+| RNF 05 |             O aplicativo deve apresentar persistência de login              | Could  |
 
 </center>
 
 <center>
 
-| FURPS | Requisito  |
-| :---: | ---------- |
-|   F   | RNF5       |
-|   U   | RNF3       |
-|   R   | RNF4       |
-|   P   | RNF1, RNF2 |
-|   S   | RNF2       |
+| FURPS | Requisito   |
+| :---: | ----------- |
+|   F   | -           |
+|   U   | RNF3        |
+|   R   | RNF4        |
+|   P   | RNF1, RNF2  |
+|   S   | RNF2, RNF05 |
 
 </center>
+
+## 4. Conclusão
+
+<p style="text-align: justify;">De acordo com o objetivo inicial desse presente documento, pode-se considerar concluído a específicação suplementar dos requisitos não funcionais do Conecte SUS.</p>
 
 ## Bibliografia
 
@@ -139,4 +143,4 @@ Refere-se aos mais diversos requisitos sobre o Conecte SUS que ainda não foram 
 | Versão |    Data    |                   Descrição                   |     Autor      | Revisor |
 | :----: | :--------: | :-------------------------------------------: | :------------: | :-----: |
 |  0.1   | 04/03/2022 | Criação do documento com todas as informações | Gustave, Erick | Daniel  |
-|  0.2   | 06/03/2022 | Revisão | Daniel  | - |
+|  0.2   | 06/03/2022 |                    Revisão                    |     Daniel     |    -    |
