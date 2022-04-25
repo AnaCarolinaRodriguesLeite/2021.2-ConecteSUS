@@ -1,13 +1,13 @@
 ## Backlog
 
-### 1.Introdução
+## 1. Introdução
 
 <p align = "justify">Backlog é uma coleção de recursos de produtos desejados definidos definidos pelo product owner. Ele é construído de forma incremental, isso é, não precisa estar finalizado no inicio do projeto, ele pode começar com um conteúdo mais generalizado e ir acrescentando á medida que vai adquirindo mais conhecimento do produto
 <br><br>
 O Backlog visa detalhar as tarefas de forma que as histórias de usuários sejam implementadas de maneira mais fácil, definindo a prioridade de cada tarefa.</p>
 
+## 2. Tabela de Backlog
 
-### 2. Tabela de Backlog
 <br>
 
 <table>
@@ -219,11 +219,11 @@ O Backlog visa detalhar as tarefas de forma que as histórias de usuários sejam
 ## 3. Bibliografia
 
 > SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15; Disponível em https://aprender3.unb.br/mod/resource/view.php?id=451476
-<br>
+> <br>
 
 ## Histórico de Versão
 
-| Versão |    Data    |    Descrição                   |     Autor      |   Revisor    |
-| :----: | :--------: | :----------------------------: | :------------: | :----------: |
-|  0.1   | 09/03/2022 |  Criação do documento     | Ricardo | Daniel |
-|  0.2   | 09/03/2022 |  Revisão     | Daniel | - |
+| Versão |    Data    |      Descrição       |  Autor  | Revisor |
+| :----: | :--------: | :------------------: | :-----: | :-----: |
+|  0.1   | 09/03/2022 | Criação do documento | Ricardo | Daniel  |
+|  0.2   | 09/03/2022 |       Revisão        | Daniel  |    -    |
