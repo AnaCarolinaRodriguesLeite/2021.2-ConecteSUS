@@ -6,7 +6,13 @@
 <br><br>
 O Backlog visa detalhar as tarefas de forma que as histórias de usuários sejam implementadas de maneira mais fácil, definindo a prioridade de cada tarefa.</p>
 
-## 2. Tabela de Backlog
+## 2. Metodologia
+
+<p align = "justify">
+O presente documento tem como metodologia o levantamento das histórias de usuário em uma tabela, que será apresentada a seguir, ademais, serão interligadas também aos épicos e às features respectivas a cada história de usuário encontrada.
+</p>
+
+## 3. Tabela de Backlog
 
 <br>
 
@@ -216,10 +222,15 @@ O Backlog visa detalhar as tarefas de forma que as histórias de usuários sejam
     </tbody>
 </table>
 
-## 3. Bibliografia
+## 4. Conclusão
 
-> SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15; Disponível em https://aprender3.unb.br/mod/resource/view.php?id=451476
-> <br>
+<p align = "justify">
+De acordo com os objetivos desse presente documento, pode ser considerado concluída o levantamento das histórias de usuário denominado no backlog do produto, sendo, assim, um documento pronto para ser utilizado e consultado para futuras entregas.
+</p>
+
+## Bibliografia
+
+> SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15; Disponível em https://aprender3.unb.br/mod/resource/view.php?id=451476 > <br>
 
 ## Histórico de Versão
 
